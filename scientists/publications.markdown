@@ -30,7 +30,7 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
 ### <font size="6">JADES Science Papers</font>
 ----------
 
-#### JADES NIRSpec Spectroscopy of GN-z11: Lyman-$\\alpha$ emission and possible enhanced nitrogen abundance in a $z=10.60$ luminous galaxy
+#### JADES NIRSpec Spectroscopy of GN-z11: Lyman-alpha emission and possible enhanced nitrogen abundance in a z=10.60 luminous galaxy
 by Andrew J. Bunker, Aayush Saxena, Alex J. Cameron, Chris J. Willott, Emma Curtis-Lake, et al.  
 arXiv e-prints, arXiv:2302.07256 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230207256B) [arXiv](https://arxiv.org/abs/arXiv:2302.07256) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230207256B/exportcitation)  
@@ -45,12 +45,12 @@ by B. E. Robertson, S. Tacchella, B. D. Johnson, K. Hainline, L. Whitler, et al.
 Nature Astronomy, (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023NatAs.tmp...67R) [arXiv](https://arxiv.org/abs/arXiv:2212.04480) [BibTex](https://ui.adsabs.harvard.edu/abs/2023NatAs.tmp...67R/exportcitation)  
   
-#### JADES: Insights on the low-mass end of the mass--metallicity--star-formation rate relation at $3 < z < 10$ from deep JWST/NIRSpec spectroscopy
+#### JADES: Insights on the low-mass end of the mass--metallicity--star-formation rate relation at 3<z<10 from deep JWST/NIRSpec spectroscopy
 by Mirko Curti, Roberto Maiolino, Stefano Carniani, Francesco D'Eugenio, Jacopo Chevallard, et al.  
 arXiv e-prints, arXiv:2304.08516 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230408516C) [arXiv](https://arxiv.org/abs/arXiv:2304.08516) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230408516C/exportcitation)  
   
-#### JADES: Probing interstellar medium conditions at $z\\sim5.5-9.5$ with ultra-deep JWST/NIRSpec spectroscopy
+#### JADES: Probing interstellar medium conditions at z=5.5-9.5 with ultra-deep JWST/NIRSpec spectroscopy
 by Alex J. Cameron, Aayush Saxena, Andrew J. Bunker, Francesco D'Eugenio, Stefano Carniani, et al.  
 arXiv e-prints, arXiv:2302.04298 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230204298C) [arXiv](https://arxiv.org/abs/arXiv:2302.04298) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230204298C/exportcitation)  
@@ -80,7 +80,7 @@ by Aayush Saxena, Brant E. Robertson, Andrew J. Bunker, Ryan Endsley, Alex J. Ca
 arXiv e-prints, arXiv:2302.12805 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230212805S) [arXiv](https://arxiv.org/abs/arXiv:2302.12805) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230212805S/exportcitation)  
   
-#### The JWST Advanced Deep Extragalactic Survey: Discovery of an Extreme Galaxy Overdensity at $z = 5.4$ with JWST/NIRCam in GOODS-S 
+#### The JWST Advanced Deep Extragalactic Survey: Discovery of an Extreme Galaxy Overdensity at z = 5.4 with JWST/NIRCam in GOODS-S 
 by Jakob M. Helton, Fengwu Sun, Charity Woodrum, Kevin N. Hainline, Christopher N. A. Willmer, et al.  
 arXiv e-prints, arXiv:2302.10217 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230210217H) [arXiv](https://arxiv.org/abs/arXiv:2302.10217) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230210217H/exportcitation)  
