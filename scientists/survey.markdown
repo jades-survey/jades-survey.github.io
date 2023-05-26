@@ -20,7 +20,7 @@ The design features a mosaic of Medium-depth NIRCam imaging, on which we
 place a substantial amount of NIRSpec multi-shutter (MSA) spectroscopy. 
 The NIRCam parallels from this spectroscopy then extends the imaging footprint.
 
-![JADES GOODS-N](assets/images/jadesgoodsn_may2023_all.jpg)
+![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_all.jpg)
 
 The GOODS-S footprint is more complicated because in this field we also have 
 our Deep imaging and spectroscopy. This figure shows this with different 
@@ -31,7 +31,7 @@ is still under planning. The position angles of the year 2 multi-shutter spectro
 will depend on the assigned observing windows, and the exact locations will depend 
 on the identification of high-priority targets. These decisions in turn determine where the NIRCam parallels fall.
 
-![JADES GOODS-S](assets/images/jadesgoodss_may2023_all.jpg)
+![JADES GOODS-S](/assets/images/jadesgoodss_may2023_all.jpg)
 
 Most JADES NIRCam imaging uses 9 filters: F090W, F115W, F150W, F200W, F277W, F335M, F356W, 
 F410M, and F444W. The NIRCam Medium parallels add F070W as a 10th filter. Some of the 
