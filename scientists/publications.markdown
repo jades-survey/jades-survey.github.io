@@ -141,7 +141,7 @@ The Astrophysical Journal, 763, L7 (2013)
 [ADS](https://ui.adsabs.harvard.edu/abs/2013ApJ...763L...7E) [arXiv](https://arxiv.org/abs/arXiv:1211.6804) [BibTex](https://ui.adsabs.harvard.edu/abs/2013ApJ...763L...7E/exportcitation)  
   
 
-### Important papers about the JWST mission and instruments
+### <font size="6">Important papers about the JWST mission and instruments</font>
 ------------
 
 #### The James Webb Space Telescope Mission  
