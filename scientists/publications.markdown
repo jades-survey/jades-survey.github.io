@@ -124,6 +124,63 @@ Astronomy and Astrophysics, 670, A4 (2023)
 by Roland Bacon, Simon Conseil, David Mary, Jarle Brinchmann, Martin Shepherd, et al.  
 Astronomy and Astrophysics, 608, A1 (2017)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...1B) [arXiv](https://arxiv.org/abs/arXiv:1710.03002) [BibTex](https://ui.adsabs.harvard.edu/abs/2017A&A...608A...1B/exportcitation)  
+
+#### The Hubble Legacy Fields (HLF-GOODS-S) v1.5 Data Products: Combining 2442 Orbits of GOODS-S/CDF-S Region ACS and WFC3/IR Images**  
+by Garth Illingworth, Daniel Magee, Rychard Bouwens, Pascal Oesch, Ivo Labbe, et al.  
+arXiv e-prints, arXiv:1606.00841 (2016)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2016arXiv160600841I) [arXiv](https://arxiv.org/abs/arXiv:1606.00841) [BibTex](https://ui.adsabs.harvard.edu/abs/2016arXiv160600841I/exportcitation)  
   
-#### The Hubble Legacy Fields (HLF-GOODS-S) v1.5 Data Products: Combining 2442 Orbits of GOODS-S/CDF-S Region ACS and WFC3/IR Images...
+#### The HST eXtreme Deep Field (XDF): Combining All ACS and WFC3/IR Data on the HUDF Region into the Deepest Field Ever**  
+by G. D. Illingworth, D. Magee, P. A. Oesch, R. J. Bouwens, I. Labbé, et al.  
+The Astrophysical Journal Supplement Series, 209, 6 (2013)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2013ApJS..209....6I) [arXiv](https://arxiv.org/abs/arXiv:1305.1931) [BibTex](https://ui.adsabs.harvard.edu/abs/2013ApJS..209....6I/exportcitation)  
+  
+#### The Abundance of Star-forming Galaxies in the Redshift Range 8.5-12: New Results from the 2012 Hubble Ultra Deep Field Campaign 
+by Richard S. Ellis, Ross J. McLure, James S. Dunlop, Brant E. Robertson, Yoshiaki Ono, et al.  
+The Astrophysical Journal, 763, L7 (2013)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2013ApJ...763L...7E) [arXiv](https://arxiv.org/abs/arXiv:1211.6804) [BibTex](https://ui.adsabs.harvard.edu/abs/2013ApJ...763L...7E/exportcitation)  
+  
+
+### Important papers about the JWST mission and instruments
+------------
+
+#### The James Webb Space Telescope Mission  
+by Jonathan P. Gardner, John C. Mather, Randy Abbott, James S. Abell, Mark Abernathy, et al.  
+arXiv e-prints, arXiv:2304.04869 (2023)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230404869G) [arXiv](https://arxiv.org/abs/arXiv:2304.04869) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230404869G/exportcitation)  
+  
+#### The Science Performance of JWST as Characterized in Commissioning 
+by Jane Rigby, Marshall Perrin, Michael McElwain, Randy Kimble, Scott Friedman, et al.  
+Publications of the Astronomical Society of the Pacific, 135, 048001 (2023)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2023PASP..135d8001R) [arXiv](https://arxiv.org/abs/arXiv:2207.05632) [BibTex](https://ui.adsabs.harvard.edu/abs/2023PASP..135d8001R/exportcitation)  
+  
+#### Performance of NIRCam on JWST in Flight 
+by Marcia J. Rieke, Douglas M. Kelly, Karl Misselt, John Stansberry, Martha Boyer, et al.  
+Publications of the Astronomical Society of the Pacific, 135, 028001 (2023)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2023PASP..135b8001R) [arXiv](https://arxiv.org/abs/arXiv:2212.12069) [BibTex](https://ui.adsabs.harvard.edu/abs/2023PASP..135b8001R/exportcitation)  
+  
+#### The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope. I. Overview of the instrument and its capabilities 
+by P. Jakobsen, P. Ferruit, C. Alves de Oliveira, S. Arribas, G. Bagnasco, et al.  
+Astronomy and Astrophysics, 661, A80 (2022)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2022A&A...661A..80J) [arXiv](https://arxiv.org/abs/arXiv:2202.03305) [BibTex](https://ui.adsabs.harvard.edu/abs/2022A&A...661A..80J/exportcitation)  
+  
+#### The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope. II. Multi-object spectroscopy (MOS)  
+by P. Ferruit, P. Jakobsen, G. Giardino, T. Rawle, C. Alves de Oliveira, et al.  
+Astronomy and Astrophysics, 661, A81 (2022)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2022A&A...661A..81F) [arXiv](https://arxiv.org/abs/arXiv:2202.03306) [BibTex](https://ui.adsabs.harvard.edu/abs/2022A&A...661A..81F/exportcitation)  
+  
+#### The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope. V. Optimal algorithms for planning multi-object spectroscopic observations  
+by N. Bonaventura, P. Jakobsen, P. Ferruit, S. Arribas, and G. Giardino  
+Astronomy and Astrophysics, 672, A40 (2023)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2023A&A...672A..40B) [arXiv](https://arxiv.org/abs/arXiv:2302.10957) [BibTex](https://ui.adsabs.harvard.edu/abs/2023A&A...672A..40B/exportcitation)  
+  
+#### In-flight performance of the NIRSpec micro shutter array  
+by Timothy D. Rawle, Giovanna Giardino, David E. Franz, Robert Rapp, Maurice te Plate, et al.  
+Space Telescopes and Instrumentation 2022: Optical, Infrared, and Millimeter Wave, 12180, 121803R (2022)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2022SPIE12180E..3RR) [arXiv](https://arxiv.org/abs/arXiv:2208.04673) [BibTex](https://ui.adsabs.harvard.edu/abs/2022SPIE12180E..3RR/exportcitation)  
+  
+#### The Mid-infrared Instrument for JWST and Its In-flight Performance  
+by Gillian S. Wright, George H. Rieke, Alistair Glasse, Michael Ressler, Macarena García Marín, et al.  
+Publications of the Astronomical Society of the Pacific, 135, 048003 (2023)  
+[ADS](https://ui.adsabs.harvard.edu/abs/2023PASP..135d8003W) [arXiv](https://arxiv.org/abs/) [BibTex](https://ui.adsabs.harvard.edu/abs/2023PASP..135d8003W/exportcitation)
 
