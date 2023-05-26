@@ -8,6 +8,11 @@ toc_icon: star
 toc_sticky: true
 ---
 
+
+## JADES GOODS-S Cutout
+
+![JADES GOODS-S Cutout](/assets/images/jades-cutout.jpg)
+
 ## Cosmic Rose
 
 ![JADES Cosmic Rose](/assets/images/jades-cosmic-rose.png)
