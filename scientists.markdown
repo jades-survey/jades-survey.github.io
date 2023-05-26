@@ -9,6 +9,7 @@ feature_row:
     excerpt: "Information on the design of JADES"
   - title: "Publications"
     excerpt: "Scientific publications from the JADES team."
+    url: scientists/publications.html
 ---
 
 {% include feature_row %}
