@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Viewer"
+    url: /viewer/
+  - title: "News"
+    url: /news/
+  - title: "Team"
+    url: /team/
+  - title: "For Public"
+    url: /public/
+    children:
+    -   title: "Videos"
+        url: /public/videos.html
+    children:
+    -   title: "Gallery"
+        url: /public/gallery.html
+    children:
+    -   title: "For Teachers"
+        url: /public/for-teachers.html
+  - title: "For Scientists"
+    url: /scientists/
+    children:
+    -   title: "Survey"
+        url: /scientists/survey.html
