@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/jades-cutout.jpg
   actions:
     - label: "Learn More"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "/about/"
   caption: "Photo credit: [**JADES Collaboration**](https://jades-survey.github.io)"
 excerpt: "The JWST Advanced Deep Extragalactic Survey (JADES) is exploring the universe of high-redshift galaxies using the transformative opportunity of the James Webb Space Telescope."
 ---
