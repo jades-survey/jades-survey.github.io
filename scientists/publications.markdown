@@ -1,6 +1,6 @@
 ---
 layout: single
-title: JADES Publications
+title: JADES and Community Publications
 permalink: /scientists/publications.html
 toc: true
 toc_label: "Papers"
@@ -8,7 +8,8 @@ toc_icon: star
 ---
 
 
-### JADES Data Release and Technical Papers
+### <font size="6">JADES Data Release and Technical Papers</font>
+----------
 
 #### JADES Overview  
   
@@ -26,14 +27,15 @@ by Christina C. Williams, Emma Curtis-Lake, Kevin N. Hainline, Jacopo Chevallard
 The Astrophysical Journal Supplement Series, 236, 33 (2018)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...33W) [arXiv](https://arxiv.org/abs/arXiv:1802.05272) [BibTex](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...33W/exportcitation)  
   
-### JADES Science Papers
+### <font size="6">JADES Science Papers</font>
+----------
 
 #### JADES NIRSpec Spectroscopy of GN-z11: Lyman-$\\alpha$ emission and possible enhanced nitrogen abundance in a $z=10.60$ luminous galaxy
 by Andrew J. Bunker, Aayush Saxena, Alex J. Cameron, Chris J. Willott, Emma Curtis-Lake, et al.  
 arXiv e-prints, arXiv:2302.07256 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230207256B) [arXiv](https://arxiv.org/abs/arXiv:2302.07256) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230207256B/exportcitation)  
   
-#### Spectroscopic confirmation of four metal-poor galaxies at z = 10.3-13.2**  
+#### Spectroscopic confirmation of four metal-poor galaxies at z = 10.3-13.2  
 by Emma Curtis-Lake, Stefano Carniani, Alex Cameron, Stephane Charlot, Peter Jakobsen, et al.  
 Nature Astronomy, (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023NatAs.tmp...66C) [arXiv](https://arxiv.org/abs/arXiv:2212.04568) [BibTex](https://ui.adsabs.harvard.edu/abs/2023NatAs.tmp...66C/exportcitation)  
@@ -100,7 +102,8 @@ Transient Name Server AstroNote, 16, 1 (2023)
   
 ​ ​ ​
 
-### Community Papers and Datasets
+### <font size="6">Community Papers and Datasets</font>
+----------
 
 #### JEMS: A deep medium-band imaging survey in the Hubble Ultra-Deep Field with JWST NIRCam & NIRISS  
 by Christina C. Williams, Sandro Tacchella, Michael V. Maseda, Brant E. Robertson, Benjamin D. Johnson, et al.  
