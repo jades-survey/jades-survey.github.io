@@ -2,7 +2,13 @@
 layout: single
 title: Survey
 permalink: /scientists/survey.html
+toc: true
+toc_label: "Survey"
+toc_icon: star
+toc_sticky: true
 ---
+
+## Overview 
 
 The details of the JADES observing are described in 
 Eisenstein et al. (2023, URL); this paper will be 
@@ -15,12 +21,15 @@ the size of the GOODS-S program proved too big to schedule in year 1.
 About 40% of this program was observed in Sept 2022 to Jan 2023; we 
 plan that the rest will be observed in late 2023. The full GOODS-N program was observed in February to May 2023.
 
+## JADES GOODS-N
 Here we show the footprint of the GOODS-N observing. 
 The design features a mosaic of Medium-depth NIRCam imaging, on which we 
 place a substantial amount of NIRSpec multi-shutter (MSA) spectroscopy. 
 The NIRCam parallels from this spectroscopy then extends the imaging footprint.
 
 ![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_all.jpg)
+
+## JADES GOODS-S
 
 The GOODS-S footprint is more complicated because in this field we also have 
 our Deep imaging and spectroscopy. This figure shows this with different 
