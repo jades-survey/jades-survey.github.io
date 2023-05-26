@@ -1,6 +1,6 @@
 ---
 layout: single
 title: Data Access
-permalink: /scientists/data/
+permalink: /scientists/data.html
 ---
 

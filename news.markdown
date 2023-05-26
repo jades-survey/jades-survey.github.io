@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: News
 permalink: /news/
 ---
