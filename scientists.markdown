@@ -7,6 +7,7 @@ feature_row:
     excerpt: "How to access and download the JADES data."
   - title: "Survey Design"
     excerpt: "Information on the design of JADES"
+    url: scientists/survey.html
   - title: "Publications"
     excerpt: "Scientific publications from the JADES team."
     url: scientists/publications.html
