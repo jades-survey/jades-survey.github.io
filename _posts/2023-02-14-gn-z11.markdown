@@ -1,0 +1,33 @@
+---
+layout: single
+title:  "JADES Reveals a JWST view of GN-z11"
+date:   2023-02-14 12:00:00 -0700
+categories: high-redshift
+---
+
+In two papers, we present JADES data about the remarkable galaxy GN-z11.
+This is the most luminous z>10 galaxy candidate in the GOODS-N field, discovered
+originally with HST.  
+
+JADES spectroscopy presented in [Bunker et al. (2023)][Bunker] shows
+an amazing infrared NIRSpec spectrum for GN-z11, revealing at least
+a dozen emission lines and giving a secure redshift of z=10.60.
+Remarkably, we detect Lyman-alpha in emission, despite the expectation
+that the IGM should be highly neutral.  We also find unusual line
+ratios seemingly indicative of enhanced nitrogen abundance.
+
+![JADES GN-z11 Spectrum](/assets/images/GN-z11_allspec_1D_2D.png)
+
+JADES imaging presented in [Tacchella et al. (2023)][Tachella] detects GN-z11
+at high signal-to-noise ratio in seven filters, showing a classic dropout 
+spectral energy distribution.  The galaxy is quite compact, with half the
+light interior to 100 pc, yet it is not point-like.  In addition to the 
+mildly resolved core, there is a haze about 0.4" away that may or may not 
+be associated.  We also find that GN-z11 may sit in an overdensity with 
+nine other galaxies out to about 5 comoving Mpc away with photometric 
+redshifts consistent with z=10.6.
+
+![JADES GN-z11 Environment](/assets/images/cutout_5cMpc_radius_bf115w.png)
+
+[Bunker]: https://arxiv.org/abs/2302.07256
+[Tacchella]: https://arxiv.org/abs/2302.07254
