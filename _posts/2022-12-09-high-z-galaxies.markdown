@@ -2,6 +2,7 @@
 layout: single
 title:  "JADES Provides Spectroscopic Confirmation of Earliest Galaxies Yet"
 date:   2022-12-09 12:00:00 -0700
+author: JADES Collaboration
 categories: high-redshift
 ---
 
