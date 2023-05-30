@@ -2,6 +2,7 @@
 layout: single
 title:  "JADES Reveals a JWST view of GN-z11"
 date:   2023-02-14 12:00:00 -0700
+author: JADES Collaboration
 categories: high-redshift
 ---
 

@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+JADES Collaboration:
+  name        : "JADES Collaboration"
+  bio         : "JADES is a collaboration of the NIRCam and NIRSpec science teams."
+  avatar      : "/assets/images/team/fallback.jpg"
+  links:
+    - label: "Website"
+      url: "https://jades-survey.github.io"
