@@ -3,6 +3,7 @@ layout: single
 title:  "JADES Reveals a JWST view of GN-z11"
 date:   2023-02-14 12:00:00 -0700
 categories: high-redshift
+name: Daniel Eisenstein
 ---
 
 In two papers, we present JADES data about the remarkable galaxy GN-z11.
@@ -18,7 +19,7 @@ ratios seemingly indicative of enhanced nitrogen abundance.
 
 ![JADES GN-z11 Spectrum](/assets/images/GN-z11_allspec_1D_2D.png)
 
-JADES imaging presented in [Tacchella et al. (2023)][Tachella] detects GN-z11
+JADES imaging presented in [Tacchella et al. (2023)][Tacchella] detects GN-z11
 at high signal-to-noise ratio in seven filters, showing a classic dropout 
 spectral energy distribution.  The galaxy is quite compact, with half the
 light interior to 100 pc, yet it is not point-like.  In addition to the 
