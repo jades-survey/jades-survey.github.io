@@ -34,7 +34,7 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team/Erik_Raphael.jpg" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
-<td><a href="www.as.arizona.edu/~rehviding/">Raphael Erik Hviding</a></td>
+<td><a href="https://www.as.arizona.edu/~rehviding/">Raphael Erik Hviding</a></td>
 <td>University of Arizona</td>
 <td>NIRCam Extragalactic Science Team Member interested in Galaxy Evolution and Active Galactic Nuclei</td>
 </tr>
