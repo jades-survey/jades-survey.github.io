@@ -74,6 +74,11 @@ def main():
             "---",
             "",
             "",
+            '<img src="/assets/images/jades_team_arizona_oct_22.png"',
+            '          alt="JADES Team Members"',
+            '          style="float: left; margin-right: 10px;" />',
+            "",
+            "",
             "<div id=\"main\">",
             "<table>",
             "<tbody>",
@@ -85,7 +90,7 @@ def main():
     )
 
 
-    with open("team.markdown", "w") as f:
+    with open("../team.markdown", "w") as f:
         f.write(page_str)
     return html_rows, last
 
