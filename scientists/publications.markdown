@@ -19,7 +19,7 @@ to be submitted (2023)
 by Marcia Rieke et al.,
 to be submitted (2023)
 
-#### JADES: NIRSpec Deep/HST Data Release Redshifts and Line fluxes from the deepest Cycle 1 NIRSpec MSA Spectroscopy of the Hubble Ultra Deep Field
+#### JADES Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
 by Andrew Bunker et al.,
 to be submitted (2023)
   
@@ -72,7 +72,7 @@ to be submitted (2023)
 by Lester Sandles et al.,
 to be submitted (2023)
 
-#### JADES: Exploring the environments of Lyman-alpha emitting galaxies
+#### Exploring the environments of Lyman-alpha emitting galaxies in JADES and FRESCO
 by Joris Witstok et al.,
 to be submitted (2023)
 
