@@ -13,15 +13,15 @@ toc_icon: star
 
 #### Overview of the JWST Advanced Deep Extragalactic Survey (JADES)
 by Daniel J Eisenstein, Chris Willott et al.,
-submitted (2023)
+to be submitted (2023)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Revealing the Faint Infrared Sky with Deep JWST NIRCam Imaging
 by Marcia Rieke et al.,
-submitted (2023)
+to be submitted (2023)
 
 #### JADES: NIRSpec Deep/HST Data Release Redshifts and Line fluxes from the deepest Cycle 1 NIRSpec MSA Spectroscopy of the Hubble Ultra Deep Field
 by Andrew Bunker et al.,
-submitted (2023)
+to be submitted (2023)
   
 #### FitsMap: A simple, lightweight tool for displaying interactive astronomical image and catalog data
 by R. Hausen and B. E. Robertson  
