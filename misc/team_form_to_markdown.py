@@ -1,4 +1,5 @@
 import csv
+import numpy as np
 from collections import OrderedDict
 
 
@@ -12,7 +13,7 @@ def row_to_html(row: OrderedDict) -> str:
     # image
     html += "<td>" + PROFILE_IMAGE_HTML_TEMPLATE.format(
         firstname=row["Name"].split(" ")[0],
-        lastname=row["Name"].split(" ")[1],
+        lastname=row["Name"].split(" ")[-1],
     ) + "</td>\n"
 
     # name
@@ -39,11 +40,30 @@ def row_to_html(row: OrderedDict) -> str:
 
 
 
-
 def main():
+    names = []
+    html_rows = []
     with open(r"JADES Team Site Info.csv", "r") as f:
         reader = csv.DictReader(f)
-        markdown_rows = list(map(row_to_html, reader))
+        for r in reader:
+            name = r["Name"]
+            html = row_to_html(r)
+            names.append(name)
+            html_rows.append(html)
+
+    with open("jades_team_members_short.csv", "r") as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            name = r["Name"]
+            if name in names:
+                continue
+            html = row_to_html(r)
+            names.append(name)
+            html_rows.append(html)
+    last = [n.split(" ")[-1] for n in names]
+    #markdown_rows = [row[0] for row in sorted(zip(html_rows, last), key=lambda x: x[1])]
+    order = np.argsort(last)
+    markdown_rows = [html_rows[i] for i in order]
 
     page_str = "\n".join(
         [
@@ -52,6 +72,11 @@ def main():
             "title: Team",
             "permalink: /team/",
             "---",
+            "",
+            "",
+            '<img src="/assets/images/jades_team_arizona_oct_22.png"',
+            '          alt="JADES Team Members"',
+            '          style="float: left; margin-right: 10px;" />',
             "",
             "",
             "<div id=\"main\">",
@@ -65,8 +90,9 @@ def main():
     )
 
 
-    with open("team.markdown", "w") as f:
+    with open("../team.markdown", "w") as f:
         f.write(page_str)
+    return html_rows, last
 
 if __name__ == '__main__':
-    main()
+    html, names = main()
