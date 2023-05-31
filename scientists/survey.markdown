@@ -61,3 +61,27 @@ ondary deep field.
 
 Like many year 1 programs, JADES has had to be adaptable to respond to operational hiccups with the telescope and instruments. These are described in Eisenstein et al. (2023), but contribute to some of the irregularities in the footprint pattern.
 
+## JADES Footprint in Context
+
+The GOODS fields have benefitted from extensive investment from many, many
+other observing programs across the electromagnetic spectrum.  We can't list 
+them all!  But to put our footprints in a geometrical context, we here show 
+a few notable examples from HST and JWST.
+
+These images show the location of the deep HST data from CANDELS and then the
+very deep data from the Hubble Deep Field and Hubble Ultra Deep Field.  We 
+then show the footprint of the 
+First Reionization Epoch Spectroscopic Complete 
+(FRESCO) program (PI: Oesch, program 1895), which is providing exquisite 
+JWST NIRCam grism spectroscopy of both fields.
+In GOODS-S, we also show the JWST Extragalactic Medium-band Survey 
+(JEMS; PIs: Williams, Tacchella, \& Maseda; Program 1963), which is
+providing deep imaging in 5 medium-bands not in JADES,
+and the Next Generation Deep Extragalactic Exploratory Public survey 
+(NGDEEP, PI: Finkelstein, Program 2079), which produced a very deep 
+parallel field of NIRCam imaging just south of JADES.  The NGDEEP 
+primary program is deep JWST/NIRISS slitless spectroscopy in the HUDF;
+that footprint isn't shown here.
+
+![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_nc_ncp_others.pdf)
+![JADES GOODS-S](/assets/images/jadesgoodss_may2023_nc_ncp_others.pdf)
