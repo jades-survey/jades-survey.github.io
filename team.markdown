@@ -47,14 +47,14 @@ permalink: /team/
 </tr>
 
 <tr>
-<td><img src="/assets/images/team/Hainline_Kevin.jpg" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
+<td><img src="/assets/images/team/Hainline_Kevin.png" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
 <td><a href="http://mips.as.arizona.edu/~khainline/">Kevin Hainline</a></td>
 <td>Steward Observatory, The University of Arizona</td>
 <td>Kevin Hainline is a member of the NIRCam Science Team, and he explores galaxy photometric redshifts as well as the properties of active galactic nuclei.</td>
 </tr>
 
 <tr>
-<td><img src="/assets/images/team/Tacchella_Sandro.jpg" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
+<td><img src="/assets/images/team/Tacchella_Sandro.png" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
 <td><a href="https://www.tacchella.space/">Sandro Tacchella</a></td>
 <td>University of Cambridge</td>
 <td>I am studying the physics that govern the formation of the first galaxies in the early universe, the buildup of the bulge and disk components in galaxies, and the cessation of star formation in massive galaxies.</td>
@@ -82,7 +82,7 @@ permalink: /team/
 </tr>
 
 <tr>
-<td><img src="/assets/images/team/Witstok_Joris.jpg" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
+<td><img src="/assets/images/team/Witstok_Joris.png" onerror="this.src='/assets/images/team/fallback.jpg'"></td>
 <td><a href="https://joriswitstok.com">Joris Witstok</a></td>
 <td>Kavli Institute for Cosmology, University of Cambridge</td>
 <td>Joris Witstok is part of the NIRSpec Science Team. His interests include the formation of the earliest galaxies, how they build up the first metals and dust, and their connection to Cosmic Reionization.</td>
