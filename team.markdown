@@ -4,6 +4,9 @@ title: Team
 permalink: /team/
 ---
 
+<img src="/assets/images/jades_team_arizona_oct_22.png"
+     alt="JADES Team Members"
+     style="float: left; margin-right: 10px;" />
 
 <div id="main">
 <table>
