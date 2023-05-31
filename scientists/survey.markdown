@@ -68,14 +68,15 @@ other observing programs across the electromagnetic spectrum.  We can't list
 them all!  But to put our footprints in a geometrical context, we here show 
 a few notable examples from HST and JWST.
 
-These images show the location of the deep HST data from CANDELS and then the
+These images show location of the JADES NIRCam data relative to 
+the locations of the deep HST data from CANDELS and the
 very deep data from the Hubble Deep Field and Hubble Ultra Deep Field.  We 
 then show the footprint of the 
 First Reionization Epoch Spectroscopic Complete 
 (FRESCO) program (PI: Oesch, program 1895), which is providing exquisite 
 JWST NIRCam grism spectroscopy of both fields.
 In GOODS-S, we also show the JWST Extragalactic Medium-band Survey 
-(JEMS; PIs: Williams, Tacchella, \& Maseda; Program 1963), which is
+(JEMS; PIs: Williams, Tacchella, & Maseda; Program 1963), which is
 providing deep imaging in 5 medium-bands not in JADES,
 and the Next Generation Deep Extragalactic Exploratory Public survey 
 (NGDEEP, PI: Finkelstein, Program 2079), which produced a very deep 
