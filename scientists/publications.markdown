@@ -76,10 +76,6 @@ to be submitted (2023)
 by Joris Witstok et al.,
 to be submitted (2023)
 
-#### JADES: Rest-frame Optical and Near-Infrared Size Evolution of Massive Quiescent Galaxies from Redshift z=5 to z=0.5
-by Zhiyuan Ji et al.,
-to be submitted (2023)
-
 
 #### JADES + JEMS: A Detailed Look at the Buildup of Central Stellar Cores and Suppression of Star Formation in Galaxies at Redshift 3<z<4.5
 by Zhiyuan Ji, Christina C. Williams, Sandro Tacchella, Katherine A. Suess, William M. Baker, et al.,
