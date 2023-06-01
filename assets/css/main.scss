@@ -8,12 +8,12 @@ $link-color: #33658A;
 $masthead-link-color: #0f9862;
 
 .site-title::before {
-	content: url("../images/JADES_horizontal_greens_onwhite_small.png");
-    display: inline-block;
+	content: url("../images/JADES_horizontal_greens_onwhite.svg");
+	display: inline-block;
 	position: relative;
-	width: 100%;
-	top: 10px;
-	padding-right:60px;
+    transform: scale(0.6);
+	top: 0px;
+	padding-right:10px;
 }
 
 h1 {
