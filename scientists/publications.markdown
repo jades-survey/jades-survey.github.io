@@ -68,7 +68,7 @@ to be submitted (2023)
 by Ryan Endsley et al.,
 to be submitted (2023)
 
-#### Balmer Decrement Scaling Relations at Cosmic Dawn with JADES
+#### JADES: Balmer Decrement Scaling Relations at Cosmic Dawn
 by Lester Sandles et al.,
 to be submitted (2023)
 
