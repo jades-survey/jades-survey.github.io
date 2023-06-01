@@ -3,7 +3,7 @@ import numpy as np
 from collections import OrderedDict
 
 
-PROFILE_IMAGE_HTML_TEMPLATE = "<img src=\"/assets/images/team/{lastname}_{firstname}.jpg\" onerror=\"this.src='/assets/images/team/fallback.jpg'\">"
+PROFILE_IMAGE_HTML_TEMPLATE = "<img src=\"/assets/images/team_resized/{lastname}_{firstname}.jpg\" onerror=\"this.src='/assets/images/team_resized/fallback.jpg'\">"
 PROFILE_NAME_HTML_TEMPLATE = "<a href=\"{url}\">{name}</a>"
 
 
