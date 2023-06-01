@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Team
 permalink: /team/
 ---
@@ -12,6 +12,13 @@ permalink: /team/
 
 <div id="main">
 <table>
+<colgroup>
+    <col span="1" class="col-img">
+    <col span="1" class="col-name">
+    <col span="1" class="col-inst">
+    <col span="1" class="col-bio">
+</colgroup>
+
 <tbody>
 <tr>
 <td><img src="/assets/images/team/Alberts_Stacey.jpg" onerror="this.src='/assets/images/team/fallback.jpg'"></td>

@@ -9,7 +9,7 @@ $masthead-link-color: #0f9862;
 
 .site-title::before {
 	content: url("../images/JADES_horizontal_greens_onwhite_small.png");
-	display: inline-block;
+    display: inline-block;
 	position: relative;
 	width: 100%;
 	top: 10px;
@@ -19,6 +19,53 @@ $masthead-link-color: #0f9862;
 h1 {
     color: #0D5536;
 }
+
+
+// responsive tables ===========================================================
+.col-img {
+    width: 20%;
+}
+
+.col-name {
+    width: 10%;
+}
+
+.col-inst {
+    width: 10%;
+}
+
+col:nth-child(4) {
+    visibility: visible;
+}
+.col-bio {
+    width: 60%;
+}
+
+@media all and (max-width: 465px) {
+    .col-img {
+        width: 33%;
+    }
+
+    .col-name {
+        width: 33%;
+    }
+
+    .col-inst {
+        width: 33%;
+    }
+
+    .col-bio {
+        width: 1%;
+    }
+    table tr th:nth-child(4),
+    table tr td:nth-child(4){
+        visibility: collapse;
+        display: none;
+        // display: none;
+    }
+}
+// responsive tables ===========================================================
+
 
 .site-title {
     font-size: 0px;
