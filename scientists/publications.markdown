@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_short_toc
 title: JADES and Community Publications
 permalink: /scientists/publications.html
 toc: true

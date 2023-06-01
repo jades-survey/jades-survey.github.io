@@ -8,14 +8,19 @@ $link-color: #33658A;
 $masthead-link-color: #0f9862;
 
 .site-title::before {
-	content: url("../images/JADES_horizontal_greens_onwhite.svg");
-	display: inline-block;
-	position: relative;
-    transform: scale(0.6);
-	top: 0px;
-	padding-right:10px;
-}
+    content: "";
+    display: inline-block;
+    position: relative;
+    height:100px;
+    width:200px;
 
+    background-image: url("../images/JADES_horizontal_greens_onwhite.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 0;
+    padding-left: 250px;
+}
 
 h1 {
     color: #0D5536;
@@ -77,23 +82,19 @@ col:nth-child(4) {
     position: relative;
 }
 
-@media (max-width: 600px) {
-	.site-title::before {
-        display: fixed;
-        left:-100px;
-		transform: scale(0.4); /* Adjust the scale value as needed */
-        padding-left:-500px;
-	}
 
-    // .site-title {
-    //     font-size: 0px;
-    //     line-height: 0.5;
-    //     padding: 0px 0 0px;
-    //     text-align:right;
-    //     vertical-align: middle;
-    //     position: relative;
-    // }
+@media (max-width: 600px) {
+    .site-title::before {
+        content: "";
+        display: inline-block;
+        position: relative;
+        height:70px;
+        width:150px;
+        padding-left: 100px;
+    }
 }
+
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
