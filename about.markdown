@@ -31,7 +31,7 @@ around the Hubble Ultra Deep Field, is now available.
 
 ### Acknowledgements
 
-The JADES team acknowledges support from JWST/NIRCam contract to the University of Arizona NAS5-02015.  This project made use of lux supercomputer at UC Santa Cruz, funded by NSF MRI grant AST 1828315.
+The JADES Collaboration thanks the Instrument Development Teams and the instrument teams at the European Space Agency and the Space Telescope Science Institute for the support that made this program possible. We also thank our program coordinators at STScI for their help in planning complicated parallel observations. The JADES Collaboration acknowledges support from JWST/NIRCam contract to the University of Arizona NAS5-02015.  This project made use of lux supercomputer at UC Santa Cruz, funded by NSF MRI grant AST 1828315.
 
 [//]: # This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
