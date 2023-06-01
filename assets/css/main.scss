@@ -16,6 +16,7 @@ $masthead-link-color: #0f9862;
 	padding-right:10px;
 }
 
+
 h1 {
     color: #0D5536;
 }
@@ -76,6 +77,23 @@ col:nth-child(4) {
     position: relative;
 }
 
+@media (max-width: 600px) {
+	.site-title::before {
+        display: fixed;
+        left:-100px;
+		transform: scale(0.4); /* Adjust the scale value as needed */
+        padding-left:-500px;
+	}
+
+    // .site-title {
+    //     font-size: 0px;
+    //     line-height: 0.5;
+    //     padding: 0px 0 0px;
+    //     text-align:right;
+    //     vertical-align: middle;
+    //     position: relative;
+    // }
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
