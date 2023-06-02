@@ -84,5 +84,5 @@ parallel field of NIRCam imaging just south of JADES.  The NGDEEP
 primary program is deep JWST/NIRISS slitless spectroscopy in the HUDF;
 that footprint isn't shown here.
 
-![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_nc_ncp_others.png)
-![JADES GOODS-S](/assets/images/jadesgoodss_may2023_nc_ncp_others.png)
+![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_nc_ncp_others.jpg)
+![JADES GOODS-S](/assets/images/jadesgoodss_may2023_nc_ncp_others.jpg)
