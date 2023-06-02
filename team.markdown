@@ -22,7 +22,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Alberts_Stacey.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.staceyalberts.com/">Stacey Alberts</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Stacey Alberts is a member of the MIRI instrument and MIRI and NIRCam science teams.  She studies dust-obscured star formation and AGN activity across different environments and across cosmic time.</td>
 </tr>
 
@@ -57,7 +57,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Bonaventura_Nina.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://bold.pro/my/nina-bonaventura">Nina Bonaventura</a></td>
-<td>University of Arizona</td>
+<td>Steward Observatory at the Unversity of Arizona</td>
 <td>Nina Bonaventura is affiliated with the NIRSpec, NIRCam, and MIRI Science Teams, with interests including scientific algorithm and software development, and the study of AGN and cluster galaxies throughout cosmic time.</td>
 </tr>
 
@@ -77,9 +77,9 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Bunker_Andrew.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td>Andrew J. Bunker</td>
+<td><a href="https://www.physics.ox.ac.uk/our-people/bunker">Andrew J. Bunker</a></td>
 <td>University of Oxford</td>
-<td></td>
+<td>Andy is a member of the NIRSpec Instrument Science Team, and studies the most distant galaxies. He led the first study of the Hubble Ultra Deep Field, finding candidate galaxies within the first billion years of the Big Bang. Now, 20 year later, NIRSpec on JWST is confirming these with spectroscopy.</td>
 </tr>
 
 <tr>
@@ -92,21 +92,21 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Carniani_Stefano.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://stefanocarniani.wixsite.com/website">Stefano Carniani</a></td>
-<td>Scuola Normale Superiore (Pisa)</td>
+<td>Scuola Normale Superiore, Pisa, Italy</td>
 <td>Stefano Carniani is affiliated with the NIRSpec Science Team, and his research focuses on galaxy formation and evolution across the cosmic epoch, aiming at constraining the mechanisms that regulate star formation in galaxies </td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Charlot_Stephane.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="https://cosmicdawn.dk">Stephane Charlot</a></td>
-<td>Institut d'Astrophysique de Paris</td>
-<td>I am affiliated with the NIRSpec GTO team and served as the ESA NIRSpec Project Scientist 1997-2011 during the design and construction phases of the instrument.</td>
+<td>Stephane Charlot</td>
+<td>Institut d'Astrophysique de Paris (CNRS/Sorbonne Université)</td>
+<td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Chen_Zuyi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Zuyi Chen</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -140,7 +140,7 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/D'Eugenio_Francesco.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="fdeugenio.github.io/">Francesco D'Eugenio</a></td>
+<td><a href="https://fdeugenio.github.io/">Francesco D'Eugenio</a></td>
 <td>University of Cambridge</td>
 <td>Francesco D'Eugenio is affiliated with the NIRSpec GTO Team. His interests include galaxy formation and evolution and quenching.</td>
 </tr>
@@ -155,7 +155,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/DeCoursey_Christa.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Christa DeCoursey</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -169,7 +169,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Egami_Eiichi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Eiichi Egami</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Eiichi Egami is a member of the NIRCam instrument and science teams.  His interests include studies of high-redshift galaxies with NIRCam/Grism WFSS and survey for transients. </td>
 </tr>
 
@@ -217,8 +217,8 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Hainline_Kevin.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://mips.as.arizona.edu/~khainline/">Kevin Hainline</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://mips.as.arizona.edu/~khainline/">Kevin Hainline</a></td>
+<td>Steward Observatory, The University of Arizona</td>
 <td>Kevin Hainline is a member of the NIRCam Science Team, and he explores galaxy photometric redshifts as well as the properties of active galactic nuclei.</td>
 </tr>
 
@@ -232,35 +232,35 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Helton_Jakob.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://jakobhelton.github.io/">Jakob Helton</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Jakob Helton is affiliated with the NIRCam Science Team, with interests in understanding the formation and evolution of high-redshift galaxies and galaxy clusters.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Hviding_Raphael.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="www.as.arizona.edu/~rehviding/">Raphael Erik Hviding</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://www.as.arizona.edu/~rehviding/">Raphael Erik Hviding</a></td>
+<td>University of Arizona</td>
 <td>NIRCam Extragalactic Science Team Member interested in Galaxy Evolution and Active Galactic Nuclei</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Jakobsen_Peter.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="https://www.robertomaiolino.net">Peter Jakobsen</a></td>
+<td><a href="https://cosmicdawn.dk">Peter Jakobsen</a></td>
 <td>DAWN/University of Copenhagen</td>
-<td>Member of the NIRSpec Instrument Science Team and of the JWST Science Working Group. Coordinator of the Data Analysis Working Group.</td>
+<td>I am affiliated with the NIRSpec GTO team and served as the ESA NIRSpec Project Scientist 1997-2011 during the design and construction phases of the instrument.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Ji_Zhiyuan.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Zhiyuan Ji</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Zhiyuan Ji is affiliated with the NIRCam Science Team, and his interests include understanding the stellar-population and structural properties of distant galaxies. </td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Johnson_Benjamin.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.cfa.harvard.edu/people/benjamin-johnson">Benjamin Johnson</a></td>
-<td>Harvard University</td>
+<td>Center for Astrophysics | Harvard & Smithsonian</td>
 <td>NIRCam Extragalactic Science Team member working on galaxy image modeling and SED modeling, with interest in the star-formation histories of galaxies.</td>
 </tr>
 
@@ -273,7 +273,7 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Kumari_Nimisha.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td>Nimisha Kumari</td>
+<td><a href="https://sites.google.com/view/nimishakumari/home">Nimisha Kumari</a></td>
 <td>AURA/ESA/STScI</td>
 <td>Nimisha Kumari is part of NIRSpec Science and Instrument teams. Her research is driven by questions related to the chemical evolution of the Universe.</td>
 </tr>
@@ -288,7 +288,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Looser_Tobias.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Tobias J. Looser</td>
-<td>University of Cambridge</td>
+<td>University of Cambridge, Kavli Institute for Cosmology</td>
 <td>Tobias J. Looser is a member of the NIRSpec Science Team, and his research interests lie in studying galaxy formation and evolution in the early stages of the Universe's history, with a special focus on understanding galaxy burstiness and quenching during these epochs.</td>
 </tr>
 
@@ -302,15 +302,15 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Lyu_Jianwei.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Jianwei Lyu</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Maiolino_Roberto.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td>Roberto Maiolino</td>
+<td><a href="https://www.robertomaiolino.net">Roberto Maiolino</a></td>
 <td>University of Cambridge</td>
-<td></td>
+<td>Member of the NIRSpec Instrument Science Team and of the JWST Science Working Group. Coordinator of the Data Analysis Working Group.</td>
 </tr>
 
 <tr>
@@ -329,9 +329,9 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Nelson_Erica.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td>Erica Nelson</td>
+<td><a href="https://www.ericajnelson.com/">Erica Nelson</a></td>
 <td>University of Colorado</td>
-<td></td>
+<td>Erica Nelson is affiliated with the NIRCam Science Team. She is interested in the weird and wonderful early universe.</td>
 </tr>
 
 <tr>
@@ -351,14 +351,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Pino_Bruno.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Bruno Rodríguez Del Pino</td>
-<td>Centro de Astrobiologia CSIC-INTA</td>
+<td>entro de Astrobiología (CSIC-INTA), Madrid, Spain</td>
 <td>Bruno Rodríguez Del Pino is associated to the NIRSpec GTO team and his research focuses on the characterization of the interstellar medium in galaxies at early times. </td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Puskás_Dávid.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.kicc.cam.ac.uk/staff/david-puskas">Dávid Puskás</a></td>
-<td>University of Cambridge</td>
+<td>Kavli Institute for Cosmology, University of Cambridge</td>
 <td>David Puskas is affiliated with the NIRCam Science Team, and his interests include galaxy formation and evolution, particularly understanding the merger history of galaxies at different cosmic epochs.</td>
 </tr>
 
@@ -372,14 +372,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Rieke_George.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>George Rieke</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Rieke_Marcia.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.as.arizona.edu/people/faculty/marcia-j-rieke">Marcia Rieke</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>I am the NIRCam Principal Investigator and have been studying distant galaxies in the IR since the 1980s.</td>
 </tr>
 
@@ -393,7 +393,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Robertson_Brant.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://robertson.sites.ucsc.edu/">Brant Robertson</a></td>
-<td>UC Santa Cruz</td>
+<td>University of California, Santa Cruz</td>
 <td>Brant Robertson is affiliated with the NIRCam Science Team and serves on the JADES Steering Committee. His interests include understanding the formation and evolution of distant galaxies during the epoch of reionization.</td>
 </tr>
 
@@ -421,14 +421,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Scholtz_Jan.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Jan Scholtz</td>
-<td>University of Cambridge</td>
+<td>KICC, Cambridge</td>
 <td>Jan Scholtz is in the NIRSpec science team focusing on the supermasive black holes and exploring the effect of AGN feedback on galaxy evolution.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Shivaei_Irene.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Irene Shivaei</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -441,9 +441,9 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Simmonds_Charlotte.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td>Charlotte Simmonds</td>
+<td><a href="https://www.kicc.cam.ac.uk/staff/dr-charlotte-simmonds">Charlotte Simmonds</a></td>
 <td>University of Cambridge</td>
-<td></td>
+<td>Charlotte Simmonds is affiliated with the NIRCam Science Team, and her interests include understanding the galaxies responsible for reionizing the universe.</td>
 </tr>
 
 <tr>
@@ -456,7 +456,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Stark_Daniel.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Daniel Stark</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -469,8 +469,8 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Sun_Fengwu.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://gxn.as.arizona.edu/~sunfengwu/home/">Fengwu Sun</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://gxn.as.arizona.edu/~sunfengwu/home/">Fengwu Sun</a></td>
+<td>University of Arizona</td>
 <td>Fengwu Sun is a member of the NIRCam science team with the expertise on dusty star-forming galaxies and NIRCam grism spectroscopy.</td>
 </tr>
 
@@ -484,14 +484,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Tang_Mengtao.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Mengtao Tang</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Mengtao Tang is interested in understanding the physical properties of distant galaxies and their impact on the cosmic reionization.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Topping_Michael.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://mwtopping.github.io/">Michael Topping</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Michael Topping is affiliated with the NIRCam Science Team, and is primarily interested in galaxy evolution, and the physical conditions within the earliest galaxies.  </td>
 </tr>
 
@@ -505,7 +505,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Venturi_Giacomo.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Giacomo Venturi</td>
-<td>Scuola Normale Superiore (Pisa)</td>
+<td>Scuola Normale Superiore, Pisa, Italy</td>
 <td>Giacomo Venturi is affiliated with the NIRSpec Science Team and his interest include the evolution of distant galaxies and the role supermassive black holes played in shaping it.</td>
 </tr>
 
@@ -519,41 +519,41 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Whitler_Lily.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://astro.lilywhitler.com/">Lily Whitler</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Lily Whitler is affiliated with the NIRCam science team. Her scientific interests lie in galaxy formation and evolution within the first billion years of cosmic time.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Williams_Christina.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://mips.as.arizona.edu/~cwilliams/cv.html">Christina Williams</a></td>
-<td>NSF's NOIRLab</td>
+<td><a href="https://mips.as.arizona.edu/~cwilliams/cv.html">Christina Williams</a></td>
+<td>National Optical Infrared Astronomy Research Lab (NOIRLab)</td>
 <td>Christina Williams is a member of both the NIRCam instrument and science teams. Her research interests focus on massive galaxy evolution and why galaxies stop forming stars, and she has supported NIRCam testing and commissioning for the JWST mission since 2014. </td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Willmer_Christopher.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://mips.as.arizona.edu/~cnaw/">Christopher Willmer</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://mips.as.arizona.edu/~cnaw/">Christopher Willmer</a></td>
+<td>Steward Observatory, University of Arizona</td>
 <td>Member of the NIRCam Instrument Team at the University of Arizona, with broad interest in Extragalactic Astrophysics.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Willott_Chris.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Chris Willott</td>
-<td>NRC Herzberg</td>
+<td>NRC Herzberg, Victoria, Canada</td>
 <td>Chris Willott is the Canadian JWST Project Scientist and a member of the NIRSpec Instrument Science Team. He is interested in the early evolution of galaxies and their supermassive black holes.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Witstok_Joris.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://joriswitstok.com">Joris Witstok</a></td>
-<td>University of Cambridge</td>
+<td>Kavli Institute for Cosmology, University of Cambridge</td>
 <td>Joris Witstok is part of the NIRSpec Science Team. His interests include the formation of the earliest galaxies, how they build up the first metals and dust, and their connection to Cosmic Reionization.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Woodrum_Charity.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="www.charitywoodrum.com">Charity Woodrum</a></td>
+<td><a href="https://www.charitywoodrum.com">Charity Woodrum</a></td>
 <td>University of Arizona</td>
 <td>Charity Woodrum is a NIRCam Extragalactic Science Team member and her research interests focus on galaxy evolution and why galaxies stop forming stars.</td>
 </tr>
