@@ -22,7 +22,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Alberts_Stacey.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.staceyalberts.com/">Stacey Alberts</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Stacey Alberts is a member of the MIRI instrument and MIRI and NIRCam science teams.  She studies dust-obscured star formation and AGN activity across different environments and across cosmic time.</td>
 </tr>
 
@@ -98,15 +98,15 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Charlot_Stephane.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="https://cosmicdawn.dk">Stephane Charlot</a></td>
+<td>Stephane Charlot</td>
 <td>Institut d'Astrophysique de Paris</td>
-<td>I am affiliated with the NIRSpec GTO team and served as the ESA NIRSpec Project Scientist 1997-2011 during the design and construction phases of the instrument.</td>
+<td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Chen_Zuyi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Zuyi Chen</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -140,7 +140,7 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/D'Eugenio_Francesco.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="fdeugenio.github.io/">Francesco D'Eugenio</a></td>
+<td><a href="https://fdeugenio.github.io/">Francesco D'Eugenio</a></td>
 <td>University of Cambridge</td>
 <td>Francesco D'Eugenio is affiliated with the NIRSpec GTO Team. His interests include galaxy formation and evolution and quenching.</td>
 </tr>
@@ -155,7 +155,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/DeCoursey_Christa.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Christa DeCoursey</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -169,7 +169,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Egami_Eiichi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Eiichi Egami</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Eiichi Egami is a member of the NIRCam instrument and science teams.  His interests include studies of high-redshift galaxies with NIRCam/Grism WFSS and survey for transients. </td>
 </tr>
 
@@ -217,8 +217,8 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Hainline_Kevin.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://mips.as.arizona.edu/~khainline/">Kevin Hainline</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://mips.as.arizona.edu/~khainline/">Kevin Hainline</a></td>
+<td>University of Arizona</td>
 <td>Kevin Hainline is a member of the NIRCam Science Team, and he explores galaxy photometric redshifts as well as the properties of active galactic nuclei.</td>
 </tr>
 
@@ -232,28 +232,28 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Helton_Jakob.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://jakobhelton.github.io/">Jakob Helton</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Jakob Helton is affiliated with the NIRCam Science Team, with interests in understanding the formation and evolution of high-redshift galaxies and galaxy clusters.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Hviding_Raphael.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="www.as.arizona.edu/~rehviding/">Raphael Erik Hviding</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://www.as.arizona.edu/~rehviding/">Raphael Erik Hviding</a></td>
+<td>University of Arizona</td>
 <td>NIRCam Extragalactic Science Team Member interested in Galaxy Evolution and Active Galactic Nuclei</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Jakobsen_Peter.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="https://www.robertomaiolino.net">Peter Jakobsen</a></td>
+<td><a href="https://cosmicdawn.dk">Peter Jakobsen</a></td>
 <td>DAWN/University of Copenhagen</td>
-<td>Member of the NIRSpec Instrument Science Team and of the JWST Science Working Group. Coordinator of the Data Analysis Working Group.</td>
+<td>I am affiliated with the NIRSpec GTO team and served as the ESA NIRSpec Project Scientist 1997-2011 during the design and construction phases of the instrument.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Ji_Zhiyuan.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Zhiyuan Ji</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Zhiyuan Ji is affiliated with the NIRCam Science Team, and his interests include understanding the stellar-population and structural properties of distant galaxies. </td>
 </tr>
 
@@ -302,15 +302,15 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Lyu_Jianwei.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Jianwei Lyu</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Maiolino_Roberto.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td>Roberto Maiolino</td>
+<td><a href="https://www.robertomaiolino.net">Roberto Maiolino</a></td>
 <td>University of Cambridge</td>
-<td></td>
+<td>Member of the NIRSpec Instrument Science Team and of the JWST Science Working Group. Coordinator of the Data Analysis Working Group.</td>
 </tr>
 
 <tr>
@@ -372,14 +372,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Rieke_George.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>George Rieke</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Rieke_Marcia.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.as.arizona.edu/people/faculty/marcia-j-rieke">Marcia Rieke</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>I am the NIRCam Principal Investigator and have been studying distant galaxies in the IR since the 1980s.</td>
 </tr>
 
@@ -428,7 +428,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Shivaei_Irene.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Irene Shivaei</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -456,7 +456,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Stark_Daniel.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Daniel Stark</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td></td>
 </tr>
 
@@ -469,8 +469,8 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Sun_Fengwu.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://gxn.as.arizona.edu/~sunfengwu/home/">Fengwu Sun</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://gxn.as.arizona.edu/~sunfengwu/home/">Fengwu Sun</a></td>
+<td>University of Arizona</td>
 <td>Fengwu Sun is a member of the NIRCam science team with the expertise on dusty star-forming galaxies and NIRCam grism spectroscopy.</td>
 </tr>
 
@@ -484,14 +484,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Tang_Mengtao.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Mengtao Tang</td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Mengtao Tang is interested in understanding the physical properties of distant galaxies and their impact on the cosmic reionization.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Topping_Michael.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://mwtopping.github.io/">Michael Topping</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Michael Topping is affiliated with the NIRCam Science Team, and is primarily interested in galaxy evolution, and the physical conditions within the earliest galaxies.  </td>
 </tr>
 
@@ -519,21 +519,21 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Whitler_Lily.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://astro.lilywhitler.com/">Lily Whitler</a></td>
-<td>Univeristy of Arizona</td>
+<td>University of Arizona</td>
 <td>Lily Whitler is affiliated with the NIRCam science team. Her scientific interests lie in galaxy formation and evolution within the first billion years of cosmic time.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Williams_Christina.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://mips.as.arizona.edu/~cwilliams/cv.html">Christina Williams</a></td>
+<td><a href="https://mips.as.arizona.edu/~cwilliams/cv.html">Christina Williams</a></td>
 <td>NSF's NOIRLab</td>
 <td>Christina Williams is a member of both the NIRCam instrument and science teams. Her research interests focus on massive galaxy evolution and why galaxies stop forming stars, and she has supported NIRCam testing and commissioning for the JWST mission since 2014. </td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Willmer_Christopher.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="http://mips.as.arizona.edu/~cnaw/">Christopher Willmer</a></td>
-<td>Univeristy of Arizona</td>
+<td><a href="https://mips.as.arizona.edu/~cnaw/">Christopher Willmer</a></td>
+<td>University of Arizona</td>
 <td>Member of the NIRCam Instrument Team at the University of Arizona, with broad interest in Extragalactic Astrophysics.</td>
 </tr>
 
@@ -553,7 +553,7 @@ permalink: /team/
 
 <tr>
 <td><img src="/assets/images/team_resized/Woodrum_Charity.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
-<td><a href="www.charitywoodrum.com">Charity Woodrum</a></td>
+<td><a href="https://www.charitywoodrum.com">Charity Woodrum</a></td>
 <td>University of Arizona</td>
 <td>Charity Woodrum is a NIRCam Extragalactic Science Team member and her research interests focus on galaxy evolution and why galaxies stop forming stars.</td>
 </tr>
