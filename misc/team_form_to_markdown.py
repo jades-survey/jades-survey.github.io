@@ -1,5 +1,6 @@
 import csv
 import numpy as np
+from unidecode import unidecode
 from collections import OrderedDict
 
 
@@ -39,28 +40,24 @@ def row_to_html(row: OrderedDict) -> str:
     return html
 
 
-
 def main():
     names = []
     html_rows = []
-    with open(r"JADES Team Site Info.csv", "r") as f:
-        reader = csv.DictReader(f)
-        for r in reader:
-            name = r["Name"]
-            html = row_to_html(r)
-            names.append(name)
-            html_rows.append(html)
+    # with open(r"JADES Team Site Info.csv", "r") as f:
+    #     reader = csv.DictReader(f)
+    #     for r in reader:
+    #         name = r["Name"]
+    #         html = row_to_html(r)
+    #         names.append(name)
+    #         html_rows.append(html)
 
     with open("jades_team_members_short.csv", "r") as f:
         reader = csv.DictReader(f)
         for r in reader:
-            name = r["Name"]
-            if name in names:
-                continue
-            html = row_to_html(r)
-            names.append(name)
-            html_rows.append(html)
-    last = [n.split(" ")[-1] for n in names]
+            names.append(r["Name"])
+            html_rows.append(row_to_html(r))
+
+    last = [unidecode(n.split(" ")[-1]) for n in names]
     #markdown_rows = [row[0] for row in sorted(zip(html_rows, last), key=lambda x: x[1])]
     order = np.argsort(last)
     markdown_rows = [html_rows[i] for i in order]
@@ -68,7 +65,7 @@ def main():
     page_str = "\n".join(
         [
             "---",
-            "layout: single",
+            "layout: splash",
             "title: Team",
             "permalink: /team/",
             "---",
@@ -81,6 +78,12 @@ def main():
             "",
             "<div id=\"main\">",
             "<table>",
+            "<colgroup>",
+            "  <col span=\"1\" class=\"col-img\">",
+            "  <col span=\"1\" class=\"col-name\">",
+            "  <col span=\"1\" class=\"col-inst\">",
+            "  <col span=\"1\" class=\"col-bio\">",
+            "</colgroup>",
             "<tbody>",
             *markdown_rows,
             "</tbody>",
