@@ -9,6 +9,7 @@ toc_sticky: true
 ---
 
 ## JADES Educational Resources 
+![For Teachers Splash](/assets/images/for_teachers.png)
 
 The deep and varied JADES dataset is an ideal place for young scientists to learn about how 
 galaxies form and grow. These observations span the entire history of the universe, and include 
@@ -20,6 +21,9 @@ of galaxies.
 The JADES science team has created outreach activities that cater a wide range of student
 ages, and for each activity below, we provide a brief discription, and how it might fit into the 
 curriculum for both US and UK-based students. 
+
+If you use these and want to provide feedback, or contact the outreach and education wing of the
+JADES collaboration, [please head here](link)! 
 
 ### <font size="6">Activities for Ages AA - BB</font>
 ----------
