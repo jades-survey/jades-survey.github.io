@@ -100,7 +100,7 @@ permalink: /team/
 <td><img src="/assets/images/team_resized/Charlot_Stephane.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Stephane Charlot</td>
 <td>Institut d'Astrophysique de Paris (CNRS/Sorbonne Université)</td>
-<td></td>
+<td>Member of the NIRSpec Instrument Science Team</td>
 </tr>
 
 <tr>
