@@ -25,22 +25,5 @@ curriculum for both US and UK-based students.
 If you use these and want to provide feedback, or contact the outreach and education wing of the
 JADES collaboration, [please head here](link)! 
 
-### <font size="6">Activities for Ages AA - BB</font>
-----------
-
-#### Sample Activity 
-Description of Sample Activity 
-
-
-### <font size="6">Activities for Ages BB - CC</font>
-----------
-
-#### Sample Activity 
-Description of Sample Activity 
-
-
-### <font size="6">Activities for Ages BB - CC</font>
-----------
-
-#### Sample Activity 
-Description of Sample Activity 
+**This is a very busy time for the JADES scientists, and we're still putting together our 
+outreach materials! Check back soon for an update with some great activities!**
