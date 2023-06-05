@@ -1,0 +1,21 @@
+---
+layout: single
+title:  "New Observations Reveal Astonishing Environment of GN-z11"
+date:   2023-06-02 12:00:00 -0700
+author: JADES Collaboration
+categories: high-redshift
+---
+
+In a new paper ([Maiolino et al., arXiv/2306.00953][Maiolino]), we present first results from Director's Discretionary observations of GN-z11, program 4426.  Motivated by hints in the JADES spectroscopy of GN-z11, we conducted integral-field spectroscopy of the object with NIRSpec.
+
+The result is quite astonishing.  There is a cloud of gas about 0.6" away from the core of GN-z11 that is shining brightly in a line of doubly-ionized helium, rest frame 164.0 nm at a redshift of 10.60.  There is no detectable continuum emission at that location, nor any emission from hydrogen or heavier elements.
+
+![GN-z11 HeII Cloud](/assets/images/GN-z11-ddt-maps.png)
+
+Helium requires very energetic ultraviolet emission (54 eV) to ionize the second electron, the recombination of which drives this 164 nm line.  Yet without any detectable continuum at lower energy, the source of this ionizing radiation must have a very blue spectrum.  Models of known stellar populations simply don't get this blue.
+
+One long-sought route to produce very blue spectra is via metal-free Population III stars.  If the cloud is powered by these, then we infer a bolometric luminosity of nearly 10^44^ ergs/s, and since hot stars radiate near the Eddington limit, a total stellar mass of 7x10^5^ solar masses.
+
+Whether the cause is this or some other exotic explanation, this is a very remarkable phenomenon!
+
+[Maiolino]: https://arxiv.org/abs/2306.00953
