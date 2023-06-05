@@ -72,7 +72,7 @@ to be submitted (2023)
 by Lester Sandles et al.,
 to be submitted (2023)
 
-#### Exploring the environments of Lyman-alpha emitting galaxies in JADES and FRESCO
+#### Inside the bubble: exploring the environments of reionisation-era Lyman-alp[ha emitting galaxies with JADES and FRESCO
 by Joris Witstok et al.,
 to be submitted (2023)
 
