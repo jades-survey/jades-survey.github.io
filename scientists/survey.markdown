@@ -11,7 +11,7 @@ toc_sticky: true
 ## Overview 
 
 The details of the JADES observing are described in 
-Eisenstein et al. (2023, URL); this paper will be 
+Eisenstein et al. (2023, [arXiv](https://arxiv.org/abs/arXiv:2306.02465)); this paper will be 
 updated as the survey is completed.
 
 JADES is about 770 mission hours and makes full use 
