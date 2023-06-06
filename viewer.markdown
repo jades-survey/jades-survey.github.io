@@ -6,7 +6,7 @@ permlink: /viewer/"
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/viewer_thumbnail.png
+  overlay_image: /assets/images/viewer_thumbnail.jpg
   actions:
     - label: "Open the Viewer"
       url: "https://jades.idies.jhu.edu/public/"
