@@ -12,15 +12,15 @@ toc_icon: star
 ----------
 
 #### Overview of the JWST Advanced Deep Extragalactic Survey (JADES)
-by Daniel J Eisenstein, Chris Willott et al.,
+by Daniel J Eisenstein, Chris Willott, et al.
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02465)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Revealing the Faint Infrared Sky with Deep JWST NIRCam Imaging
-by Marcia Rieke et al.,
+by Marcia Rieke, Brant Robertson, Sandro Tacchella, Kevin Hainline, Benjamin D. Johnson, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02466)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
-by Andrew Bunker et al.,
+by Andrew Bunker, Alex J. Cameron, Emma Curtis-Lake, Peter Jakobsen, Stefano Carniani, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02467)
   
 #### FitsMap: A simple, lightweight tool for displaying interactive astronomical image and catalog data
@@ -37,19 +37,19 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
 ----------
 
 #### The Cosmos in its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N
-by Kevin Hainline et al.,
+by Kevin Hainline, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Jakob M. Helton, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02468)
 
-#### Buildilng the First Galaxies -- Chapter 2. Starbursts and Billion-Year SFHs Dominate Emerging  Galaxies 6<z<12
-by Alan Dressler et al.,
+#### Buildilng the First Galaxies -- Chapter 2. Starbursts and Billion-Year SFHs Dominate Emerging Galaxies 6<z<12
+by Alan Dressler, Marcia Rieke, Daniel Eisenstein, Daniel P. Stark, Chris Burns, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02469)
 
 #### JADES: Differing assembly histories of galaxies - Observational evidence for bursty SFHs and (mini-)quenching in the first billion years of the Universe
-by Tobais Looser et al.,
+by Tobais Looser, Francesco D'Eugenio, Roberto Maiolino, Sandro Tacchella, Mirko Curti, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02470)
 
 #### JADES: The emergence and evolution of Ly-alpha emission - constraints on the IGM neutral fraction
-by Gareth Jones et al.,
+by Gareth Jones, Andrew J. Bunker, Aayush Saxena, Joris Witstok, Daniel P. Stark, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02471)
 
 #### Inside-out growth in the early universe: a core in a vigorously star-forming disc
