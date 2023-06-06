@@ -9,6 +9,11 @@ toc_sticky: true
 ---
 
 
+## JADES Deep 4K Desktop Background
+
+![JADES Deep 4K Desktop Background](/assets/images/jades-release-bkg.png)
+
+
 ## JADES GOODS-S Cutout
 
 ![JADES GOODS-S Cutout](/assets/images/jades-cutout.jpg)
