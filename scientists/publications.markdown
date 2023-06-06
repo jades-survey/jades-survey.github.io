@@ -56,6 +56,11 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02471)
 by William M. Baker, Sandro Tacchella, Benjamin D. Johnson, Erica Nelson, Katherine A. Suess, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02472)
 
+#### Discovery of 17 Transients (host redshift=0.520-2.325) in the JADES GOODS-N JWST/NIRCam Images
+by Christa DeCoursey, Eiichi Egami, Marcia Rieke, Shea DeFour-Remy, Sanvi Khairnar, et al.,
+AstroNote (2023)
+[AstroNote](https://www.wis-tns.org/astronotes/astronote/2023-164)
+
 #### JWST-NIRSpec Spectroscopy HST-Selected Lyman break galaxies at z>~6 in the Hubble Ultra Deep Field and GOODS-South: redshift confirmation, ionzing escape fraction and implications for reionization
 by Andrew Bunker et al.,
 to be submitted (2023)
