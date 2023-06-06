@@ -5,7 +5,7 @@ date: 2023-06-23T11:48:41-04:00
 permlink: /viewer/"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/viewer_thumbnail.jpg
   actions:
     - label: "Open the Viewer"
