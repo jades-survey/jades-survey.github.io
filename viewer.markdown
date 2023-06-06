@@ -1,6 +1,6 @@
 ---
 title: "Interactive Viewer"
-splash: single
+layout: splash
 permalink: /viewer/
 header:
     overlay_color: "#000"
