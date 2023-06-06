@@ -13,15 +13,15 @@ toc_icon: star
 
 #### Overview of the JWST Advanced Deep Extragalactic Survey (JADES)
 by Daniel J Eisenstein, Chris Willott et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02465)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Revealing the Faint Infrared Sky with Deep JWST NIRCam Imaging
 by Marcia Rieke et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02466)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
 by Andrew Bunker et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02467)
   
 #### FitsMap: A simple, lightweight tool for displaying interactive astronomical image and catalog data
 by R. Hausen and B. E. Robertson  
@@ -36,46 +36,53 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
 ### <font size="6">JADES Science Papers</font>
 ----------
 
-#### JADES: Detecting [OIII]λ4363 and Testing Strong Line Calibrations in the High-z Universe with ultra-deep JWST/NIRSpec spectroscopy up to z ∼ 9.5
-by Isaac Laseter et al.,
-to be submitted (2023)
-
-#### JADES: The emergence and evolution of Ly-alpha emission - constraints on the IGM neutral fraction
-by Gareth Jones et al.,
-to be submitted (2023)
-
-#### JWST-NIRSpec Spectroscopy HST-Selected Lyman break galaxies at z>~6 in the Hubble Ultra Deep Field and GOODS-South: redshift confirmation, ionzing escape fraction and implications for reionization
-by Andrew Bunker et al.,
-to be submitted (2023)
-
 #### The Cosmos in its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N
 by Kevin Hainline et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02468)
 
 #### Buildilng the First Galaxies -- Chapter 2. Starbursts and Billion-Year SFHs Dominate Emerging  Galaxies 6<z<12
 by Alan Dressler et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02469)
 
 #### JADES: Differing assembly histories of galaxies - Observational evidence for bursty SFHs and (mini-)quenching in the first billion years of the Universe
 by Tobais Looser et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02470)
+
+#### JADES: The emergence and evolution of Ly-alpha emission - constraints on the IGM neutral fraction
+by Gareth Jones et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02471)
+
+#### Inside-out growth in the early universe: a core in a vigorously star-forming disc
+by William M. Baker, Sandro Tacchella, Benjamin D. Johnson, Erica Nelson, Katherine A. Suess, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02472)
+
+#### JWST-NIRSpec Spectroscopy HST-Selected Lyman break galaxies at z>~6 in the Hubble Ultra Deep Field and GOODS-South: redshift confirmation, ionzing escape fraction and implications for reionization
+by Andrew Bunker et al.,
 to be submitted (2023)
 
 #### JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization
 by Aayush Saxena et al.,
 to be submitted (2023)
 
+#### Inside the bubble: exploring the environments of reionisation-era Lyman-alp[ha emitting galaxies with JADES and FRESCO
+by Joris Witstok et al.,
+to be submitted (2023)
+
 #### The Star-forming and Ionizing Properties of Dwarf z ∼ 6 − 9 Galaxies in JADES: Insights on Bursty Star Formation and Ionized Bubble Growth
 by Ryan Endsley et al.,
+to be submitted (2023)
+
+#### JADES: Detecting [OIII]λ4363 and Testing Strong Line Calibrations in the High-z Universe with ultra-deep JWST/NIRSpec spectroscopy up to z ∼ 9.5
+by Isaac Laseter et al.,
 to be submitted (2023)
 
 #### JADES: Balmer Decrement Scaling Relations at Cosmic Dawn
 by Lester Sandles et al.,
 to be submitted (2023)
 
-#### Inside the bubble: exploring the environments of reionisation-era Lyman-alp[ha emitting galaxies with JADES and FRESCO
-by Joris Witstok et al.,
-to be submitted (2023)
-
+#### JWST-JADES. Possible Population III signatures at z=10.6 in the halo of GN-z11
+by Roberto Maiolino, Hannah Uebler, Michele Perna, Jan Scholtz, Francesco D'Eugenio, et al.,
+submitted to A&A (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.00953)
 
 #### JADES + JEMS: A Detailed Look at the Buildup of Central Stellar Cores and Suppression of Star Formation in Galaxies at Redshift 3<z<4.5
 by Zhiyuan Ji, Christina C. Williams, Sandro Tacchella, Katherine A. Suess, William M. Baker, et al.,
@@ -84,10 +91,6 @@ submitted (2023)
 
 #### JADES: Resolving the Stellar Component and Overdense Environment of HST-Dark Submillimeter Galaxy HDF850.1 at z=5.18
 by Fengwu Sun, Jakob M. Helton, Eiichi Egami, Kevin N. Hainline, George H. Rieke,  et al.,
-submitted (2023)
-
-#### Inside-out growth in the early universe: a core in a vigorously star-forming disc
-by William M. Baker, Sandro Tacchella, Benjamin D. Johnson, Erica Nelson, Katherine A. Suess, et al.,
 submitted (2023)
 
 #### JADES NIRSpec Spectroscopy of GN-z11: Lyman-alpha emission and possible enhanced nitrogen abundance in a z=10.60 luminous galaxy
