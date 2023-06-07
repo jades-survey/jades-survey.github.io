@@ -61,6 +61,10 @@ by Christa DeCoursey, Eiichi Egami, Marcia Rieke, Shea DeFour-Remy, Sanvi Khairn
 AstroNote (2023)
 [AstroNote](https://www.wis-tns.org/astronotes/astronote/2023-164)
 
+#### JADES: Detecting [OIII]λ4363 and Testing Strong Line Calibrations in the High-z Universe with ultra-deep JWST/NIRSpec spectroscopy up to z ∼ 9.5
+by Isaac H. Laseter,  Michael V. Maseda, Mirko Curti, Roberto Maiolino, Francesco D'Eugenio, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.03120)
+
 #### JWST-NIRSpec Spectroscopy HST-Selected Lyman break galaxies at z>~6 in the Hubble Ultra Deep Field and GOODS-South: redshift confirmation, ionzing escape fraction and implications for reionization
 by Andrew Bunker et al.,
 to be submitted (2023)
@@ -75,10 +79,6 @@ to be submitted (2023)
 
 #### The Star-forming and Ionizing Properties of Dwarf z ∼ 6 − 9 Galaxies in JADES: Insights on Bursty Star Formation and Ionized Bubble Growth
 by Ryan Endsley et al.,
-to be submitted (2023)
-
-#### JADES: Detecting [OIII]λ4363 and Testing Strong Line Calibrations in the High-z Universe with ultra-deep JWST/NIRSpec spectroscopy up to z ∼ 9.5
-by Isaac Laseter et al.,
 to be submitted (2023)
 
 #### JADES: Balmer Decrement Scaling Relations at Cosmic Dawn
