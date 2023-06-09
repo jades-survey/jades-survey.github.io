@@ -71,19 +71,19 @@ to be submitted (2023)
 
 #### JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization
 by Aayush Saxena et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.04536]
 
 #### Inside the bubble: exploring the environments of reionisation-era Lyman-alpha emitting galaxies with JADES and FRESCO
 by Joris Witstok et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.04627]
 
 #### The Star-forming and Ionizing Properties of Dwarf z ∼ 6 − 9 Galaxies in JADES: Insights on Bursty Star Formation and Ionized Bubble Growth
 by Ryan Endsley et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.05295]
 
 #### JADES: Balmer Decrement Scaling Relations at Cosmic Dawn
 by Lester Sandles et al.,
-to be submitted (2023)
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.03931]
 
 #### JWST-JADES. Possible Population III signatures at z=10.6 in the halo of GN-z11
 by Roberto Maiolino, Hannah Uebler, Michele Perna, Jan Scholtz, Francesco D'Eugenio, et al.,
