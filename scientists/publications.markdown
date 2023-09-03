@@ -36,6 +36,31 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
 ### <font size="6">JADES Science Papers</font>
 ----------
 
+#### Ionised gas kinematics and dynamical masses of  z>6 galaxies from JADES/NIRSpec high-resolution spectroscopy
+by Anna de Graaff, Hans-Walter Rix, Stefano Carniani, Katherine A. Suess, Stephane Charlot, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2308.09742)
+
+#### JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty
+by Roberto Maiolino, Jan Scholtz, Emma Curtis-Lake, Stefano Carniani, William Baker, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2308.01230)
+
+#### Minor merger growth in action: JWST detects faint blue companions around massive quiescent galaxies at 0.5 < z < 3
+by Katherine Suess, Christina Williams, Brant Robertson, Zhiyuan Ji, Benjamin Johnson, et al.,
+ApJ Letters, accepted (2023), [arXiv](https://arxiv.org/abs/arXiv:2307.14209)
+
+#### The UV Continuum Slopes of Early Star-Forming Galaxies in JADES
+by Michael Topping, Daniel Stark, Ryan Endsley, Lily Whitler, Kevin Hainline, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2307.08835)
+
+#### JADES: deep spectroscopy of a low-mass galaxy at redshift 2.3 quenched by environment
+by Lester Sandles, Francesco D'Eugenio, Jakob Helton, Roberto Maiolino, Kevin Hainline, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2307.08633)
+
+#### JADES: The incidence rate and properties of galactic outflows in low-mass galaxies across 3 < z < 9
+by Stefano Carniani, Giacomo Venturi, Eleonora Parlanti, Anna de Graaff, Roberto Maiolino, et al.,
+submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.11801)
+
+
 #### The Cosmos in its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N
 by Kevin Hainline, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Jakob M. Helton, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02468)
@@ -70,15 +95,15 @@ by Andrew Bunker et al.,
 to be submitted (2023)
 
 #### JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization
-by Aayush Saxena et al.,
+by Aayush Saxena, Andrew Bunker, Gareth Jones, Daniel Stark, Alex Cameron, et al., 
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.04536]
 
 #### Inside the bubble: exploring the environments of reionisation-era Lyman-alpha emitting galaxies with JADES and FRESCO
-by Joris Witstok et al.,
+by Joris Witstok, Renske Smit, Aayush Saxena, Gareth Jones, Jakob Helton, et al., 
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.04627]
 
 #### The Star-forming and Ionizing Properties of Dwarf z ∼ 6 − 9 Galaxies in JADES: Insights on Bursty Star Formation and Ionized Bubble Growth
-by Ryan Endsley et al.,
+by Ryan Endsley, Daniel Stark, Lily Whitler, Michael Topping, Benjamin Johnson, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.05295]
 
 #### JADES: Balmer Decrement Scaling Relations at Cosmic Dawn
@@ -129,9 +154,10 @@ arXiv e-prints, arXiv:2302.14155 (2023)
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230214155L) [arXiv](https://arxiv.org/abs/arXiv:2302.14155) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230214155L/exportcitation)  
   
 #### JADES Imaging of GN-z11: Revealing the Morphology and Environment of a Luminous Galaxy 430 Myr After the Big Bang
-by Sandro Tacchella, Daniel J. Eisenstein, Kevin Hainline, Benjamin D. Johnson, William M. Baker, et al.  
-arXiv e-prints, arXiv:2302.07234 (2023)  
-[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230207234T) [arXiv](https://arxiv.org/abs/arXiv:2302.07234) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230207234T/exportcitation)  
+by Sandro Tacchella, Daniel J. Eisenstein, Kevin Hainline, Benjamin D. Johnson, William M. Baker, et al.,
+ApJ 952, 74 (2023);
+arXiv e-prints, arXiv:2302.07234 
+[ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...952...74T/abstract) [arXiv](https://arxiv.org/abs/arXiv:2302.07234) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230207234T/exportcitation)  
   
 #### A small and vigorous black hole in the early Universe 
 by Roberto Maiolino, Jan Scholtz, Joris Witstok, Stefano Carniani, Francesco D'Eugenio, et al.  
@@ -159,8 +185,9 @@ arXiv e-prints, arXiv:2302.05468 (2023)
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205468W) [arXiv](https://arxiv.org/abs/arXiv:2302.05468) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230205468W/exportcitation)  
   
 #### The ionising photon production efficiency at z=6 for Lyman-alpha emitters using JEMS and MUSE
-by Charlotte Simmonds, Sandro Tacchella, Michael V. Maseda, Christina Williams, William M. Baker, et al.
-arXiv e-prints, arXiv:2303.07931 (2023)  
+by Charlotte Simmonds, Sandro Tacchella, Michael V. Maseda, Christina Williams, William M. Baker, et al.,
+MNRAS, 523, 5468 (2023);
+arXiv e-prints, arXiv:2303.07931
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230307931S) [arXiv](https://arxiv.org/abs/arXiv:2303.07931) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230307931S/exportcitation)  
   
 #### Discovery of 8 Transients (z\_host=0.665-1.764) in the JADES GOODS-S JWST/NIRCam Images
