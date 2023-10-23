@@ -1,0 +1,28 @@
+---
+layout: single
+title:  "JADES Second Data Release"
+date:   2023-10-19 12:00:00 -0700
+author: JADES Collaboration
+categories: high-redshift
+---
+
+JADES has issued its second public release of NIRCam imaging and catalogs!
+This release expands the footprint of JADES imaging in the GOODS-S region,
+now to 68 square arcminutes with 94,000 objects.
+
+A key aspect of the new data set is the first release of images of the JADES Origins Field, formed in the NIRCam parallels of deep spectroscopy from program 1210.  This field is already one of the deepest JWST fields, and it will be extended greatly in the second half of October 2023 via 5 days of medium-band imaging from program 3215.
+
+As with the first release, the images are accompanied by detailed
+catalogs reporting multi-band photometry from JADES and incorporating
+the JEMS, FRESCO, ahd Hubble Legacy Field data sets of this region.
+
+The images and catalogs are visualized through the JADES FITSmap viewer,
+linked in this website.  We encourage both experts and the public to explore
+these amazing images!
+
+Below are an image of the data release (green being the new area, yellow being the June 2023 first data release) and a zoom-in detail, showing the power of the JADES data to reveal strong emission lines from high-redshift galaxies.
+
+![JADES Second Data Release](/assets/Oct2023_release_rectangle.png)
+
+![JADES DR2 Detail](/assets/jades-redshift-frontier-composite-v3.png)
+
