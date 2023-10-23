@@ -40,9 +40,17 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
 ### <font size="6">JADES Science Papers</font>
 ----------
 
+#### Low-mass bursty galaxies in JADES efficiently produce ionising photons and could represent the main drivers of reionisation
+by Charlotte Simmonds, Sandro Tacchella, Kevin Hainline, Benjamin D. Johnson, W. McClymont, et al.,
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231001112S) [arXiv](https://arxiv.org/abs/arXiv:2310.01112)
+
 #### Ionised gas kinematics and dynamical masses of  z>6 galaxies from JADES/NIRSpec high-resolution spectroscopy
 by Anna de Graaff, Hans-Walter Rix, Stefano Carniani, Katherine A. Suess, Stephane Charlot, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2308.09742)
+
+#### Brown Dwarf Candidates in the JADES and CEERS Extragalactic Surveys
+by Kevin N. Hainline, Jakob M. Helton, Benjamin D. Johnson, Fengwu Sun, Michael W. Topping, et al., 
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230903250H) [arXiv](https://arxiv.org/abs/arXiv:2309.03250)
 
 #### JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty
 by Roberto Maiolino, Jan Scholtz, Emma Curtis-Lake, Stefano Carniani, William Baker, et al.,
@@ -128,8 +136,9 @@ by Fengwu Sun, Jakob M. Helton, Eiichi Egami, Kevin N. Hainline, George H. Rieke
 submitted (2023)
 
 #### JADES NIRSpec Spectroscopy of GN-z11: Lyman-alpha emission and possible enhanced nitrogen abundance in a z=10.60 luminous galaxy
-by Andrew J. Bunker, Aayush Saxena, Alex J. Cameron, Chris J. Willott, Emma Curtis-Lake, et al.  
-arXiv e-prints, arXiv:2302.07256 (2023)  
+by Andrew J. Bunker, Aayush Saxena, Alex J. Cameron, Chris J. Willott, Emma Curtis-Lake, et al.,
+Astronomy & Astrophysics, 677, 88 (2023),
+arXiv:2302.07256 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230207256B) [arXiv](https://arxiv.org/abs/arXiv:2302.07256) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230207256B/exportcitation)  
   
 #### Spectroscopic confirmation of four metal-poor galaxies at z = 10.3-13.2  
@@ -148,8 +157,9 @@ arXiv e-prints, arXiv:2304.08516 (2023)
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230408516C) [arXiv](https://arxiv.org/abs/arXiv:2304.08516) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230408516C/exportcitation)  
   
 #### JADES: Probing interstellar medium conditions at z=5.5-9.5 with ultra-deep JWST/NIRSpec spectroscopy
-by Alex J. Cameron, Aayush Saxena, Andrew J. Bunker, Francesco D'Eugenio, Stefano Carniani, et al.  
-arXiv e-prints, arXiv:2302.04298 (2023)  
+by Alex J. Cameron, Aayush Saxena, Andrew J. Bunker, Francesco D'Eugenio, Stefano Carniani, et al.,
+Astronomy & Astrophysics, 677, 115 (2023),
+arXiv:2302.04298 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230204298C) [arXiv](https://arxiv.org/abs/arXiv:2302.04298) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230204298C/exportcitation)  
   
 #### Discovery of a quiescent galaxy at z=7.3
@@ -174,8 +184,9 @@ Monthly Notices of the Royal Astronomical Society, (2023)
 [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1377T) [arXiv](https://arxiv.org/abs/arXiv:2208.03281) [BibTex](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1377T/exportcitation)  
   
 #### JADES: Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at z=7.3
-by Aayush Saxena, Brant E. Robertson, Andrew J. Bunker, Ryan Endsley, Alex J. Cameron, et al.  
-arXiv e-prints, arXiv:2302.12805 (2023)  
+by Aayush Saxena, Brant E. Robertson, Andrew J. Bunker, Ryan Endsley, Alex J. Cameron, et al.,
+Astronomy & Astrophysics, 678, 68 (2023),
+arXiv:2302.12805 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230212805S) [arXiv](https://arxiv.org/abs/arXiv:2302.12805) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230212805S/exportcitation)  
   
 #### The JWST Advanced Deep Extragalactic Survey: Discovery of an Extreme Galaxy Overdensity at z = 5.4 with JWST/NIRCam in GOODS-S 
@@ -185,7 +196,8 @@ arXiv e-prints, arXiv:2302.10217 (2023)
   
 #### Carbonaceous dust grains within galaxies seen in the first billion years of cosmic time  
 by Joris Witstok, Irene Shivaei, Renske Smit, Roberto Maiolino, Stefano Carniani, et al.  
-arXiv e-prints, arXiv:2302.05468 (2023)  
+Nature, 621, 267 (2023),
+arXiv:2302.05468 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230205468W) [arXiv](https://arxiv.org/abs/arXiv:2302.05468) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230205468W/exportcitation)  
   
 #### The ionising photon production efficiency at z=6 for Lyman-alpha emitters using JEMS and MUSE
@@ -199,14 +211,24 @@ by C. DeCoursey, E. Egami, M. Rieke, S. DeFour-Remy, S. Khairnar, et al.
 Transient Name Server AstroNote, 16, 1 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023TNSAN..16....1D) [arXiv](https://arxiv.org/abs/) [BibTex](https://ui.adsabs.harvard.edu/abs/2023TNSAN..16....1D/exportcitation)  
   
-​ ​ ​
+### <font size="6">Collaborative Papers</font>
+----------
+
+#### AGN Selection and Demographics: A New Age with JWST/MIRI
+by Jianwei Lyu, Stacey Alberts, George H. Rieke, Irene Shivaei, Pablo G. Perez-Gonzalez, et al., 
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012330L) [arXiv](https://arxiv.org/abs/arXiv:2310.12330)
+
+#### FRESCO: An extended, massive, rapidly rotating galaxy at z=5.3
+by Erica J. Nelson, Gabriel Brammer, Clara Gimenez-Arteaga, Pascal A. Oesch, Hannah Ubler,
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231006887N) [arXiv](https://arxiv.org/abs/arXiv:2310.06887)
 
 ### <font size="6">Community Papers and Datasets</font>
 ----------
 
 #### JEMS: A deep medium-band imaging survey in the Hubble Ultra-Deep Field with JWST NIRCam & NIRISS  
-by Christina C. Williams, Sandro Tacchella, Michael V. Maseda, Brant E. Robertson, Benjamin D. Johnson, et al.  
-arXiv e-prints, arXiv:2301.09780 (2023)  
+by Christina C. Williams, Sandro Tacchella, Michael V. Maseda, Brant E. Robertson, Benjamin D. Johnson, et al. 
+ApJ Supplement, 268, 64 (2023),
+arXiv:2301.09780 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230109780W) [arXiv](https://arxiv.org/abs/arXiv:2301.09780) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230109780W/exportcitation)  
   
 #### The JWST FRESCO Survey: Legacy NIRCam/Grism Spectroscopy and Imaging in the two GOODS Fields  
