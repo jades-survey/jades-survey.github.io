@@ -22,6 +22,10 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02466)
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
 by Andrew Bunker, Alex J. Cameron, Emma Curtis-Lake, Peter Jakobsen, Stefano Carniani, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02467)
+
+#### The JADES Origins Field: A New JWST Deep Field in the JADES Second NIRCam Data Release
+by Daniel J. Eisenstein, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Kevin Hainline, et al.
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012340E) [arXiv](https://arxiv.org/abs/arXiv:2310.12340)
   
 #### FitsMap: A simple, lightweight tool for displaying interactive astronomical image and catalog data
 by R. Hausen and B. E. Robertson  
