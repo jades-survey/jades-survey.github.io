@@ -22,7 +22,7 @@ these amazing images!
 
 Below are an image of the data release (green being the new area, yellow being the June 2023 first data release) and a zoom-in detail, showing the power of the JADES data to reveal strong emission lines from high-redshift galaxies.
 
-![JADES Second Data Release](/assets/Oct2023_release_rectangle.png)
+![JADES Second Data Release](/assets/images/Oct2023_release_rectangle.png)
 
-![JADES DR2 Detail](/assets/jades-redshift-frontier-composite-v3.png)
+![JADES DR2 Detail](/assets/images/jades-redshift-frontier-composite-v3.png)
 
