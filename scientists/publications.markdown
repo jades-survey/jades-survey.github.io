@@ -17,7 +17,7 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02465)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Revealing the Faint Infrared Sky with Deep JWST NIRCam Imaging
 by Marcia Rieke, Brant Robertson, Sandro Tacchella, Kevin Hainline, Benjamin D. Johnson, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02466)
+The Astrophysical Journal Supplement Series, 269, 16 (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJS..269...16R/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.02466)
 
 #### JADES Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
 by Andrew Bunker, Alex J. Cameron, Emma Curtis-Lake, Peter Jakobsen, Stefano Carniani, et al.,
@@ -40,9 +40,43 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
 ### <font size="6">JADES Science Papers</font>
 ----------
 
+#### Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang
+by Brant Robertson, Benjamin Johnson, Sandro Tacchella, Daniel Eisenstein, Kevin Hainline, et al.
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231210033R/abstract) [arXiv](https://arxiv.org/abs/arXiv:2312.10033)
+
+#### JADES: A large population of obscured, narrow line AGN at high redshift
+by Jan Scholtz, Roberto Maiolino, Francesco D'Eugenio, Emma Curtis-Lake, Stefano Carniani, et al.
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231118731S/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.18731)
+
+#### JADES: Carbon enrichment 350 Myr after the Big Bang in a gas-rich galaxy
+by Francesco D'Eugenio, Roberto Maiolino, Stefano Carniani, Emma Curtis-Lake, Joris Witstok, et al.
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231109908D/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.09908)
+
+#### The galaxies missed by Hubble and ALMA: the contribution of extremely red galaxies to the cosmic census at 3<z<8
+by Christina Williams, Stacey Alberts, Zhiyuan Ji, Kevin Hainline, Jianwei Lyu, et al.,
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231107483W/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.07483)
+
+#### Identification of High-Redshift Galaxy Overdensities in GOODS-N and GOODS-S
+by Jakob Helton, Fengwu Sun, Charity Woodrum, Kevin Hainline, Christopher Willmer, et al., 
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231104270H/abstract)
+[arXiv](https://arxiv.org/abs/arXiv:2311.04270)
+
+#### JADES: Using NIRCam Photometry to Investigate the Dependence of Stellar Mass Inferences on the IMF in the Early Universe
+by Charity Woodrum, Marcia Rieke, Zhiyuan Ji, William Baker, Rachana Bhatawdekar, et al., 
+submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231018464W/abstract) [arXiv](https://arxiv.org/abs/arXiv:2310.18464)
+
+#### JADES Transient Discovery Report for 2023-10-21
+by Christa DeCoursey, Fengwu Sun, Eiichi Egami, Marcia Rieke, Kevin Hainline, et al.
+Transient Name Server Discovery Report, No. 2023-2681 (2023) [ADS](https://ui.adsabs.harvard.edu/abs/2023TNSTR2681....1D/abstract)
+
+#### Discovery of 7 Transients (z_host = 0.6461 - 4.89) in the JADES GOODS-S JWST/NIRCam Images from Cycle 2 Program 3215
+by Christa DeCoursey, Fengwu Sun, Eiichi Egami, Marcia Rieke, Kevin Hainline, et al.
+Transient Name Server Discovery Report, No. 2023-275 (2023) 
+[ADS](https://ui.adsabs.harvard.edu/abs/2023TNSAN.275....1D/abstract)
+
 #### Low-mass bursty galaxies in JADES efficiently produce ionising photons and could represent the main drivers of reionisation
 by Charlotte Simmonds, Sandro Tacchella, Kevin Hainline, Benjamin D. Johnson, W. McClymont, et al.,
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231001112S) [arXiv](https://arxiv.org/abs/arXiv:2310.01112)
+MNRAS, 527, 6139 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.6139S/abstract) [arXiv](https://arxiv.org/abs/arXiv:2310.01112)
 
 #### Ionised gas kinematics and dynamical masses of  z>6 galaxies from JADES/NIRSpec high-resolution spectroscopy
 by Anna de Graaff, Hans-Walter Rix, Stefano Carniani, Katherine A. Suess, Stephane Charlot, et al.,
@@ -92,6 +126,11 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02471)
 #### Inside-out growth in the early universe: a core in a vigorously star-forming disc
 by William M. Baker, Sandro Tacchella, Benjamin D. Johnson, Erica Nelson, Katherine A. Suess, et al.,
 submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02472)
+
+#### JADES Transient Discovery Report for 2023-06-06
+by Christa DeCoursey, Eiichi Egami, Marcia Rieke, Shea DeFour-Remy, Sanvi Khairnar, et al.,
+Transient Name Server Discovery Report, No. 2023-1332 (2023),
+[ADS](https://ui.adsabs.harvard.edu/abs/2023TNSTR1332....1D/abstract)
 
 #### Discovery of 17 Transients (host redshift=0.520-2.325) in the JADES GOODS-N JWST/NIRCam Images
 by Christa DeCoursey, Eiichi Egami, Marcia Rieke, Shea DeFour-Remy, Sanvi Khairnar, et al.,
