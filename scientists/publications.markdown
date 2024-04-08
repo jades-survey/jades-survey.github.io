@@ -52,10 +52,6 @@ submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240308431T/ab
 by Ignas Juodzbalis, Roberto Maiolino, William Baker, Sandro Tacchella, Jan Scholtz, et al., 
 submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240303872J/abstract) [arXiv](https://arxiv.org/abs/2403.03872)
 
-#### A new census of dust and PAHs at z=0.7-2 with JWST MIRI
-by Irene Shivaei, Stacey Alberts, Michael Florian, George Rieke, Stijn Wuyts, et al., 
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240207989S/abstract) [arXiv](https://arxiv.org/abs/2402.07989)
-
 #### Ly-alpha emission in galaxies at  z≃5−6: new insight from JWST into the statistical distributions of Ly-alpha properties at the end of reionization
 by Mengtao Tang, Daniel Stark, Richard Ellis, Fengwu Sun, Michael Topping et al.
 submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240206070T/abstract) [arXiv](https://arxiv.org/abs/2402.06070)
@@ -63,10 +59,6 @@ submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240206070T/ab
 #### Extreme emission line galaxies detected in JADES JWST/NIRSpec I: inferred galaxy properties
 by Kit Boyett, Andrew Bunker, Emma Curtis-Lake, Jacopo Chevallard, Alex Cameron, et al., 
 submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240116934B/abstract) [arXiv](https://arxiv.org/abs/2401.16934)
-
-#### What is the nature of Little Red Dots and what is not, MIRI SMILES edition
-by Pablo Perez-Gonzalez, Guillermo Barro, George Rieke, Jianwei Lyu, Marcia Rieke, et al.,
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240108782P/abstract) [arXiv](https://arxiv.org/abs/2401.08782)
 
 #### The Relation Between AGN and Host Galaxy Properties: I. Obscured AGN reside in disturbed hosts at 0<z<4
 by Nina Bonaventura, Jianwei Lyu, George Rieke, Stacey Alberts, Christopher Willmer, et al., 
@@ -293,6 +285,14 @@ Transient Name Server AstroNote, 16, 1 (2023)
   
 ### <font size="6">Collaborative Papers</font>
 ----------
+
+#### A new census of dust and PAHs at z=0.7-2 with JWST MIRI
+by Irene Shivaei, Stacey Alberts, Michael Florian, George Rieke, Stijn Wuyts, et al., 
+submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240207989S/abstract) [arXiv](https://arxiv.org/abs/2402.07989)
+
+#### What is the nature of Little Red Dots and what is not, MIRI SMILES edition
+by Pablo Perez-Gonzalez, Guillermo Barro, George Rieke, Jianwei Lyu, Marcia Rieke, et al.,
+submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240108782P/abstract) [arXiv](https://arxiv.org/abs/2401.08782)
 
 #### AGN Selection and Demographics: A New Age with JWST/MIRI
 by Jianwei Lyu, Stacey Alberts, George H. Rieke, Irene Shivaei, Pablo G. Perez-Gonzalez, et al., 
