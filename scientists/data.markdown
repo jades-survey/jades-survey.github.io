@@ -10,8 +10,8 @@ permalink: /scientists/data.html
 
 **These links will be live between April-May; they will be replaced by a link to the relevant MAST page, when it becomes available.**
 
-For any information, please refer to the article by the JADES team (coming soon).
-If you use these data products in your research, we would appreciate a citation to the JADES overwiev article (Eisenstein et al. 2023a), the JADES DR1 article (detailing the data reduction and spectroscopic data from PID 1210; Bunker et al. 2023b), and D'Eugenio et al. (2024). Depending on the data products used, further citations may be appropriate; Eisenstein et al. (2023b; PID 3215), Rieke et al. (2023; GOODS-S imaging) and Hainline et al. (2023; photometric redshifts).
+For any information, please refer to the <a href="https://arxiv.org/abs/2404.06531">article by the JADES team</a>.
+If you use these data products in your research, we would appreciate a citation to the JADES overview article (Eisenstein et al. 2023a), the JADES DR1 article (detailing the data reduction and spectroscopic data from PID 1210; Bunker et al. 2023b), and D'Eugenio et al. (2024). Depending on the data products used, further citations may be appropriate; Eisenstein et al. (2023b; PID 3215), Rieke et al. (2023; GOODS-S imaging) and Hainline et al. (2023; photometric redshifts).
 An in-depth description of the data reduction pipeline will be provided by S. Carniani et al. (in~prep.)
 
 ### Reduced and calibrated data included in this release
