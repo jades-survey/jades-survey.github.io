@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Earliest, most distant galaxy discovered with James Webb Space Telescope Galaxy dates back to 300 million years after the Big Bang"
-date:   2024-05-30 12:00:00 -0700
+date:   2024-05-30 7:00:00 -0700
 author: JADES Collaboration and Mike Pena
 categories: high-redshift
 ---
