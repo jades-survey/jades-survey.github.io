@@ -31,7 +31,7 @@ JADES-GS-z14-0 clearly shows that the study of these early epochs with JWST is j
 
 This work is described further in a [NASA blog post][Blog] and in three papers. Two of the papers are under review but available electronically as [Carniani et al.][Carniani24] and [Helton et al.][Helton24]. The third paper has been accepted for publication in the Astrophysical Journal and is available as an [electronic preprint][Robertson24].
 
-[Blog]: https://blogs.nasa.gov/webb/2022/12/09/nasas-webb-reaches-new-milestone-in-quest-for-distant-galaxies/
+[Blog]: https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/
 [Carniani24]: https://arxiv.org/abs/2405.18485
 [Helton24]: https://arxiv.org/abs/2405.18462
 [Robertson24]: https://arxiv.org/abs/2312.10033
