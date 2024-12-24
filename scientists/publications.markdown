@@ -19,13 +19,18 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02465)
 by Marcia Rieke, Brant Robertson, Sandro Tacchella, Kevin Hainline, Benjamin D. Johnson, et al.,
 The Astrophysical Journal Supplement Series, 269, 16 (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJS..269...16R/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.02466)
 
-#### JADES Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
+#### JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field: Redshifts and Line Fluxes of Distant Galaxies from Deep JWST NIRSpec Multi-Object Spectroscopy
 by Andrew Bunker, Alex J. Cameron, Emma Curtis-Lake, Peter Jakobsen, Stefano Carniani, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02467)
+A&A 690, 288 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.288B/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.02467)
 
 #### The JADES Origins Field: A New JWST Deep Field in the JADES Second NIRCam Data Release
 by Daniel J. Eisenstein, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Kevin Hainline, et al.
 submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012340E) [arXiv](https://arxiv.org/abs/arXiv:2310.12340)
+
+#### JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields
+by Francesco D'Eugenio, Alex Cameron, Jan Scholtz, Stefano Carniani, Chris Willott, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240406531D/abstract) [arXiv]((https://arxiv.org/abs/arXiv:2404.06531)
   
 #### FitsMap: A simple, lightweight tool for displaying interactive astronomical image and catalog data
 by R. Hausen and B. E. Robertson  
@@ -39,6 +44,164 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
   
 ### <font size="6">JADES Science Papers</font>
 ----------
+
+#### JADES: primaeval Lyman alpha emitting galaxies reveal early sites of reionization out to redshift z ~ 9
+by Joris Witstok, Roberto Maiolino, Renske Smit, Gareth Jones, Andrew Bunker, et al.,
+MNRAS, 536, 27 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536...27W/abstract)  [arXiv](https://arxiv.org/abs/2404.05724)
+
+#### Efficient Ionizers with Low Hbeta +[OIII] Equivalent Widths: JADES Spectroscopy of a Peculiar High-z Population
+by Isaac Laseter, Michael Maseda, Charlotte Simmonds, Ryan Endsley, Daniel Stark, et al.,
+submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241204542L/abstract) [arXiv](https://arxiv.org/abs/2412.04542)
+
+#### Ionizing properties of galaxies in JADES for a stellar mass complete sample: resolving the cosmic ionizing photon budget crisis at the Epoch of Reionization
+by Charlotte Simmonds, Sandro Tacchella, Kevin Hainline, Benjamin Johnson, David Puskas, et al., 
+MNRAS, 535, 2998 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2998S/abstract) [arXiv](https://arxiv.org/abs/2409.01286)
+
+#### Spatially resolved emission lines in galaxies at 4 < z < 10 from the JADES survey: Evidence for enhanced central star formation
+by Roberta Tripodi, Francesco D'Eugenio, Roberto Maiolino, Mirko Curti, Jan Schlotz, et al., 
+A&A, 692, 184 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.184T/abstract) [arXiv](https://arxiv.org/abs/2403.08431)
+
+#### JADES: Measuring reionisation properties using Lyman-alpha emission
+by Gareth Jones, Andrew Bunker, Aayush Saxena, Santiago Arribas, Rachana Bhatawdekar, et al., 
+MNRAS, in press (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2618J/abstract) 
+
+#### JADES - the Rosetta stone of JWST-discovered AGN: deciphering the intriguing nature of early AGN
+by Ignas Juodzbalis, Xihan Ji, Roberto Maiolino, Francesco D'Eugenio, Jan Scholtz, et al.,
+MNRAS, 535, 853 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535..853J/abstract) [arXiv](https://arxiv.org/abs/2407.08643)
+
+#### To High Redshift and Low Mass: Exploring the Emergence of Quenched Galaxies and Their Environments at 3 < z < 6 in the Ultra-deep JADES MIRI F770W Parallel
+by Stacey Alberts, Christina Williams, Jakob Helton, Katherine Suess, Zhiyuan Ji, et al., 
+Astrophysical Journal, 975, 85 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...85A/abstract) [arXiv](https://arxiv.org/abs/2312.12207)
+
+#### JADES: Spectroscopic Confirmation and Proper Motion for a T-Dwarf at 2 kpc
+by Kevin Hainline, Francesco D'Eugenio, Fengwu Sun, Jakob Helton, Brittany Miles, et al.,
+Astrophysical Journal, 975, 31 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...31H/abstract) [arXiv](https://arxiv.org/abs/2407.08781)
+
+#### The abundance and nature of high-redshift quiescent galaxies from JADES spectroscopy and the FLAMINGO simulations
+by William Baker, Seunghwan Lim, Francesco D'Eugenio, Roberto Maiolino, Zhiyuan Ji, et al., 
+submitted
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241014773B/abstract) [arXiv](https://arxiv.org/abs/2410.14773)
+
+#### JADES Ultrared Flattened Objects: Morphologies and Spatial Gradients in Color and Stellar Populations
+by Justus Gibson, Erica Nelson, Christina Williams, Sedona Price, Katherine Whitaker, et al.,
+Astrophysical Journal, 974, 48 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...974...48G/abstract) [arXiv](https://arxiv.org/abs/2408.02726)
+
+#### A Systematic Search for Galaxies with Extended Emission Line and Potential Outflows in JADES Medium-Band Images
+by Yongda Zhu, Marcia Rieke, Zhiyuan Ji, Charlotte Simmonds, Fengwu Sun, et al.,
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240911464Z/abstract) [arXiv](https://arxiv.org/abs/2409.11464)
+
+#### JADES: Measuring reionization properties using Lyman-alpha emission
+by Gareth Jones, Andrew Bunker, Aayush Saxena, Santiago Arribas, Rachana Bhatawdekar, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240906405J/abstract) [arXiv](https://arxiv.org/abs/2409.06405)
+
+#### Discovery of 39 Transients/Variables (z_host = 0.437-5.271) in GOODS-N using JADES and CONGRESS JWST/NIRCam Images
+by Christa DeCoursey, Eiichi Egami, Fengwu Sun, A. Akhtakavan, S. Salamat, et al.
+TNSAN, 264, 1
+[ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.264....1D/abstract) 
+
+#### JADES: The star-formation and chemical enrichment history of a luminous galaxy at z~9.43 probed by ultra-deep JWST/NIRSpec spectroscopy
+by Mirko Curti, Joris Witstok, Peter Jakobsen, Chiaki Kobayashi, Emma Curtis-Lake, et al.,
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240702575C/abstract) [arXiv](https://arxiv.org/abs/2407.02575)
+
+#### JADES: Physical properties of Ly-alpha  and non-Ly-alpha emitters at z ~ 4.8-9.6
+by Nimisha Kumari, Renske Smit, Joris Witstok, Marco Sirianni, Roberto Maiolino, et al.,
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240611997K/abstract) [arXiv](https://arxiv.org/abs/2406.11997)
+
+#### The JADES Transient Survey: Discovery and Classification of Supernovae in the JADES Deep Field
+by Christa DeCoursey, Eiichi Egami, Justin Pierel, Fengwu Sun, Armin Rest, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240605060D/abstract) [arXiv](https://arxiv.org/abs/2406.05060)
+
+#### JADES Transient Discovery Report for 2024-06-06
+by Christa DeCoursey
+TNSTR, 1820, 1 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024TNSTR1820....1D/abstract)
+
+#### JADES Transient Discovery Report for 2024-06-05
+by Christa DeCoursey
+TNSTR, 1806, 1 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024TNSTR1806....1D/abstract)
+
+#### Discovery of 78 Transients (z_host=0.21-4.82) in the JADES Deep Field
+by Christa DeCoursey, Eiichi Egami, Justin Pierel, Fengu Sun, Armin Rest, et al.
+TNSTR, 168, 1 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024TNSAN.168....1D/abstract)
+
+#### JADES -- The small blue bump in GN-z11: insights into the nuclear region of a galaxy at z=10.6
+by Xihan Ji, Roberto Maiolino, Gary Ferland, Francesco D'Eugenio, Rachana Bhatawdekar, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240505772J/abstract) [arXiv](https://arxiv.org/abs/2405.05772)
+
+#### Searching for Emission Lines at z > 11: The Role of Damped Ly-alpha and Hints About the Escape of Ionizing Photons
+by Kevin Hainline, Francesco D'Eugenio, Peter Jakobsen, Jacopo Chevallard, Stefano Carniani, et al.
+Astrophysical Journal, 976, 160 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..160H/abstract) [arXiv](https://arxiv.org/abs/2404.04325)
+
+#### Hitting the slopes: A spectroscopic view of UV continuum slopes of galaxies reveals a reddening at z > 9.5
+by Aayush Saxena, Alex Cameron, Harley Katz, Andrew Bunker, Jacopo Chevallard, et al.,
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241114532S/abstract) [arXiv](https://arxiv.org/abs/2411.14532)
+
+#### Not Just a Dot: the complex UV morphology and underlying properties of Little Red Dots
+by Pierluigi Rinaldi, Nina Bonaventura, George Rieke, Stacey Alberts, Karina Caputi, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241114383R/abstract) [arXiv](https://arxiv.org/abs/2411.14383)
+
+#### The eventful life of a luminous galaxy at z = 14: metal enrichment, feedback, and low gas fraction?
+by Stefano Carniani, Francesco D'Eugenio, Xihan Ji, Eleonora Parlanti, Jan Scholtz, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240920533C/abstract) [arXiv](https://arxiv.org/abs/2409.20533)
+
+#### No evidence for a significant evolution of  M_BH - M_star  relation in massive galaxies up to z ∼ 4
+by Yang Sun, Jianwei Lyu, George Rieke, Zhiyuan Ji, Fengwu Sun, et al.,
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240906796S/abstract) [arXiv](https://arxiv.org/abs/2409.06796)
+
+#### Discovery of a Relativistic Stripped-envelope Type Ic-BL Supernova at z = 2.83 with JWST
+by M. Siebert, C. DeCoursey, D. Coulter, M. Engasser, J. Pierel, et al.,
+Astrophysical Journal, 972, L13 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...972L..13S/abstract) [arXiv](https://arxiv.org/abs/2406.05076)
+
+#### Discovery of an Apparent Red, High-velocity Type Ia Supernova at z = 2.9 with JWST
+by J., Pierel, M. Engasser, D. Coulter, C. DeCoursey, M. Siebert, et al. 
+Astrophysical Journal, 972, L2 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...971L..32P/abstract) [arXiv](https://arxiv.org/abs/2406.05089)
+
+#### Witnessing the onset of Reionisation via Lyman-alpha  emission at redshift 13
+by Joris Witstok, Peter Jakobsen, Roberto Maiolino, Jakob Helton, Benjamin Johnson, et al., 
+submitted (2024) 
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240816608W/abstract) [arXiv](https://arxiv.org/abs/2408.16608)
+
+#### JWST/MIRI photometric detection at  7.7 um  in a galaxy at  z>14 
+by Jakob Helton, George Rieke, Stacey Alberts, Zihao Wu, Daniel Eisenstein, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240518462H/abstract) [arXiv](https://arxiv.org/abs/2405.18462)
+
+#### Spectroscopic confirmation of two luminous galaxies at a redshift of 14
+by Stefano Carniani, Kevin Hainline, Francesco D'Eugenio, Daniel Eisenstein, Peter Jakobsen, et al., 
+Nature, 633, 318 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024Natur.633..318C/abstract) [arXiv](https://arxiv.org/abs/2405.18485)
+
+#### An Investigation Into The Selection and Colors of Little Red Dots and Active Galactic Nuclei
+by Kevin Hainline, Roberto Maiolino, Ignas Juodzbalis, Jan Scholtz, Hannah Ubler, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241000100H/abstract) [arXiv](https://arxiv.org/abs/2410.00100)
+
+
+
+
 
 #### Resolving the nature and putative nebular emission of GS9422: an obscured AGN without exotic stars
 by Sandro Tacchella, William McClymont, Jan Scholtz, Roberto Maiolino, Xihan Ji, et al.,
@@ -54,11 +217,11 @@ submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240303872J/ab
 
 #### Ly-alpha emission in galaxies at  z≃5−6: new insight from JWST into the statistical distributions of Ly-alpha properties at the end of reionization
 by Mengtao Tang, Daniel Stark, Richard Ellis, Fengwu Sun, Michael Topping et al.
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240206070T/abstract) [arXiv](https://arxiv.org/abs/2402.06070)
+MNRAS, 531, 27011 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240206070T/abstract) [arXiv](https://arxiv.org/abs/2402.06070)
 
 #### Extreme emission line galaxies detected in JADES JWST/NIRSpec I: inferred galaxy properties
 by Kit Boyett, Andrew Bunker, Emma Curtis-Lake, Jacopo Chevallard, Alex Cameron, et al., 
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240116934B/abstract) [arXiv](https://arxiv.org/abs/2401.16934)
+MNRAS, 535, 1796 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240116934B/abstract) [arXiv](https://arxiv.org/abs/2401.16934)
 
 #### The Relation Between AGN and Host Galaxy Properties: I. Obscured AGN reside in disturbed hosts at 0<z<4
 by Nina Bonaventura, Jianwei Lyu, George Rieke, Stacey Alberts, Christopher Willmer, et al., 
@@ -68,14 +231,10 @@ submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240107863B/ab
 by Zhiyuan Ji, Christina Williams, Katherine Suess, Sandro Tacchella, Benjamin Johnson, et al.,
 submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240100934J/abstract) [arXiv](https://arxiv.org/abs/2401.00934)
 
-#### To high redshift and low mass: exploring the emergence of quenched galaxies and their environments at  3<z<6 in the ultra-deep JADES MIRI F770W parallel
-by Stacey Alberts, Christina Williams, Jakob Helton, Katherine Suess, Zhiyuan Ji, et al., 
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231212207A/abstract) [arXiv](https://arxiv.org/abs/2312.12207)
-
 
 #### Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang
 by Brant Robertson, Benjamin Johnson, Sandro Tacchella, Daniel Eisenstein, Kevin Hainline, et al.
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231210033R/abstract) [arXiv](https://arxiv.org/abs/arXiv:2312.10033)
+Astrophysical Journal, 970, 31 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231210033R/abstract) [arXiv](https://arxiv.org/abs/arXiv:2312.10033)
 
 #### JADES: A large population of obscured, narrow line AGN at high redshift
 by Jan Scholtz, Roberto Maiolino, Francesco D'Eugenio, Emma Curtis-Lake, Stefano Carniani, et al.
@@ -83,20 +242,20 @@ submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231118731S/ab
 
 #### JADES: Carbon enrichment 350 Myr after the Big Bang in a gas-rich galaxy
 by Francesco D'Eugenio, Roberto Maiolino, Stefano Carniani, Emma Curtis-Lake, Joris Witstok, et al.
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231109908D/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.09908)
+A&A, 689, 152 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231109908D/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.09908)
 
 #### The galaxies missed by Hubble and ALMA: the contribution of extremely red galaxies to the cosmic census at 3<z<8
 by Christina Williams, Stacey Alberts, Zhiyuan Ji, Kevin Hainline, Jianwei Lyu, et al.,
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231107483W/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.07483)
+Astrophysical Journal, 968, 34 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231107483W/abstract) [arXiv](https://arxiv.org/abs/arXiv:2311.07483)
 
 #### Identification of High-Redshift Galaxy Overdensities in GOODS-N and GOODS-S
 by Jakob Helton, Fengwu Sun, Charity Woodrum, Kevin Hainline, Christopher Willmer, et al., 
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231104270H/abstract)
+Astrophysical Journal 974, 41 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231104270H/abstract)
 [arXiv](https://arxiv.org/abs/arXiv:2311.04270)
 
 #### JADES: Using NIRCam Photometry to Investigate the Dependence of Stellar Mass Inferences on the IMF in the Early Universe
 by Charity Woodrum, Marcia Rieke, Zhiyuan Ji, William Baker, Rachana Bhatawdekar, et al., 
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231018464W/abstract) [arXiv](https://arxiv.org/abs/arXiv:2310.18464)
+PNAS, 121, 17375 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231018464W/abstract) [arXiv](https://arxiv.org/abs/arXiv:2310.18464)
 
 #### JADES Transient Discovery Report for 2023-10-21
 by Christa DeCoursey, Fengwu Sun, Eiichi Egami, Marcia Rieke, Kevin Hainline, et al.
@@ -113,7 +272,7 @@ MNRAS, 527, 6139 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.6
 
 #### Ionised gas kinematics and dynamical masses of  z>6 galaxies from JADES/NIRSpec high-resolution spectroscopy
 by Anna de Graaff, Hans-Walter Rix, Stefano Carniani, Katherine A. Suess, Stephane Charlot, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2308.09742)
+A&A, 684, 87 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..87D/abstract) [arXiv](https://arxiv.org/abs/arXiv:2308.09742)
 
 #### Brown Dwarf Candidates in the JADES and CEERS Extragalactic Surveys
 by Kevin N. Hainline, Jakob M. Helton, Benjamin D. Johnson, Fengwu Sun, Michael W. Topping, et al., 
@@ -121,7 +280,7 @@ ApJ 964, 66 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...66H/
 
 #### JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty
 by Roberto Maiolino, Jan Scholtz, Emma Curtis-Lake, Stefano Carniani, William Baker, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2308.01230)
+A&A, 691, 145 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.145M/abstract) [arXiv](https://arxiv.org/abs/arXiv:2308.01230)
 
 #### Minor merger growth in action: JWST detects faint blue companions around massive quiescent galaxies at 0.5 < z < 3
 by Katherine Suess, Christina Williams, Brant Robertson, Zhiyuan Ji, Benjamin Johnson, et al.,
@@ -129,7 +288,7 @@ ApJ Letters, accepted (2023), [arXiv](https://arxiv.org/abs/arXiv:2307.14209)
 
 #### The UV Continuum Slopes of Early Star-Forming Galaxies in JADES
 by Michael Topping, Daniel Stark, Ryan Endsley, Lily Whitler, Kevin Hainline, et al.,
-MNRAS in press (2023), [arXiv](https://arxiv.org/abs/arXiv:2307.08835)
+MNRAS 529, 4087 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4087T/abstract) [arXiv](https://arxiv.org/abs/arXiv:2307.08835)
 
 #### JADES: deep spectroscopy of a low-mass galaxy at redshift 2.3 quenched by environment
 by Lester Sandles, Francesco D'Eugenio, Jakob Helton, Roberto Maiolino, Kevin Hainline, et al.,
@@ -137,7 +296,7 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2307.08633)
 
 #### JADES: The incidence rate and properties of galactic outflows in low-mass galaxies across 3 < z < 9
 by Stefano Carniani, Giacomo Venturi, Eleonora Parlanti, Anna de Graaff, Roberto Maiolino, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.11801)
+A&A, 685, 99 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...685A..99C/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.11801)
 
 
 #### The Cosmos in its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N
@@ -156,9 +315,9 @@ submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02470)
 by Gareth Jones, Andrew J. Bunker, Aayush Saxena, Joris Witstok, Daniel P. Stark, et al.,
 A\&A 683, 238 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...683A.238J/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.02471)
 
-#### Inside-out growth in the early universe: a core in a vigorously star-forming disc
+#### A core in a star-forming disc as evidence of inside-out growth in the early Universe
 by William M. Baker, Sandro Tacchella, Benjamin D. Johnson, Erica Nelson, Katherine A. Suess, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.02472)
+Nature Astronomy, in press (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024NatAs.tmp..246B/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.02472)
 
 #### JADES Transient Discovery Report for 2023-06-06
 by Christa DeCoursey, Eiichi Egami, Marcia Rieke, Shea DeFour-Remy, Sanvi Khairnar, et al.,
@@ -180,7 +339,7 @@ to be submitted (2023)
 
 #### JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization
 by Aayush Saxena, Andrew Bunker, Gareth Jones, Daniel Stark, Alex Cameron, et al., 
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.04536]
+A&A, 684, 84 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..84S/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.04536]
 
 #### Inside the bubble: exploring the environments of reionisation-era Lyman-alpha emitting galaxies with JADES and FRESCO
 by Joris Witstok, Renske Smit, Aayush Saxena, Gareth Jones, Jakob Helton, et al., 
@@ -188,19 +347,20 @@ A\&A 682, 40 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..4
 
 #### The Star-forming and Ionizing Properties of Dwarf z ∼ 6 − 9 Galaxies in JADES: Insights on Bursty Star Formation and Ionized Bubble Growth
 by Ryan Endsley, Daniel Stark, Lily Whitler, Michael Topping, Benjamin Johnson, et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.05295]
+MNRAS, 533, 1111 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.1111E/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.05295]
 
 #### JADES: Balmer Decrement Scaling Relations at Cosmic Dawn
-by Lester Sandles et al.,
-submitted (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.03931]
+by Lester Sandles, Francesco D'Eugenio, Roberto Maiolino, Tobias Looser, Santiago Arribas, et al., 
+A&A 691, 305 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.305S/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.03931]
 
 #### JWST-JADES. Possible Population III signatures at z=10.6 in the halo of GN-z11
 by Roberto Maiolino, Hannah Uebler, Michele Perna, Jan Scholtz, Francesco D'Eugenio, et al.,
-submitted to A&A (2023), [arXiv](https://arxiv.org/abs/arXiv:2306.00953)
+A&A, 687, 67 (2024), [arXiv](https://arxiv.org/abs/arXiv:2306.00953)
 
 #### JADES + JEMS: A Detailed Look at the Buildup of Central Stellar Cores and Suppression of Star Formation in Galaxies at Redshift 3<z<4.5
 by Zhiyuan Ji, Christina C. Williams, Sandro Tacchella, Katherine A. Suess, William M. Baker, et al.,
-submitted (2023)
+ApJ, 974, 135 (2024)
 [arXiv](https://arxiv.org/abs/arXiv:2305.18518)
 
 #### JADES: Resolving the Stellar Component and Overdense Environment of HST-Dark Submillimeter Galaxy HDF850.1 at z=5.18
@@ -225,7 +385,7 @@ Nature Astronomy, (2023)
   
 #### JADES: Insights on the low-mass end of the mass--metallicity--star-formation rate relation at 3<z<10 from deep JWST/NIRSpec spectroscopy
 by Mirko Curti, Roberto Maiolino, Stefano Carniani, Francesco D'Eugenio, Jacopo Chevallard, et al.  
-arXiv e-prints, arXiv:2304.08516 (2023)  
+A&A 684, 75 (2024)
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230408516C) [arXiv](https://arxiv.org/abs/arXiv:2304.08516) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230408516C/exportcitation)  
   
 #### JADES: Probing interstellar medium conditions at z=5.5-9.5 with ultra-deep JWST/NIRSpec spectroscopy
@@ -234,9 +394,9 @@ Astronomy & Astrophysics, 677, 115 (2023),
 arXiv:2302.04298 (2023)  
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230204298C) [arXiv](https://arxiv.org/abs/arXiv:2302.04298) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230204298C/exportcitation)  
   
-#### Discovery of a quiescent galaxy at z=7.3
+#### A recently quenched galaxy 700 million years after the Big Bang
 by Tobias J. Looser, Francesco D'Eugenio, Roberto Maiolino, Joris Witstok, Lester Sandles, et al.  
-arXiv e-prints, arXiv:2302.14155 (2023)  
+Nature, 629, 53 (2024)
 [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230214155L) [arXiv](https://arxiv.org/abs/arXiv:2302.14155) [BibTex](https://ui.adsabs.harvard.edu/abs/2023arXiv230214155L/exportcitation)  
   
 #### JADES Imaging of GN-z11: Revealing the Morphology and Environment of a Luminous Galaxy 430 Myr After the Big Bang
@@ -286,9 +446,14 @@ Transient Name Server AstroNote, 16, 1 (2023)
 ### <font size="6">Collaborative Papers</font>
 ----------
 
+#### SMILES: Discovery of Higher Ionizing Photon Production Efficiency in Overdense Regions
+by Yongda Zhu, Stacey Alberts, Jianwei Lyu, Jane Morrison, George Rieke, et al., 
+submitted (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241014804Z/abstract) [arXiv](https://arxiv.org/abs/2410.14804)
+
 #### A new census of dust and PAHs at z=0.7-2 with JWST MIRI
 by Irene Shivaei, Stacey Alberts, Michael Florian, George Rieke, Stijn Wuyts, et al., 
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240207989S/abstract) [arXiv](https://arxiv.org/abs/2402.07989)
+A&A, 690, 89 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240207989S/abstract) [arXiv](https://arxiv.org/abs/2402.07989)
 
 #### What is the nature of Little Red Dots and what is not, MIRI SMILES edition
 by Pablo Perez-Gonzalez, Guillermo Barro, George Rieke, Jianwei Lyu, Marcia Rieke, et al.,
@@ -298,12 +463,17 @@ submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240108782P/ab
 by Jianwei Lyu, Stacey Alberts, George H. Rieke, Irene Shivaei, Pablo G. Perez-Gonzalez, et al., 
 submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012330L) [arXiv](https://arxiv.org/abs/arXiv:2310.12330)
 
-#### FRESCO: An extended, massive, rapidly rotating galaxy at z=5.3
+#### Ionized Gas Kinematics with FRESCO: An Extended, Massive, Rapidly Rotating Galaxy at z = 5.4
 by Erica J. Nelson, Gabriel Brammer, Clara Gimenez-Arteaga, Pascal A. Oesch, Hannah Ubler,
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231006887N) [arXiv](https://arxiv.org/abs/arXiv:2310.06887)
+Astrophysical Journal, 976, 27 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231006887N) [arXiv](https://arxiv.org/abs/arXiv:2310.06887)
 
 ### <font size="6">Community Papers and Datasets</font>
 ----------
+
+#### SMILES Initial Data Release: Unveiling the Obscured Universe with MIRI Multiband Imaging
+by Stacey Alberts, Jianwei Lyu, Irene Shivaei, George Rieke, Pablo Perez-Gonzalez, et al.,
+Astrophysical Journal, 976, 224 (2024)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..224A/abstract) [arXiv](https://arxiv.org/abs/arXiv:2405.15972) 
 
 #### JEMS: A deep medium-band imaging survey in the Hubble Ultra-Deep Field with JWST NIRCam & NIRISS  
 by Christina C. Williams, Sandro Tacchella, Michael V. Maseda, Brant E. Robertson, Benjamin D. Johnson, et al. 
