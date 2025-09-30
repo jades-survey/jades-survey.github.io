@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "JADES Fourth Data Release"
-date:   2025-10-01 20:00:00 -0700
+date:   2025-10-01 09:00:00 -0700
 author: JADES Collaboration
 categories: high-redshift
 ---
@@ -10,26 +10,20 @@ JADES has issued its fourth public release!  This release
 features all of the JADES spectroscopy of the entire survey,
 a total of 5190 targets observed with the NIRSpec prism and all
 of the medium-resolution gratings.  A total of 3787 spectroscopic
-redshifts are reported, including XYZ at z>5.  The data release 
+redshifts are reported, including 974 at z>4.  The data release 
 paper describes the sample in detail, including many aspects of the 
 very detailed data reduction and vetting of these beautiful spectra.
 
-The release also includes our first release of imaging and photometric
-catalogs in the GOODS-N region, containing 85,000 objects over 56 square arcminutes, most measured in 9 filters.  
 
-The images and catalogs are visualized through the JADES FITSmap viewer,
+The images and catalogues are visualized through the JADES FITSmap viewer,
 linked in this website.  Be sure to use the "NIRSpec Spectra" overlay to
 see the spectroscopy!
 
 Here is a visualization of the spectroscopy, showing the sweep of emission lines through a progression of redshift.
 
-![JADES Third Data Release in GOODS-N](/assets/images/dr3_spectral_stack.png)
+![JADES Fourth Data Release in GOODS-N](/assets/images/dr3_spectral_stack.png)
 
-Below are an image of the full GOODS-N data release and a cutout of the 
-famous Hubble Deep Field region, now shown here with exquisitely deep infrared
-imaging..
+You can also search the <a href="https://jades.herts.ac.uk/search/" target="_blank">JADES Online Database</a> which enables you to filter the JADES spectroscopic catalogue by redshift, redshift quality flag, emission line fluxes or search by coordinates and search radius.
 
-![JADES Third Data Release in GOODS-N](/assets/images/goods-n-rgb.png)
-
-![JADES view of the Hubble Deep Field](/assets/images/jwst_hdf_annotated_lr.png)
+The final data release of the NIRCam imaging from our survey will be in the upcoming Datar Release 5 - stay tuned for more information. 
 
