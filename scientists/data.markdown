@@ -8,7 +8,7 @@ permalink: /scientists/data.html
 
 ### Temporary access to the public data products from the JWST Advanced Deep Extragalactic Survey - Data release 4 
 
-For any information about the DR4 and JADES spectroscopic survey, please refer to the <a href="https://arxiv.org/abs/2404.06531" target="_blank"> and <a href="https://arxiv.org/abs/2404.06531" target="_blank"> articles by the JADES team</a>.
+For any information about the DR4 and JADES spectroscopic survey, please refer to the articles by the JADES team:  <a href="https://arxiv.org/abs/2404.06531" target="_blank">Paper I</a> and <a href="https://arxiv.org/abs/2404.06531" target="_blank"> Paper II</a>.
 If you use these data products in your research, we would appreciate a citation to the JADES overview article (Eisenstein et al. 2023a), the JADES DR1 article (detailing the data reduction and spectroscopic data from PID 1210; Bunker et al. 2023b), D'Eugenio et al. (2025), Curtis-Lake et al. (2025) and Scholtz et al. (2025).  Depending on the data products used, further citations may be appropriate; Eisenstein et al. (2023b; PID 3215), Rieke et al. (2023; GOODS-S imaging) and Hainline et al. (2023; photometric redshifts).
 
 ### Reduced and calibrated data included in this release
