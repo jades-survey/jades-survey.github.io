@@ -19,7 +19,7 @@ You can access the spectroscopic data in the Data Release 4 - <a href="https://j
 We present full spectroscopic measurements of the JADES spectroscopic sample across different extrations. The full catalogue can be accessed below: 
 
 0. <a href="https://jades.herts.ac.uk/DR4/Readme_DR4_catalogues.md" target="_blank">README</a>
-1. <a href="https://jades.herts.ac.uk/DR4/Combined_DR4_internal_beta_v0.5.1.2b.fits" target="_blank"> Full DR spectroscopic catalogue</a>
+1. <a href="https://jades.herts.ac.uk/DR4/Combined_DR4_external.fits" target="_blank"> Full DR spectroscopic catalogue</a>
 
 You can also search the <a href="https://jades.herts.ac.uk/search/" target="_blank">JADES Online Database</a> which enables you to filter the JADES spectroscopic catalogue by redshift, redshift quality flag, emission line fluxes or search by coordinates and search radius. The Online database then allows you to display the NIRCam stamps, best fits for the R100 and R1000 data as well as download the full flux catalogue based on your search. 
 
