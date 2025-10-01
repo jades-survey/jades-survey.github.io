@@ -1,0 +1,29 @@
+---
+layout: single
+title:  "JADES Fourth Data Release"
+date:   2025-10-01 09:00:00 -0700
+author: JADES Collaboration
+categories: high-redshift
+---
+
+JADES has issued its fourth public release!  This release
+features all of the JADES spectroscopy of the entire survey,
+a total of 5190 targets observed with the NIRSpec prism and all
+of the medium-resolution gratings.  A total of 3787 spectroscopic
+redshifts are reported, including 974 at z>4.  The data release 
+paper describes the sample in detail, including many aspects of the 
+very detailed data reduction and vetting of these beautiful spectra.
+
+
+The images and catalogues are visualized through the JADES FITSmap viewer,
+linked in this website.  Be sure to use the "NIRSpec Spectra" overlay to
+see the spectroscopy!
+
+Here is a visualization of the spectroscopy, showing the sweep of emission lines through a progression of redshift.
+
+![JADES Fourth Data Release in GOODS-N](/assets/images/dr3_spectral_stack.png)
+
+You can also search the <a href="https://jades.herts.ac.uk/search/" target="_blank">JADES Online Database</a> which enables you to filter the JADES spectroscopic catalogue by redshift, redshift quality flag, emission line fluxes or search by coordinates and search radius.
+
+The final data release of the NIRCam imaging from our survey will be in the upcoming Datar Release 5 - stay tuned for more information. 
+

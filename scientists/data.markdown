@@ -4,7 +4,38 @@ title: Data Access
 permalink: /scientists/data.html
 ---
 
-# JADES Data Release 3
+
+
+# JADES Data Release 4: The full spectroscopic sample
+
+### Temporary access to the public data products
+
+For any information about the DR4 and JADES spectroscopic survey, please refer to the articles by the JADES team:  <a href="https://arxiv.org/" target="_blank">Paper I</a> and <a href="https://arxiv.org/" target="_blank"> Paper II</a>.
+If you use these data products in your research, we would appreciate a citation to the JADES overview article (Eisenstein et al. 2023a), the JADES NIRSpec DR1 article (detailing the data reduction and spectroscopic data from PID 1210; Bunker, Cameron, Curtis-Lake et al. 2023b), DR3 - (D'Eugenio et al., 2025), DR4 Paper I (Curtis-Lake, Cameron, Bunker et al., 2025) and DR4 Paper II (Scholtz, Carniani et al. 2025).  Depending on the data products used, further citations may be appropriate; Eisenstein et al. (2023b; PID 3215), Rieke et al. (2023; GOODS-S imaging) and Hainline et al. (2023; photometric redshifts).
+
+### Reduced and calibrated 1D and 2D spectra included in this release
+You can access the spectroscopic data in the Data Release 4 - <a href="https://jades.herts.ac.uk/DR4/" target="_blank">at this website</a> directly or using the wget commands.
+
+### Catalogues included in this release
+
+We present full spectroscopic measurements of the JADES spectroscopic sample across different extrations. The full catalogue can be accessed below: 
+
+0. <a href="https://jades.herts.ac.uk/DR4/Readme_DR4_catalogues.md" target="_blank">README</a>
+1. <a href="https://jades.herts.ac.uk/DR4/Combined_DR4_external_v1.2.1.fits" target="_blank"> Full NIRSpec spectroscopic flux catalogue</a>
+
+You can also search the <a href="https://jades.herts.ac.uk/search/" target="_blank">JADES Online Database</a> which enables you to filter the JADES spectroscopic catalogue by redshift, redshift quality flag, emission line fluxes or search by coordinates and search radius. The Online database then allows you to display the NIRCam stamps, best fits for the R100 and R1000 data as well as download the full flux catalogue based on your search and filters. 
+
+The team anticipates the full JADES imaging products to feature in a future data release, Data Release 5.  At that point the <a href="https://jades-survey.github.io/viewer/" target="_blank">fitsmap interactive viewer</a> will be updated.
+
+# JADES HLSP page
+
+All previous JADES data releases, including documentation are maintained at the  <a href="https://archive.stsci.edu/hlsp/jades" target="_blank">JADES HLSP page</a>.  We are working to ensure JADES Data Release 4 will also be available there in the near future.
+
+
+# Previous Data Release Information
+
+
+## JADES Data Release 3
 
 ### Temporary access to the public data products from the JWST Advanced Deep Extragalactic Survey
 
