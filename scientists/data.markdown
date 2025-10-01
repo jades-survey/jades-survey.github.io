@@ -6,10 +6,9 @@ permalink: /scientists/data.html
 
 
 
-# JADES Data Release 4
+# JADES Data Release 4: The full spectroscopic sample
 
-### Data release 4: The full spectroscopic sample
-#### Temporary access to the public data products
+### Temporary access to the public data products
 
 For any information about the DR4 and JADES spectroscopic survey, please refer to the articles by the JADES team:  <a href="https://arxiv.org/" target="_blank">Paper I</a> and <a href="https://arxiv.org/" target="_blank"> Paper II</a>.
 If you use these data products in your research, we would appreciate a citation to the JADES overview article (Eisenstein et al. 2023a), the JADES NIRSpec DR1 article (detailing the data reduction and spectroscopic data from PID 1210; Bunker, Cameron, Curtis-Lake et al. 2023b), DR3 - (D'Eugenio et al., 2025), DR4 Paper I (Curtis-Lake, Cameron, Bunker et al., 2025) and DR4 Paper II (Scholtz, Carniani et al. 2025).  Depending on the data products used, further citations may be appropriate; Eisenstein et al. (2023b; PID 3215), Rieke et al. (2023; GOODS-S imaging) and Hainline et al. (2023; photometric redshifts).
