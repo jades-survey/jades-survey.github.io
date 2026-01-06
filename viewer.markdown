@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/viewer_thumbnail.jpg
   actions:
     - label: "GOODS-S FitsMap"
-      url: "https://jades.idies.jhu.edu/public/"
+      url: "https://jades.idies.jhu.edu/goods-s/"
     - label: "GOODS-N FitsMap"
       url: "https://jades.idies.jhu.edu/goods-n/"
   caption: "Photo credit: [**JADES Collaboration**](https://jades-survey.github.io)"
