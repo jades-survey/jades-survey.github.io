@@ -5,29 +5,34 @@ title: About
 permalink: /about/
 ---
 
-JADES is conducting an ambitious program of deep infrared imaging and multi-object spectroscopy,
+JADES has conducted an ambitious program of deep infrared imaging and multi-object spectroscopy,
 using three JWST instruments, in the two most famous deep fields on the sky: the
 Hubble Deep Field (GOODS-N) and Hubble Ultra Deep Field (GOODS-S).
 
-Using over 1 month of mission time, JADES is the largest program in JWST Cycle 1. It
+Using over 1 month of mission time, JADES was the largest program in JWST Cycle 1. It
 is a collaboration of the Near-Infrared Camera (NIRCam) and Near-Infrared
 Spectrograph (NIRSpec) instrument development team, using guaranteed time from
-these teams as well as a smaller contribution from the MIRI-US team.
+these teams as well as a smaller contribution from the MIRI-US team.  
 
-JADES is conducting NIRCam imaging in 8-10 bands, covering about 45 square
+JADES conducted NIRCam imaging in 8-10 bands, covering about 42 square
 arcminutes to very deep limits (fainter than 30th magnitude) with an average of
-about 130 hours of total exposure time, and then another 175 square arcminutes
-to a typical exposure time of 20 hrs. Coordinated parallels with the MIRI
+about 100 hours of total exposure time, and then another 167 square arcminutes
+to a typical exposure time of 25 hrs. Coordinated parallels with the MIRI
 instrument extend this imaging further into the infrared in smaller regions.
 
-JADES is then conducting extensive NIRSpec spectroscopy with over 5000 targets
+JADES then performed extensive NIRSpec spectroscopy with over 5000 targets
 on 31 separate pointings, including two of exceptional depth (55 hrs spread across
 5 dispersers). These produce beautiful assessments of these faint galaxies.
 
-JADES has already produced a series of important results, including the
-highest redshift galaxy spectroscopically confirmed so far with JWST.
-The first data release, comprising deep imaging and spectroscopy in and
-around the Hubble Ultra Deep Field, is now available.
+In addition to this original program scope, the JADES team added additional
+imaging and spectroscopy in Cycles 1, 2, \& 3 from a number of affiliated guest observer
+programs.  
+
+JADES has already produced a series of important results, including some of the
+highest redshift galaxies spectroscopically confirmed so far with JWST.
+Five data releases are now available, with careful reductions of all of the 
+data from the guaranteed time program as well as other public imaging in the 
+GOODS-S and GOODS-N fields.
 
 ### Acknowledgements
 
