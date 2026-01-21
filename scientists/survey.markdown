@@ -28,7 +28,7 @@ The design features a mosaic of Medium-depth NIRCam imaging, on which we
 place a substantial amount of NIRSpec multi-shutter (MSA) spectroscopy. 
 The NIRCam parallels from this spectroscopy then extends the imaging footprint.
 
-![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_all.jpg)
+![JADES GOODS-N](/assets/images/jadesgoodsn_aug2025_all.jpg)
 
 ## JADES GOODS-S
 
@@ -36,7 +36,7 @@ The GOODS-S footprint is more complicated because in this field we also have
 our Deep imaging and spectroscopy. This figure shows this with different 
 colors to distinguish Deep and Medium.
 
-![JADES GOODS-S](/assets/images/jadesgoodss_may2023_all.jpg)
+![JADES GOODS-S](/assets/images/jadesgoodss_aug2025_all.jpg)
 
 Most JADES NIRCam imaging uses 9 filters: F090W, F115W, F150W, F200W, F277W, F335M, F356W, 
 F410M, and F444W. The NIRCam Medium parallels add F070W as a 10th filter. Some of the 
@@ -79,5 +79,5 @@ parallel field of NIRCam imaging just south of JADES.  The NGDEEP
 primary program is deep JWST/NIRISS slitless spectroscopy in the HUDF;
 that footprint isn't shown here.
 
-![JADES GOODS-N](/assets/images/jadesgoodsn_may2023_nc_ncp_others.jpg)
-![JADES GOODS-S](/assets/images/jadesgoodss_may2023_nc_ncp_others.jpg)
+![JADES GOODS-N](/assets/images/jadesgoodsn_aug2025_nc_ncp_others.jpg)
+![JADES GOODS-S](/assets/images/jadesgoodss_aug2025_nc_ncp_others.jpg)
