@@ -103,12 +103,14 @@ permalink: /team/
 <td>Member of the NIRSpec Instrument Science Team</td>
 </tr>
 
+<!--
 <tr>
 <td><img src="/assets/images/team_resized/Chen_Zuyi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Zuyi Chen</td>
 <td>University of Arizona</td>
 <td></td>
 </tr>
+-->
 
 <tr>
 <td><img src="/assets/images/team_resized/Chevallard_Jacopo.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
@@ -173,12 +175,14 @@ permalink: /team/
 <td></td>
 </tr>
 
+<!--
 <tr>
 <td><img src="/assets/images/team_resized/Dressler_Alan.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Alan Dressler</td>
 <td>Carnegie Observatories</td>
 <td></td>
 </tr>
+-->
 
 <tr>
 <td><img src="/assets/images/team_resized/Egami_Eiichi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
@@ -194,12 +198,14 @@ permalink: /team/
 <td>Daniel Eisenstein is affiliated with the NIRCam Science Team and serves on the JADES Steering Committee; his interests include statistical measures of galaxy evolution and cosmology.</td>
 </tr>
 
+<!--
 <tr>
 <td><img src="/assets/images/team_resized/Endsley_Ryan.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.ryan-endsley.com/">Ryan Endsley</a></td>
 <td>University of Texas at Austin</td>
 <td>Ryan Endsley is affiliated with the NIRCam Science Team and his interests are broadly centered on how galaxies first formed and drove cosmic reionization.</td>
 </tr>
+-->
 
 <tr>
 <td><img src="/assets/images/team_resized/Ferruit_Pierre.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
@@ -519,12 +525,14 @@ permalink: /team/
 <td></td>
 </tr>
 
+<!--
 <tr>
 <td><img src="/assets/images/team_resized/Stark_Daniel.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Daniel Stark</td>
 <td>University of California, Berkeley</td>
 <td></td>
 </tr>
+-->
 
 <tr>
 <td><img src="/assets/images/team_resized/Stone_Meredith.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
@@ -561,19 +569,23 @@ permalink: /team/
 <td>I am studying the physics that govern the formation of the first galaxies in the early universe, the buildup of the bulge and disk components in galaxies, and the cessation of star formation in massive galaxies.</td>
 </tr>
 
+<!--
 <tr>
 <td><img src="/assets/images/team_resized/Tang_Mengtao.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Mengtao Tang</td>
 <td>University of Arizona</td>
 <td>Mengtao Tang is interested in understanding the physical properties of distant galaxies and their impact on the cosmic reionization.</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td><img src="/assets/images/team_resized/Topping_Michael.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://mwtopping.github.io/">Michael Topping</a></td>
 <td>University of Arizona</td>
 <td>Michael Topping is affiliated with the NIRCam Science Team, and is primarily interested in galaxy evolution, and the physical conditions within the earliest galaxies.  </td>
 </tr>
+-->
 
 <tr>
 <td><img src="/assets/images/team_resized/Trussler_James.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
@@ -676,4 +688,7 @@ permalink: /team/
 
 </tbody>
 </table>
+
+#### And our thanks to former JADES Members: Zuyi Chen, Alan Dressler, Ryan Endsley, Dan Stark, Mengtao Tang, Michael Topping
+
 </div>
