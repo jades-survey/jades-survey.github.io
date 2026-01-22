@@ -689,6 +689,6 @@ permalink: /team/
 </tbody>
 </table>
 
-#### And our thanks to former JADES Members: Zuyi Chen, Alan Dressler, Ryan Endsley, Dan Stark, Mengtao Tang, Michael Topping
+And our thanks to former JADES Members: Zuyi Chen, Alan Dressler, Ryan Endsley, Dan Stark, Mengtao Tang, Michael Topping
 
 </div>
