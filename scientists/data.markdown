@@ -10,7 +10,8 @@ DR5 contains the reduced NIRCam mosaics for GOODS-S and GOODS-N, including all J
 
 ### Data access
 
-These data will have their permanent home on MAST, but in the meantime, we are establishing a temporary location.
+These data will have their permanent home on MAST, but in the meantime, we have established a temporary location 
+<a href="https://slate.ucsc.edu/~brant/jades-dr5/">here.</a>
 
 We also encourage everyone to interact with the data through our FITSmap viewer!
 
