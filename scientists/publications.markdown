@@ -125,11 +125,6 @@ arXiv e-prints, arXiv:2510.06315 (2025)
 The Astrophysical Journal, 992, 212 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...992..212W) [arXiv](https://arxiv.org/abs/arXiv:2507.22858) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJ...992..212W/exportcitation)
 
-#### Not Just a Dot: The Complex UV Morphology and Underlying Properties of Little Red Dots
- by P. Rinaldi, N. Bonaventura, G. H. Rieke, S. Alberts, K. I. Caputi, et al.
-The Astrophysical Journal, 992, 71 (2025)
-[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...71R) [arXiv](https://arxiv.org/abs/arXiv:2411.14383) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...71R/exportcitation)
-
 #### JADES: The Star Formation and Dust Attenuation Properties of Galaxies at 3<z<7
  by Charity Woodrum, Irene Shivaei, Joris Witstok, Aayush Saxena, Charlotte Simmonds, et al.
 arXiv e-prints, arXiv:2510.00235 (2025)
@@ -368,10 +363,6 @@ submitted (2024)
 by Sandro Tacchella, William McClymont, Jan Scholtz, Roberto Maiolino, Xihan Ji, et al.,
 Monthly Notices of the Royal Astronomical Society, 540, 851 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..851T) [arXiv](https://arxiv.org/abs/arXiv:2404.02194) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..851T/exportcitation)
-
-#### Spatially resolved emission lines in galaxies at  4≤z<10 from the JADES survey: evidence for enhanced central star formation
-by Roberta Tripodi, Francesco D'Eugenio, Roberto Maiolino, Mirko Curti, Jan Scholtz, et al.
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240308431T/abstract) [arXiv](https://arxiv.org/abs/2403.08431)
 
 #### A dormant, overmassive black hole in the early Universe
 by Ignas Juodzbalis, Roberto Maiolino, William Baker, Sandro Tacchella, Jan Scholtz, et al., 
