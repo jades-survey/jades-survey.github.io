@@ -81,3 +81,29 @@ that footprint isn't shown here.
 
 ![JADES GOODS-N](/assets/images/jadesgoodsn_aug2025_nc_ncp_others.jpg)
 ![JADES GOODS-S](/assets/images/jadesgoodss_aug2025_nc_ncp_others.jpg)
+
+These figure from Alberts et al. (2026) shows the location of the MIRI imaging.
+
+![JADES MIRI Footprint](/assets/images/goodsn_footprint.png)
+![JADES MIRI Footprint](/assets/images/goodss_footprint.png)
+
+
+
+## JADES DR5 Depth Maps
+
+JADES DR5 includes nearly all of the NIRCam imaging available in GOODS-S and GOODS-N from the first
+three years of the JWST mission, 
+including data from 19 programs beyond the JADES Guaranteed Time program, totalling 1253 hours of
+exposure time over 18 filters.  The reductions and mosaicking are described in Johnson et al. (2026).
+
+The NIRCam depth maps provide an important summary of this complicated data set, which covers 469 square arcminutes 
+with at least 1 filter and 250 square arcminutes with at least 8.  The GOODS-S data includes several of the
+deepest pointings presently available from the mission.
+
+![JADES GOODS-N SW Depth](/assets/images/gdn_sw_depths.png)
+![JADES GOODS-N LW Depth](/assets/images/gdn_lw_depths.png)
+
+![JADES GOODS-S SW Depth](/assets/images/gds_sw_depths.png)
+![JADES GOODS-S LW Depth](/assets/images/gds_lw_depths.png)
+
+
