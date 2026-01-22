@@ -22,8 +22,8 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Alberts_Stacey.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.staceyalberts.com/">Stacey Alberts</a></td>
-<td>University of Arizona</td>
-<td>Stacey Alberts is a member of the MIRI instrument and MIRI and NIRCam science teams.  She studies dust-obscured star formation and AGN activity across different environments and across cosmic time.</td>
+<td>Space Telescope Science Institute</td>
+<td>Stacey Alberts is an ESA/AURA Astronomer at STScI and the MIRI Imager lead, as well as a member of the MIRI and NIRCam science teams. She studies dust in star forming and quiescent galaxies, obscured AGN, and the effects of environment on galaxy evolution.</td>
 </tr>
 
 <tr>
