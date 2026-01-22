@@ -337,13 +337,13 @@ Astrophysical Journal, 972, L2 (2024)
 
 #### Witnessing the onset of Reionisation via Lyman-alpha  emission at redshift 13
 by Joris Witstok, Peter Jakobsen, Roberto Maiolino, Jakob Helton, Benjamin Johnson, et al., 
-submitted (2024) 
-[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240816608W/abstract) [arXiv](https://arxiv.org/abs/2408.16608)
+Nature, 639, 897 (2025) 
+[ADS](https://ui.adsabs.harvard.edu/abs/2025Natur.639..897W/abstract) [arXiv](https://arxiv.org/abs/2408.16608) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025Natur.639..897W/exportcitation)
 
 #### JWST/MIRI photometric detection at  7.7 um  in a galaxy at  z>14 
 by Jakob Helton, George Rieke, Stacey Alberts, Zihao Wu, Daniel Eisenstein, et al., 
-submitted (2024)
-[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240518462H/abstract) [arXiv](https://arxiv.org/abs/2405.18462)
+Nature Astronomy, 9, 729 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..729H/abstract) [arXiv](https://arxiv.org/abs/2405.18462) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..729H/exportcitation)
 
 #### Spectroscopic confirmation of two luminous galaxies at a redshift of 14
 by Stefano Carniani, Kevin Hainline, Francesco D'Eugenio, Daniel Eisenstein, Peter Jakobsen, et al., 
@@ -352,8 +352,8 @@ Nature, 633, 318 (2024)
 
 #### An Investigation Into The Selection and Colors of Little Red Dots and Active Galactic Nuclei
 by Kevin Hainline, Roberto Maiolino, Ignas Juodzbalis, Jan Scholtz, Hannah Ubler, et al., 
-submitted (2024)
-[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241000100H/abstract) [arXiv](https://arxiv.org/abs/2410.00100)
+Astrophysical Journal, 979, 138 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..138H/abstract) [arXiv](https://arxiv.org/abs/2410.00100) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..138H/exportcitation)
 
 
 
@@ -606,8 +606,8 @@ Transient Name Server AstroNote, 16, 1 (2023)
 
 #### SMILES: Discovery of Higher Ionizing Photon Production Efficiency in Overdense Regions
 by Yongda Zhu, Stacey Alberts, Jianwei Lyu, Jane Morrison, George Rieke, et al., 
-submitted (2024)
-[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241014804Z/abstract) [arXiv](https://arxiv.org/abs/2410.14804)
+The Astrophysical Journal, 986, 18 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...986...18Z/abstract) [arXiv](https://arxiv.org/abs/2410.14804) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJ...986...18Z/exportcitation)
 
 #### A new census of dust and PAHs at z=0.7-2 with JWST MIRI
 by Irene Shivaei, Stacey Alberts, Michael Florian, George Rieke, Stijn Wuyts, et al., 
@@ -615,11 +615,11 @@ A&A, 690, 89 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240207989S
 
 #### What is the nature of Little Red Dots and what is not, MIRI SMILES edition
 by Pablo Perez-Gonzalez, Guillermo Barro, George Rieke, Jianwei Lyu, Marcia Rieke, et al.,
-submitted (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240108782P/abstract) [arXiv](https://arxiv.org/abs/2401.08782)
+The Astrophysical Journal, 968, 4 (2025), [ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...968....4P/abstract) [arXiv](https://arxiv.org/abs/2401.08782) [BibTeX](https://ui.adsabs.harvard.edu/abs/2024ApJ...968....4P/exportcitation)
 
 #### AGN Selection and Demographics: A New Age with JWST/MIRI
 by Jianwei Lyu, Stacey Alberts, George H. Rieke, Irene Shivaei, Pablo G. Perez-Gonzalez, et al., 
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012330L) [arXiv](https://arxiv.org/abs/arXiv:2310.12330)
+The Astrophysical Journal, 966, 229 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..229L/abstract) [arXiv](https://arxiv.org/abs/arXiv:2310.12330) [BibTeX](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..229L/exportcitation)
 
 #### Ionized Gas Kinematics with FRESCO: An Extended, Massive, Rapidly Rotating Galaxy at z = 5.4
 by Erica J. Nelson, Gabriel Brammer, Clara Gimenez-Arteaga, Pascal A. Oesch, Hannah Ubler,
