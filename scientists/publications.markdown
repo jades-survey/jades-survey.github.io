@@ -491,9 +491,11 @@ AstroNote (2023)
 by Isaac H. Laseter,  Michael V. Maseda, Mirko Curti, Roberto Maiolino, Francesco D'Eugenio, et al.,
 A\&A 681, 70 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...681A..70L/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.03120)
 
+<!--
 #### JWST-NIRSpec Spectroscopy HST-Selected Lyman break galaxies at z>~6 in the Hubble Ultra Deep Field and GOODS-South: redshift confirmation, ionzing escape fraction and implications for reionization
 by Andrew Bunker et al.,
 to be submitted (2023)
+-->
 
 #### JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization
 by Aayush Saxena, Andrew Bunker, Gareth Jones, Daniel Stark, Alex Cameron, et al., 
