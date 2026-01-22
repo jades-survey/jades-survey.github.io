@@ -90,6 +90,13 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Cargile_Phillip.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Phillip Cargile</td>
+<td>Harvard University</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Carniani_Stefano.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://stefanocarniani.wixsite.com/website">Stefano Carniani</a></td>
 <td>Scuola Normale Superiore, Pisa, Italy</td>
