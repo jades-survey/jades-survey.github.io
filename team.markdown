@@ -36,7 +36,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Baker_William.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.kicc.cam.ac.uk/directory/will-baker">William M. Baker</a></td>
-<td>8DARK, Niels Bohr Institute, University of Copenhagen</td>
+<td>DARK, Niels Bohr Institute, University of Copenhagen</td>
 <td>William is affiliated with the NIRCam Science Team, and his interests include galaxy morphology, spatially resolved photometry and  inside-out growth in the early Universe.</td>
 </tr>
 
@@ -125,6 +125,13 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Carreira_Courtney.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Courtney Carreira</td>
+<td>University of California, Santa Cruz</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Curti_Mirko.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Mirko Curti</td>
 <td>European Southern Observatory</td>
@@ -156,6 +163,13 @@ permalink: /team/
 <td><img src="/assets/images/team_resized/DeCoursey_Christa.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Christa DeCoursey</td>
 <td>University of Arizona</td>
+<td></td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Duan_Qiao.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Qiao Duan</td>
+<td>University of Cambridge</td>
 <td></td>
 </tr>
 
@@ -244,10 +258,24 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Isaak_Kate.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Kate Isaak</td>
+<td>European Space Agency</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Jakobsen_Peter.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://cosmicdawn.dk">Peter Jakobsen</a></td>
 <td>DAWN/University of Copenhagen</td>
 <td>I am affiliated with the NIRSpec GTO team and served as the ESA NIRSpec Project Scientist 1997-2011 during the design and construction phases of the instrument.</td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Ji_Xihan.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Xihan Ji</td>
+<td>University of Cambridge</td>
+<td></td>
 </tr>
 
 <tr>
@@ -256,6 +284,7 @@ permalink: /team/
 <td>University of Arizona</td>
 <td>Zhiyuan Ji is affiliated with the NIRCam Science Team, and his interests include understanding the stellar-population and structural properties of distant galaxies. </td>
 </tr>
+
 
 <tr>
 <td><img src="/assets/images/team_resized/Johnson_Benjamin.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
@@ -272,6 +301,13 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Juodzbalis_Ignas.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Ignas Juodzbalis</td>
+<td>University of Cambridge</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Kumari_Nimisha.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://sites.google.com/view/nimishakumari/home">Nimisha Kumari</a></td>
 <td>AURA/ESA/STScI</td>
@@ -283,6 +319,13 @@ permalink: /team/
 <td>Isaac Laseter</td>
 <td>University of Wisconsin - Madison</td>
 <td>Isaac Laseter is affiliated with the NIRSpec Science Team. His interests include studying the chemical evolution of high-z galaxies through direct metallicity indicators. </td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Lin_Xiaojing.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Xiaojing Lin</td>
+<td>University of Arizona</td>
+<td></td>
 </tr>
 
 <tr>
@@ -342,6 +385,14 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Perez-Gonzalez_Pablo.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Pablo Perez-Gonzalez</td>
+<td>Centro de Astrobiologia, CSIC–INTA</td>
+<td></td>
+</tr>
+
+
+<tr>
 <td><img src="/assets/images/team_resized/Perna_Michele.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Michele Perna</td>
 <td>Centro de Astrobiologia (CAB/CSIC--INTA)</td>
@@ -381,6 +432,14 @@ permalink: /team/
 <td><a href="https://www.as.arizona.edu/people/faculty/marcia-j-rieke">Marcia Rieke</a></td>
 <td>University of Arizona</td>
 <td>I am the NIRCam Principal Investigator and have been studying distant galaxies in the IR since the 1980s.</td>
+</tr>
+
+
+<tr>
+<td><img src="/assets/images/team_resized/Rinaldi_Pierluigi.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Pierluigi Rinaldi</td>
+<td>Space Telescope Science Institute</td>
+<td></td>
 </tr>
 
 <tr>
@@ -426,6 +485,13 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Shields_Tristen.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Tristen Shields</td>
+<td>University of Arizona</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Shivaei_Irene.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Irene Shivaei</td>
 <td>Centro de Astrobiología (CAB), CSIC-INTA</td>
@@ -461,6 +527,13 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Stone_Meredith.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Meredith Stone</td>
+<td>University of Arizona</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Suess_Katherine.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Katherine A. Suess</td>
 <td>University of Colorado</td>
@@ -472,6 +545,13 @@ permalink: /team/
 <td><a href="https://gxn.as.arizona.edu/~sunfengwu/home/">Fengwu Sun</a></td>
 <td>Harvard UniversityArizona</td>
 <td>Fengwu Sun is a member of the NIRCam science team with the expertise on dusty star-forming galaxies and NIRCam grism spectroscopy.</td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Sun_Yang.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Yang Sun</td>
+<td>University of Arizona</td>
+<td></td>
 </tr>
 
 <tr>
@@ -496,6 +576,13 @@ permalink: /team/
 </tr>
 
 <tr>
+<td><img src="/assets/images/team_resized/Trussler_James.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>James Trussler</td>
+<td>Harvard University</td>
+<td></td>
+</tr>
+
+<tr>
 <td><img src="/assets/images/team_resized/Übler_Hannah.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Hannah Übler</td>
 <td>Max-Planck-Institut fur extraterrestrische Physik</td>
@@ -507,6 +594,13 @@ permalink: /team/
 <td>Giacomo Venturi</td>
 <td>Scuola Normale Superiore, Pisa, Italy</td>
 <td>Giacomo Venturi is affiliated with the NIRSpec Science Team and his interest include the evolution of distant galaxies and the role supermassive black holes played in shaping it.</td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Villanueva_Natalia.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Natalia Villanueva</td>
+<td>University of Texas at Austin</td>
+<td></td>
 </tr>
 
 <tr>
@@ -557,6 +651,28 @@ permalink: /team/
 <td>Goddard Space Flight Center</td>
 <td>Charity Woodrum is a NIRCam Extragalactic Science Team member and her research interests focus on galaxy evolution and why galaxies stop forming stars.</td>
 </tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Wu_Zihao.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Zihao Wu</td>
+<td>Harvard University</td>
+<td></td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Zhang_Junyu.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Junyu Zhang</td>
+<td>University of Arizona</td>
+<td></td>
+</tr>
+
+<tr>
+<td><img src="/assets/images/team_resized/Zhu_Yongda.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
+<td>Yongda Zhu</td>
+<td>University of Arizona</td>
+<td></td>
+</tr>
+
 
 </tbody>
 </table>
