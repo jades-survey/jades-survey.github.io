@@ -36,7 +36,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Baker_William.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.kicc.cam.ac.uk/directory/will-baker">William M. Baker</a></td>
-<td>University of Cambridge</td>
+<td>8DARK, Niels Bohr Institute, University of Copenhagen</td>
 <td>William is affiliated with the NIRCam Science Team, and his interests include galaxy morphology, spatially resolved photometry and  inside-out growth in the early Universe.</td>
 </tr>
 
@@ -211,7 +211,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Graaff_Anna.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Anna de Graaff</td>
-<td>Max-Planck-Institut für Astronomie</td>
+<td>Harvard University</td>
 <td>I am part of the NIRSpec team, and interested in tracing the dynamical and structural evolution of galaxies with cosmic time using the combination of imaging and spectroscopy delivered by JADES.</td>
 </tr>
 
@@ -232,7 +232,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Helton_Jakob.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://jakobhelton.github.io/">Jakob Helton</a></td>
-<td>University of Arizona</td>
+<td>Penn State University</td>
 <td>Jakob Helton is affiliated with the NIRCam Science Team, with interests in understanding the formation and evolution of high-redshift galaxies and galaxy clusters.</td>
 </tr>
 
@@ -288,7 +288,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Looser_Tobias.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Tobias J. Looser</td>
-<td>University of Cambridge, Kavli Institute for Cosmology</td>
+<td>Harvard University</td>
 <td>Tobias J. Looser is a member of the NIRSpec Science Team, and his research interests lie in studying galaxy formation and evolution in the early stages of the Universe's history, with a special focus on understanding galaxy burstiness and quenching during these epochs.</td>
 </tr>
 
@@ -428,7 +428,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Shivaei_Irene.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Irene Shivaei</td>
-<td>University of Arizona</td>
+<td>Centro de Astrobiología (CAB), CSIC-INTA</td>
 <td></td>
 </tr>
 
@@ -442,7 +442,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Simmonds_Charlotte.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.kicc.cam.ac.uk/staff/dr-charlotte-simmonds">Charlotte Simmonds</a></td>
-<td>University of Cambridge</td>
+<td>Universidad de Chile</td>
 <td>Charlotte Simmonds is affiliated with the NIRCam Science Team, and her interests include understanding the galaxies responsible for reionizing the universe.</td>
 </tr>
 
@@ -456,21 +456,21 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Stark_Daniel.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Daniel Stark</td>
-<td>University of Arizona</td>
+<td>University of California, Berkeley</td>
 <td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Suess_Katherine.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Katherine A. Suess</td>
-<td>UC Santa Cruz</td>
+<td>University of Colorado</td>
 <td></td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Sun_Fengwu.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://gxn.as.arizona.edu/~sunfengwu/home/">Fengwu Sun</a></td>
-<td>University of Arizona</td>
+<td>Harvard UniversityArizona</td>
 <td>Fengwu Sun is a member of the NIRCam science team with the expertise on dusty star-forming galaxies and NIRCam grism spectroscopy.</td>
 </tr>
 
@@ -498,7 +498,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Übler_Hannah.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td>Hannah Übler</td>
-<td>University of Cambridge</td>
+<td>Max-Planck-Institut fur extraterrestrische Physik</td>
 <td>Hannah Übler is affiliated with the NIRSpec GTO Team and her interests include the kinematic evolution of galaxies and massive black holes in the early Universe.</td>
 </tr>
 
@@ -519,7 +519,7 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Whitler_Lily.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://astro.lilywhitler.com/">Lily Whitler</a></td>
-<td>University of Arizona</td>
+<td>University of Cambridge</td>
 <td>Lily Whitler is affiliated with the NIRCam science team. Her scientific interests lie in galaxy formation and evolution within the first billion years of cosmic time.</td>
 </tr>
 
@@ -547,14 +547,14 @@ permalink: /team/
 <tr>
 <td><img src="/assets/images/team_resized/Witstok_Joris.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://joriswitstok.com">Joris Witstok</a></td>
-<td>Kavli Institute for Cosmology, University of Cambridge</td>
+<td>Cosmic DAWN Center, University of Copenhagen</td>
 <td>Joris Witstok is part of the NIRSpec Science Team. His interests include the formation of the earliest galaxies, how they build up the first metals and dust, and their connection to Cosmic Reionization.</td>
 </tr>
 
 <tr>
 <td><img src="/assets/images/team_resized/Woodrum_Charity.jpg" onerror="this.src='/assets/images/team_resized/fallback.jpg'"></td>
 <td><a href="https://www.charitywoodrum.com">Charity Woodrum</a></td>
-<td>University of Arizona</td>
+<td>Goddard Space Flight Center</td>
 <td>Charity Woodrum is a NIRCam Extragalactic Science Team member and her research interests focus on galaxy evolution and why galaxies stop forming stars.</td>
 </tr>
 
