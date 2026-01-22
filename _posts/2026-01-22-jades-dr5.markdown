@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "JADES Fifth Data Release"
-date:   2025-10-01 09:00:00 -0700
+date:   2026-01-22 09:00:00 -0700
 author: JADES Collaboration
 categories: high-redshift
 ---
@@ -17,11 +17,11 @@ Data Release 5 complements Data Release 4, which included all of the JADES spect
 
 We hope that this data release provides the research community and the public with a marvelous resource for the engagement with the high-redshift universe!
 
-![Image of GOODS-S Footprint](goods-s_rgb.001.png)
+![Image of GOODS-S Footprint](/assets/images/goods-s_rgb.001.png)
 
-![Image of GOODS-N Footprint](goods-n_rgb.001.png)
+![Image of GOODS-N Footprint](/assets/images/goods-n_rgb.001.png)
 
-![Many-band image](tweedle_multiband_pretty.png)
+![Many-band image](/assets/images/tweedle_multiband_pretty.png)
 
-![MIRI highlight image](miri_dr5_figure1.png)
+![MIRI highlight image](/assets/images/miri_dr5_figure1.png)
 
