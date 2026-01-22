@@ -55,6 +55,28 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
   
 ### <font size="6">JADES Science Papers</font>
 ----------
+
+#### The z>9 Galaxy UV Luminosity Function from the JWST Advanced Deep Extragalactic Survey: Insights into Early Galaxy Evolution and Reionization
+by Lily Whitler, Daniel Stark, Michael Topping, Brant Robertson, Marcia Rieke, et al.
+The Astrophysical Journal, 992, 63 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...63W) [arXiv](https://arxiv.org/abs/arXiv:2501.00984) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJ...992...63W/exportcitation)
+
+#### Tentative rotation in a galaxy at z ~ 14 with ALMA
+by Jan Scholtz, E Parlanti, S Carniani, M Kohandel, F Sun, et al.
+Monthly Notices of the Royal Astronomical Society, 544, L113 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544L.113S) [arXiv](https://arxiv.org/abs/arXiv:2503.10751) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544L.113S/exportcitation)
+
+#### Measurement of the gas consumption history of a massive quiescent galaxy
+by Jan Scholtz, Francesco D'Eugenio, Roberto Maiolino, Pablo Perez-Gonzalez, Chiara Circosta, et al.,
+Nature Astronomy, in press (2026)
+[ADS]()https://ui.adsabs.harvard.edu/abs/2026NatAs.tmp....8S) [arXiv](https://arxiv.org/abs/arXiv:2405.19401) 
+
+#### The Importance of Dust Distribution in Ionizing-photon Escape: NIRCam and MIRI Imaging of a Lyman Continuum-emitting Galaxy at z ∼ 3.8
+by Zhiyuan Ji, Stacey Alberts, Yongda Zhu, Eros Vanzella, Mauro Giavalisco, et al., 
+The Astrophysical Journal Letters, 988, L69 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...988L..69J) [arXiv](https://arxiv.org/abs/arXiv:2504.01067) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJ...988L..69J/exportcitation)
+
+
 #### JADES and BlackTHUNDER: rest-frame Balmer-line absorption and the local environment in a Little Red Dot at z = 5
  by Francesco D'Eugenio, Ignas Juodžbalis, Xihan Ji, Jan Scholtz, Roberto Maiolino, et al.
 Monthly Notices of the Royal Astronomical Society, 545, staf2117 (2026)
@@ -605,6 +627,17 @@ Transient Name Server AstroNote, 16, 1 (2023)
   
 ### <font size="6">Collaborative Papers</font>
 ----------
+
+#### The Luminosity Function and Clustering of Halpha  Emitting Galaxies at  z=4−6  from a Complete NIRCam Grism Redshift Survey
+by Xiaojing Lin, Eiichi Egami, Fengwu Sun, Haowen Zhang, Xiaohui Fan, et al.,
+arXiv:2504.08028, 
+[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250408028L/abstract) [arXiv](https://arxiv.org/ads/2504.08028)
+
+#### The Large-scale Environments of Low-luminosity AGNs at 3.9 < z < 6 and Implications for Their Host Dark Matter Halos from a Complete NIRCam Grism Redshift Survey
+by Xiaojing Lin, Xiaohui Fan, Fengwu Sun, Junyu Zhang, Eiichi Egami, et al.,
+The Astrophysical Journal, 997, 61 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...61L) [arXiv](https://arxiv.org/abs/2410.14804) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...61L/exportcitation)
+
 
 #### SMILES: Discovery of Higher Ionizing Photon Production Efficiency in Overdense Regions
 by Yongda Zhu, Stacey Alberts, Jianwei Lyu, Jane Morrison, George Rieke, et al., 
