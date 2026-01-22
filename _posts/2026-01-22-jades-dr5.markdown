@@ -1,0 +1,27 @@
+---
+layout: single
+title:  "JADES Fifth Data Release"
+date:   2025-10-01 09:00:00 -0700
+author: JADES Collaboration
+categories: high-redshift
+---
+
+JADES has issued Data Release 5, featuring a comprehensive reduction of all of the JADES NIRCam and MIRI imaging, as well as nearly all other NIRCam imaging in the GOODS-S and GOODS-N fields from 19 guest observer programs in the first 3 year years of JWST.  The resulting mosaics provide an exquisitely deep and many-band view of the distant Universe.  Between NIRCam, MIRI, and HST imaging, the DR5 catalogs provide detailed photometry of about 500,000 galaxies in up to 35 space-based bands.  
+
+GOODS-S and GOODS-N remain two of the best studied deep fields on the sky, and we believe that JADES and DR5 provide an amazing extension to this legacy.  We encourage people to begin by exploring the data visually through 
+<a href="https://jades-survey.github.io/viewer/" target="_blank">our FITSmap viewer</a>, 
+which offers many different views of the mosaics as well as clickable overlays that present plots of the photometry and spectroscopy of individual objects.  We particularly recommend trying the RGB layers that combine neighboring medium-band filters, so that one can see the distinctively strong emission lines of the high-redshift universe.
+
+Data Release 5 complements Data Release 4, which included all of the JADES spectroscopy.  Data access to DR4 and DR5 is 
+<a href="https://jades-survey.github.io/scientists/data.html" target="_blank">described here.</a>
+
+We hope that this data release provides the research community and the public with a marvelous resource for the engagement with the high-redshift universe!
+
+![Image of GOODS-S Footprint](goods-s_rgb.001.png)
+
+![Image of GOODS-N Footprint](goods-n_rgb.001.png)
+
+![Many-band image](tweedle_multiband_pretty.png)
+
+![MIRI highlight image](miri_dr5_figure1.png)
+
