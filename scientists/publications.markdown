@@ -24,8 +24,9 @@ by Andrew Bunker, Alex J. Cameron, Emma Curtis-Lake, Peter Jakobsen, Stefano Car
 A&A 690, 288 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.288B/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.02467)
 
 #### The JADES Origins Field: A New JWST Deep Field in the JADES Second NIRCam Data Release
-by Daniel J. Eisenstein, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Kevin Hainline, et al.
-submitted (2023), [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012340E) [arXiv](https://arxiv.org/abs/arXiv:2310.12340)
+ by Daniel J. Eisenstein, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Kevin Hainline, et al.
+The Astrophysical Journal Supplement Series, 281, 50 (2025)
+[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...50E) [arXiv](https://arxiv.org/abs/arXiv:2310.12340) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...50E/exportcitation)
 
 #### JADES Data Release 3 -- NIRSpec/Microshutter Assembly Spectroscopy for 4,000 galaxies in the GOODS fields
 by Francesco D'Eugenio, Alex Cameron, Jan Scholtz, Stefano Carniani, Chris Willott, et al., 
@@ -79,11 +80,6 @@ arXiv e-prints, arXiv:2512.19695 (2025)
 Monthly Notices of the Royal Astronomical Society, 544, 4551 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.4551S) [arXiv](https://arxiv.org/abs/arXiv:2508.04410) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.4551S/exportcitation)
 
-#### The JADES Origins Field: A New JWST Deep Field in the JADES Second NIRCam Data Release
- by Daniel J. Eisenstein, Benjamin D. Johnson, Brant Robertson, Sandro Tacchella, Kevin Hainline, et al.
-The Astrophysical Journal Supplement Series, 281, 50 (2025)
-[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...50E) [arXiv](https://arxiv.org/abs/arXiv:2310.12340) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025ApJS..281...50E/exportcitation)
-
 #### JADES: Low Surface Brightness Galaxies at 0.4 < z < 0.8 in GOODS-S
  by Tristen Shields, Marcia Rieke, Kevin Hainline, Jakob M. Helton, Andrew J. Bunker, et al.
 arXiv e-prints, arXiv:2511.17738 (2025)
@@ -119,7 +115,7 @@ arXiv e-prints, arXiv:2510.12622 (2025)
 arXiv e-prints, arXiv:2510.11626 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251011626D) [arXiv](https://arxiv.org/abs/arXiv:2510.11626) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025arXiv251011626D/exportcitation)
 
-#### Beyond the stars: Linking Halpha sizes, kinematics, and star formation in galaxies at z ~ 4-6 with JWST grism surveys and GEKO$
+#### Beyond the stars: Linking Halpha sizes, kinematics, and star formation in galaxies at z ~ 4-6 with JWST grism surveys and GEKO
  by A. Lola Danhaive, Sandro Tacchella, William McClymont, Brant Robertson, Stefano Carniani, et al.
 arXiv e-prints, arXiv:2510.06315 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251006315D) [arXiv](https://arxiv.org/abs/arXiv:2510.06315) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025arXiv251006315D/exportcitation)
@@ -184,7 +180,7 @@ arXiv e-prints, arXiv:2506.02099 (2025)
 Monthly Notices of the Royal Astronomical Society, 540, 190 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..190M) [arXiv](https://arxiv.org/abs/arXiv:2405.15859) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..190M/exportcitation)
 
-#### Abundant Population of Broad H$α$ Emitters in the GOODS-N Field Revealed by CONGRESS, FRESCO, and JADES
+#### Abundant Population of Broad Halpha Emitters in the GOODS-N Field Revealed by CONGRESS, FRESCO, and JADES
  by Junyu Zhang, Eiichi Egami, Fengwu Sun, Xiaojing Lin, Jianwei Lyu, et al.
 arXiv e-prints, arXiv:2505.02895 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250502895Z) [arXiv](https://arxiv.org/abs/arXiv:2505.02895) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025arXiv250502895Z/exportcitation)
