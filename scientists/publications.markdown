@@ -499,15 +499,15 @@ to be submitted (2023)
 
 #### JADES: The production and escape of ionizing photons from faint Lyman-alpha emitters in the epoch of reionization
 by Aayush Saxena, Andrew Bunker, Gareth Jones, Daniel Stark, Alex Cameron, et al., 
-A&A, 684, 84 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..84S/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.04536]
+A&A, 684, 84 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..84S/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.04536)
 
 #### Inside the bubble: exploring the environments of reionisation-era Lyman-alpha emitting galaxies with JADES and FRESCO
 by Joris Witstok, Renske Smit, Aayush Saxena, Gareth Jones, Jakob Helton, et al., 
-A\&A 682, 40 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..40W/abstract), [arXiv](https://arxiv.org/abs/arXiv:2306.04627]
+A\&A 682, 40 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..40W/abstract), [arXiv](https://arxiv.org/abs/arXiv:2306.04627)
 
 #### The Star-forming and Ionizing Properties of Dwarf z ∼ 6 − 9 Galaxies in JADES: Insights on Bursty Star Formation and Ionized Bubble Growth
 by Ryan Endsley, Daniel Stark, Lily Whitler, Michael Topping, Benjamin Johnson, et al.,
-MNRAS, 533, 1111 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.1111E/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.05295]
+MNRAS, 533, 1111 (2024), [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.1111E/abstract) [arXiv](https://arxiv.org/abs/arXiv:2306.05295)
 
 #### JADES: Balmer decrement measurements at redshifts 4 < z < 7
  by Lester Sandles, Francesco D'Eugenio, Roberto Maiolino, Tobias J. Looser, Santiago Arribas, et al.
