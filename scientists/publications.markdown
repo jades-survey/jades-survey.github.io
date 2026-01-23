@@ -8,6 +8,9 @@ toc_icon: star
 ---
 
 
+<!-- ADS custom format: #### %T\n by %5.5k\n%J, %V, %p (%Y)\n[ADS](%u) [arXiv](https://arxiv.org/abs/%X) [BibTeX](%u/exportcitation)\n 
+-->
+
 ### <font size="6">JADES Data Release and Technical Papers</font>
 ----------
 
@@ -42,7 +45,32 @@ arXiv e-prints, arXiv:2510.01034 (2025)
  by Emma Curtis-Lake, Alex J. Cameron, Andrew J. Bunker, Jan Scholtz, Stefano Carniani, et al.
 arXiv e-prints, arXiv:2510.01033 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251001033C) [arXiv](https://arxiv.org/abs/arXiv:2510.01033) [BibTeX](https://ui.adsabs.harvard.edu/abs/2025arXiv251001033C/exportcitation)
-  
+
+#### JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: NIRCam Imaging in GOODS-S and GOODS-N
+ by Benjamin D. Johnson, Brant E. Robertson, Daniel J. Eisenstein, Sandro Tacchella, Dávid Puskás, et al.
+arXiv e-prints, arXiv:2601.15954 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115954J) [arXiv](https://arxiv.org/abs/arXiv:2601.15954) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115954J/exportcitation)
+
+#### JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: MIRI Coordinated Parallels in GOODS-S and GOODS-N
+ by Stacey Alberts, Daniel J. Eisenstein, Andrew J. Bunker, Emma Curtis-Lake, Qiao Duan, et al.
+arXiv e-prints, arXiv:2601.15955 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115955A) [arXiv](https://arxiv.org/abs/arXiv:2601.15955) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115955A/exportcitation)
+
+#### JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: Photometric Catalog
+ by Brant E. Robertson, Benjamin D. Johnson, Sandro Tacchella, Daniel J. Eisenstein, Kevin Hainline, et al.
+arXiv e-prints, arXiv:2601.15956 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115956R) [arXiv](https://arxiv.org/abs/arXiv:2601.15956) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115956R/exportcitation)
+
+#### JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: Catalogs of inferred morphological properties of galaxies from JWST/NIRCam imaging in GOODS-N and GOODS-S
+ by Courtney Carreira, Brant E. Robertson, A. Lola Danhaive, Zhiyuan Ji, Marcia Rieke, et al.
+arXiv e-prints, arXiv:2601.15957 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115957C) [arXiv](https://arxiv.org/abs/arXiv:2601.15957) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115957C/exportcitation)
+
+#### JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: Wisp Subtraction with the Non-negative Matrix Factorization Algorithm
+ by Zihao Wu, Benjamin D. Johnson, Daniel J. Eisenstein, Phillip Cargile, Kevin Hainline, et al.
+arXiv e-prints, arXiv:2601.15958 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115958W) [arXiv](https://arxiv.org/abs/arXiv:2601.15958) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115958W/exportcitation)
+
 #### FitsMap: A simple, lightweight tool for displaying interactive astronomical image and catalog data
 by R. Hausen and B. E. Robertson  
 Astronomy and Computing, 39, 100586 (2022)  
@@ -55,6 +83,42 @@ The Astrophysical Journal Supplement Series, 236, 33 (2018)
   
 ### <font size="6">JADES Science Papers</font>
 ----------
+
+#### JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: Photometrically Selected Galaxy Candidates at z > 8
+ by Kevin N. Hainline, Daniel J. Eisenstein, Lily Whitler, Brant Robertson, Benjamin D. Johnson, et al.
+arXiv e-prints, arXiv:2601.15959 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115959H) [arXiv](https://arxiv.org/abs/arXiv:2601.15959) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115959H/exportcitation)
+
+#### JADES: A Prominent Galaxy Overdensity Candidate within the First 500 Myr
+ by Zihao Wu, Daniel J. Eisenstein, Benjamin D. Johnson, Kevin Hainline, William M. Baker, et al.
+arXiv e-prints, arXiv:2601.15960 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115960W) [arXiv](https://arxiv.org/abs/arXiv:2601.15960) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115960W/exportcitation)
+
+#### JADES: Discovery of Large Reservoirs of Small Dust Grains in the Circumgalactic Medium of Massive Galaxies at $z\sim3.5$ through Deep JWST/NIRCam Imaging and Grism Spectroscopy
+ by Fengwu Sun, Daniel J. Eisenstein, Francesco D'Eugenio, Kevin Hainline, Jakob M. Helton, et al.
+arXiv e-prints, arXiv:2601.15961 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115961S) [arXiv](https://arxiv.org/abs/arXiv:2601.15961) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115961S/exportcitation)
+
+#### Clump-like Structures in High-Redshift Galaxies: Mass Scaling and Radial Trends from JADES
+ by Yongda Zhu, Marcia J. Rieke, Zhiyuan Ji, Andrew J. Bunker, Courtney Carreira, et al.
+arXiv e-prints, arXiv:2601.15965 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115965Z) [arXiv](https://arxiv.org/abs/arXiv:2601.15965) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115965Z/exportcitation)
+
+#### Undermassive Hosts of z = 4-6 AGN from JWST/NIRCam Image Decomposition with CONGRESS, FRESCO, and JADES
+ by Zheng Ma, Eichi Egami, Yongda Zhu, Fengwu Sun, Jianwei Lyu, et al.
+arXiv e-prints, arXiv:2601.15962 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115962M) [arXiv](https://arxiv.org/abs/arXiv:2601.15962) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115962M/exportcitation)
+
+#### There Is More to Outshining: 2D Dust Effects on Stellar Mass Estimates at 3<z<9 with JWST in the JADES Field
+ by M. Hamed, P. G. Pérez-González, M. Annunziatella, L. Colina, I. Shivaei, et al.
+arXiv e-prints, arXiv:2601.15963 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115963H) [arXiv](https://arxiv.org/abs/arXiv:2601.15963) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115963H/exportcitation)
+
+#### JADES: Evolution of nitrogen abundances in star-forming galaxies from z ~ 1.5-7
+ by Alex J. Cameron, Courtney Carreira, Charlotte Simmonds, Andrew J. Bunker, Aayush Saxena, et al.
+arXiv e-prints, arXiv:2601.15964 (2026)
+[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260115964C) [arXiv](https://arxiv.org/abs/arXiv:2601.15964) [BibTeX](https://ui.adsabs.harvard.edu/abs/2026arXiv260115964C/exportcitation)
+
 
 #### The z>9 Galaxy UV Luminosity Function from the JWST Advanced Deep Extragalactic Survey: Insights into Early Galaxy Evolution and Reionization
 by Lily Whitler, Daniel Stark, Michael Topping, Brant Robertson, Marcia Rieke, et al.
