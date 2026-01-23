@@ -30,17 +30,18 @@ The authors acknowledge the teams of programs 1895, 1963, 2079, 2514, 3215, 3577
 
 We are also collecting information regarding citations of material incorporated in JADES releases:
 
-* Users of JADES DR5 should cite Johnson et al. (2026) for the NIRCam mosaics, Robertson et al. (2026) for the NIRCam-based catalogs, and Eisenstein et al. (2026a) for the JADES overview.
+* Users of JADES DR5 should cite [Johnson et al., arXiv:2601.15954](https://arxiv.org/abs/2601.15954) for the NIRCam mosaics, [Robertson et al., arXiv:2601.15956](https://arxiv.org/abs/2601.15956) for the NIRCam-based catalogs, and [Eisenstein et al. (2026a)](https://ui.adsabs.harvard.edu/abs/2023arXiv230602465E/abstract) for the JADES overview.
+
 
 * Users of JADES DR4 spectroscopy should cite the JADES DR4 papers by Curtis-Lake et al. (2026) and Scholtz et al. (2026).
 
 * Some users may also cite the DR1 (Rieke et al., ApJS 269, 16 (2023)), DR2 (Eisenstein et al. arXiv:2310.12340), or DR3 (D'Eugenio et al., ApJS, 277, 4 (2025)) papers for further methodology and/or earlier data.
 
-* Users of the JADES MIRI data should cite Alberts et al. (2026).
+* Users of the JADES MIRI data should cite [Alberts et al., arXiv:2601.15955](https://arxiv.org/abs/2601.15955).
 
 * Users of the SMILES MIRI data should cite Rieke et al., ApJ, 975, 83 (2024) and Alberts et al., ApJ, 976, 224 (2024)
 
-* Users of the morphological fits should cite Carreira et al. (2026).
+* Users of the morphological fits should cite [Carreira et al., arXiv:2601.15957](https://arxiv.org/abs/2601.15957).
 
 * Users of the HST data in the DR5 catalogs should cite G. Illingworth et al. 2016 (arXiv:1606.00841) and K. E. Whitaker et al., ApJS, 244, 16, 2019 for the Hubble Legacy Fields (HLF) mosaics.
 
