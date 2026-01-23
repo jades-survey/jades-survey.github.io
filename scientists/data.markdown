@@ -45,7 +45,7 @@ We are also collecting information regarding citations of material incorporated 
 
 * Users of the HST data in the DR5 catalogs should cite G. Illingworth et al. 2016 (arXiv:1606.00841) and K. E. Whitaker et al., ApJS, 244, 16, 2019 for the Hubble Legacy Fields (HLF) mosaics.
 
-* Users of the JADES DR5 FITSmap viewer should cite Hausen \& Robertson, Astronomy and Computing, 39, 100586 (2022).
+* Users of the JADES DR5 FITSmap viewer should cite Hausen & Robertson, Astronomy and Computing, 39, 100586 (2022).
 
 
 Users of JADES DR5 can inspect the Program ID bithash to determine which NIRCam imaging data sets have been used and thereby should be listed and/or cited.  At present, we understand the citations to be:
