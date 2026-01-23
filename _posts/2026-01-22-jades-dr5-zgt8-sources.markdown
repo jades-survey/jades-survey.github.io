@@ -14,21 +14,21 @@ Building off of <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...964...71H/a
 
 Here we plot the intrinsic brightness of the source against its redshift, where we show the GOODS-S sources with blue circles and the GOODS-N sources with red circles. The sources with spectroscopic confirmation are shown with dark circles. The full dataset can be downloaded at <a href="https://zenodo.org/records/18306484" target = "_blank">this Zenodo link</a>, with photometry and other derived parameters from fits and imaging analysis for the sample. 
 
-![MUV vs. Redshift, All Sources](/assets/images/UVmag_vs_redshift_All_vs_PreJWST.png)
+![MUV vs. Redshift, New vs. Pre-JWST](/assets/images/UVmag_vs_redshift_All_vs_PreJWST.png)
 
 The sources found in the JADES DR5 z > 8 sample span two well-studied regions, GOODS-S and GOODS-N, which were observed by many astronomers in the decades leading up to the launch of JWST. Prior to 2021, there were only 85 galaxies in this sample (4%) that had been previously identified, demonstrating the power of JWST observations to find both distant and intrinsically faint galaxies at Cosmic Dawn. 
 
 This sample builds off of previous JADES work in Hainline et al. (2023), spanning a significantly larger region, including a number of ancillary datasets in GOODS-S and GOODS-N. With this new sample, we find 1347 new galaxies (65% of the full sample), including objects never before identified with photometric redshifts at z > 14.
 
-![MUV vs. Redshift, All Sources](/assets/images/UVmag_vs_redshift_New_vs_KH24.png)
+![MUV vs. Redshift, New vs. KH24](/assets/images/UVmag_vs_redshift_New_vs_KH24.png)
 
 The highest-redshift sources are still just candidates, as deep spectroscopy is needed to confirm their redshifts, but they represent a promising sample for understanding the first galaxies that arose out of the Cosmic Dark Ages only a few hundred million years after the Big Bang. One source, originally discovered in Hainline et al. (2024), JADES-GN+189.15982+62.28899 (ID 1019411), has photometric and spectroscopic evidence for being at z = 16.55, although at low significance. If confirmed, we would be observing this source when the Universe was only 236 million years old. 
 
-![MUV vs. Redshift, All Sources](/assets/images/)
+![ID 1019411 SED and Spectrum](/assets/images/JADES_1019411_SED_spectrum.jpg)
 
 The full paper explores the ultraviolet properties of the sample, demonstrating how varied star formation was in the early Universe, as well as their shapes. A full quarter of the sources, regardless of redshift, have some evidence for being morphologically extended, with these galaxies showing flattened morphologies, or multiple knots and clumps. 
 
-![MUV vs. Redshift, All Sources](/assets/images/)
+![Example z > 10 galaxy morphologies](/assets/images/JADES_zgt8_morphologies.jpg)
 
 The complex morphologies for these objects demonstrates how early galaxies are growing through mergers and in knots of star formation. Each of these sources can be seen in <a href="https://jades-survey.github.io/viewer/" target="_blank">the JADES FITSmap viewer</a>, by searching for their ID, where you can view the SED, and see the sources in each of the HST, NIRCam, and MIRI filters. 
 
