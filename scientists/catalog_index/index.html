@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JADES Catalog Dictionary</title>
+  <style>
+    :root {
+      --bg: #0c110c;        /* near-black green background */
+      --panel: #141a13;     /* dark olive card background */
+      --ink: #e8f0e8;       /* light neutral-green text */
+      --muted: #9fae9f;     /* desaturated secondary text */
+      --accent: #7bb274;    /* soft moss green accent */
+      --accent-2: #b4c9a5;  /* pale sage secondary accent */
+      --border: #1d271d;    /* dark olive border */
+    }
+    html, body { height: 100%; }
+    body {
+      margin: 0; background: radial-gradient(1200px 800px at 20% -10%, #1a3025 0%, var(--bg) 60%);
+      color: var(--ink); font: 15px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+    }
+    .wrap { max-width: 1100px; margin: 36px auto; padding: 0 16px; }
+
+    /* header */
+    header { display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: center; margin-bottom: 16px; }
+    h1 { font-size: 26px; margin: 0; letter-spacing: 0.2px; }
+    .sub { color: var(--muted); font-size: 13px; margin-top: 6px; }
+
+    /* controls */
+    .controls { display: grid; grid-template-columns: 1fr auto auto; gap: 10px; }
+    .search {
+      position: relative; display: flex; align-items: center; background: var(--panel); border: 1px solid var(--border);
+      border-radius: 12px; padding: 8px 10px; box-shadow: 0 0 0 0 rgba(0,0,0,0);
+    }
+    .search:focus-within { outline: 2px solid rgba(184,255,179,0.25); }
+    .search input {
+      flex: 1; background: transparent; border: 0; outline: none; color: var(--ink); font-size: 15px;
+    }
+    .pill {
+      align-self: stretch; display: inline-flex; align-items: center; gap: 8px;
+      background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 0 12px; color: var(--muted);
+    }
+    .pill select, .pill button {
+      background: transparent; border: 0; color: var(--ink); font-size: 14px; padding: 8px 0; cursor: pointer;
+    }
+    .pill button { color: var(--accent); }
+
+    /* layout */
+    .grid { display: grid; grid-template-columns: 260px 1fr; gap: 16px; margin-top: 16px; }
+    .side { background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 10px; height: calc(100vh - 170px); overflow: auto; }
+    .main { background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 12px; min-height: 400px; }
+
+    /* HDU list */
+    .hdu-item { display: flex; align-items: center; justify-content: space-between; padding: 8px 10px; border-radius: 10px; cursor: pointer; color: var(--ink); }
+    .hdu-item small { color: var(--muted); }
+    .hdu-item:hover { background: #0e141c; }
+    .hdu-item.active { background: linear-gradient(90deg, rgba(184,255,179,0.18), rgba(87,255,110,0.05)); border: 1px solid rgba(184,255,179,0.25); }
+
+    /* table */
+    .table { width: 100%; border-collapse: collapse; }
+    .table th, .table td { text-align: left; padding: 8px 10px; vertical-align: top; border-bottom: 1px solid var(--border); }
+    .table th { position: sticky; top: 0; background: rgba(9,12,16,0.85); backdrop-filter: blur(8px); font-weight: 600; }
+    .name-cell { white-space: nowrap; }
+    .muted { color: var(--muted); }
+
+    .badge { display: inline-block; padding: 1px 6px; font-size: 11px; border: 1px solid var(--border); border-radius: 99px; color: var(--muted); }
+
+    /* result list */
+    .results { display: none; margin-top: 8px; }
+    .results.active { display: block; }
+    .result { border: 1px solid var(--border); border-radius: 12px; padding: 10px; margin-bottom: 8px; background: #0e1c11; }
+    .result .path { color: var(--muted); font-size: 12px; margin-bottom: 6px; }
+    .result .name { font-weight: 600; }
+
+    /* footer */
+    footer { color: var(--muted); font-size: 12px; margin-top: 16px; text-align: right; }
+
+    /* small screens */
+    @media (max-width: 860px) {
+      .grid { grid-template-columns: 1fr; }
+      .side { height: auto; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>JADES Catalog Dictionary</h1>
+        <div class="sub">Browse HDUs, read column descriptions, and search across the entire catalog.</div>
+      </div>
+      <div class="controls">
+        <label class="search" title="Type to search names, descriptions, and comments. Press / to focus.">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right:8px"><path d="M21 21l-4.2-4.2" stroke="var(--muted)" stroke-width="1.5" stroke-linecap="round"/><circle cx="11" cy="11" r="7" stroke="var(--muted)" stroke-width="1.5"/></svg>
+          <input id="q" placeholder="Search (try RA, DEC, F200W, flux, flag)..." autocomplete="off" />
+        </label>
+        <span class="pill">
+          <select id="scope">
+            <option value="all" selected>Search: all HDUs</option>
+          </select>
+        </span>
+        <span class="pill" title="Collapse per-filter variants like F200W_FLUX into a single row {F}_FLUX.">
+          <label style="display:flex;align-items:center;gap:8px;cursor:pointer">
+            <input id="collapseToggle" type="checkbox" checked /> Collapse variants
+          </label>
+        </span>
+        <span class="pill">
+          <button id="clearBtn" type="button">Clear</button>
+        </span>
+      </div>
+    </header>
+
+    <div class="grid">
+      <aside class="side" id="hduList" aria-label="HDU list"></aside>
+      <main class="main">
+        <div id="activeHdu"></div>
+        <div class="results" id="results"></div>
+        <footer>
+          <span id="counts"></span>
+        </footer>
+      </main>
+    </div>
+  </div>
+
+ <script>
+ // ...
+ async function fetchGroupOverrides(url) {
+   const r = await fetch(url);
+   if (!r.ok) throw new Error(`Fetch failed: ${url}`);
+   const text = await r.text();
+   // minimal TSV parser: "name<TAB>description"
+   const normalized = String(text).replace(/\r\n?/g, '\n');
+   const lines = normalized.split('\n').filter(Boolean);
+   const map = {};
+   for (let i = 0; i < lines.length; i++) {
+     const cols = lines[i].split('\t');
+     if (i === 0 && /name/i.test(cols[0] || '') && /desc/i.test(cols[1] || '')) continue; // header
+     const key = (cols[0] || '').trim();
+     const val = (cols[1] || '').trim();
+     if (key && val) map[key] = val;
+   }
+   return map;
+ }
+ </script>
+
+  <script>
+  // ---------- CONFIG: known filters to collapse --------------------------------
+  // Order matters: longer tokens first to avoid partial matches.
+  const FILTER_TOKENS = [
+    // JWST NIRCam
+    'F070W','F090W','F115W','F150W','F162M','F182M','F200W','F210M','F250M','F250MA','F250MB','F277W','F277WA','F277WB','F300M','F300MA','F300MB','F335M','F335MA','F335MB','F356W','F356WA','F356WB','F410M','F410MA','F410MB','F430M','F430MA','F430MB','F444W','F444WA','F444WB','F460M','F460MA','F460MB','F480M','F480MA','F480MB',
+    // JWST MIRI
+    'F560W','F770W','F1000W','F1280W','F1500W','F1800W','F2100W','F2550W',
+    // HST ACS
+    'F435W','F606W','F775W','F814W','F850LP',
+    // HST WFC3
+    'F105W','F125W','F140W','F160W'
+  ];
+
+  const $ = (sel, el=document) => el.querySelector(sel);
+  const $$ = (sel, el=document) => [...el.querySelectorAll(sel)];
+
+  const state = {
+    data: null,              // { title, hdu_list: [{name, entries:[{name, description, comment}], rows?}] }
+    activeHduIdx: 0,
+    query: '',
+    scope: 'all',
+    index: [],              // flat list of concrete fields for search [{h, i, name, description, comment, blob}]
+    collapse: true,         // collapse per-filter variants into grouped rows
+    groups: []              // per-HDU grouped view cache
+  };
+
+  const escapeHTML = (s) => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}[c]));
+
+  async function fetchJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(`Fetch failed: ${url}`); return r.json(); }
+  async function fetchTSV(url){ const r = await fetch(url); if(!r.ok) throw new Error(`Fetch failed: ${url}`); const text = await r.text(); return parseTSV(text); }
+  function parseTSV(text){
+    // Normalize newlines first; avoid regex corruption by editors
+    const normalized = String(text).replace(/\r\n?/g, '\n');
+    const lines = normalized.split('\n').filter(Boolean);
+    const rows = [];
+    for (let i=0; i<lines.length; i++){
+      // TSV -> split on TAB, not spaces
+      const cols = lines[i].split('\t');
+      // Optional header skip
+      if (i===0 && /name/i.test(cols[0] || '') && /desc|description/i.test(cols[1] || '')) continue;
+      const name = (cols[0] || '').trim();
+      const description = (cols[1] || '').trim();
+      const comment = (cols[2] || '').trim();
+      if (!name) continue;
+      rows.push({ name, description, comment });
+    }
+    return rows;
+  }
+
+
+  async function loadData(){
+    const src = new URLSearchParams(location.search).get('src');
+    if (src){
+      const manifest = await fetchJSON(src);
+      const hdu_list = [];
+      for (const h of manifest.hdu_list){
+        let entries;
+        if (h.tsv){ entries = await fetchTSV(h.tsv); }
+        else if (Array.isArray(h.entries)) { entries = h.entries; }
+        else { entries = []; }
+        hdu_list.push({ name: h.name, entries, rows: h.rows ?? entries.length });
+      }
+      return { title: manifest.title || 'Catalog', hdu_list };
+    }
+    // fallback minimal embedded demo
+    return { title: 'Catalog', hdu_list: [] };
+  }
+
+  function detectFilterToken(name){
+    for (const tok of FILTER_TOKENS){
+      const re = new RegExp(`(^|_)${tok}(_|$)`);
+      if (re.test(name)) return tok;
+    }
+    return null;
+  }
+
+  function baseKey(name, token){
+    if (!token) return null;
+    return name.replace(new RegExp(`(^|_)${token}(_|$)`), '$1{F}$2');
+  }
+ 
+  // Build the flat search index and grouped caches per HDU
+  function buildIndexAndGroups(){
+    state.index = [];
+    state.groups = state.data.hdu_list.map(hdu => {
+      const byKey = new Map();
+      const singles = [];
+
+      hdu.entries.forEach((e, ei)=>{
+        const token = detectFilterToken(e.name);
+        if (token){
+          const key = baseKey(e.name, token);
+          const g = byKey.get(key) || { type: 'group', key, baseName: key, variants: [], commonDesc: null, commonComment: null };
+          g.variants.push({ name: e.name, description: e.description || '', comment: e.comment || '', token });
+          byKey.set(key, g);
+        } else {
+          singles.push({ type: 'single', name: e.name, description: e.description || '', comment: e.comment || '' });
+        }
+        // flat index for search (concrete fields)
+        state.index.push({
+          h: state.data.hdu_list.indexOf(hdu),
+          i: ei, // original index (not used for grouped rows)
+          name: e.name || '',
+          description: e.description || '',
+          comment: e.comment || '',
+          blob: (e.name+''+(e.description||'')+''+(e.comment||'')).toLowerCase()
+        });
+      });
+
+      // finalize grouped records: compute common desc/comment when identical
+      // finalize grouped records: compute a representative description/comment
+      const groups = [...byKey.values()].map(g => {
+      const allDesc = g.variants.map(v => String(v.description || '').trim());
+      const allComm = g.variants.map(v => String(v.comment || '').trim());
+
+      // 1) explicit override from TSV (if provided)
+      const override = (window.GROUP_DESC && window.GROUP_DESC[g.baseName]) || null;
+      if (override) g.commonDesc = override;
+
+      // 2) otherwise, pick a dominant description after stripping filter tokens
+      if (!g.commonDesc) {
+          const FILTER_RE = new RegExp(`\\b(${FILTER_TOKENS.join('|')})\\b`, 'gi');
+          const norm = s => s.toLowerCase().replace(FILTER_RE, '').replace(/\s+/g, ' ').trim();
+          const buckets = new Map(); // norm -> {count, reps[]}
+          allDesc.forEach(d => {
+            const k = norm(d);
+            const b = buckets.get(k) || { count: 0, reps: [] };
+            b.count++; b.reps.push(d);
+            buckets.set(k, b);
+          });
+          let best = { count: 0, reps: [] };
+          for (const b of buckets.values()) if (b.count > best.count) best = b;
+          const dominance = best.count / Math.max(1, allDesc.length);
+          if (best.count > 0 && dominance >= 0.6) {
+            best.reps.sort((a,b)=> b.length - a.length);
+            g.commonDesc = best.reps[0];
+          }
+        }
+
+  const sameComm = allComm.every(c => c === allComm[0]);
+  g.commonComment = sameComm ? allComm[0] : '';
+  if (!g.commonDesc) g.commonDesc = 'Varies by filter; expand to view.';
+
+  g.variants.sort((a,b)=> FILTER_TOKENS.indexOf(a.token) - FILTER_TOKENS.indexOf(b.token));
+  return g;
+});
+      // Stable sort: singles by name, groups by baseName
+      //singles.sort((a,b)=> a.name.localeCompare(b.name));
+      //groups.sort((a,b)=> a.baseName.localeCompare(b.baseName));
+
+      return { singles, groups };
+    });
+  }
+
+  function renderHduList(){
+    const el = $('#hduList');
+    el.innerHTML = '';
+    state.data.hdu_list.forEach((hdu, idx)=>{
+      // compute shown/true counts
+      const g = state.groups[idx];
+      const trueCount = hdu.entries.length;
+      const shownCount = state.collapse ? (g.singles.length + g.groups.length) : trueCount;
+      const div = document.createElement('div');
+      div.className = 'hdu-item' + (idx===state.activeHduIdx?' active':'');
+      div.innerHTML = `<div><strong>${escapeHTML(hdu.name)}</strong></div><small>${shownCount} shown · ${trueCount} cols</small>`;
+      div.addEventListener('click', ()=>{
+        state.activeHduIdx = idx; state.scope = hdu.name; $('#scope').value = hdu.name; state.query = ''; $('#q').value='';
+        update();
+      });
+      el.appendChild(div);
+    });
+  }
+
+  function renderScopeOptions(){
+    const sel = $('#scope');
+    sel.innerHTML = '<option value="all">Search: all HDUs</option>' +
+      state.data.hdu_list.map(h=>`<option value="${escapeHTML(h.name)}">${escapeHTML(h.name)}</option>`).join('');
+    sel.addEventListener('change', ()=>{ state.scope = sel.value; update(); });
+  }
+
+  function renderActiveHdu(){
+    const box = $('#activeHdu');
+    const h = state.data.hdu_list[state.activeHduIdx];
+    if (!h){ box.innerHTML = '<div class="muted">No HDU selected.</div>'; return; }
+
+    const g = state.groups[state.activeHduIdx];
+    const trueCount = h.entries.length;
+    const shownCount = state.collapse ? (g.singles.length + g.groups.length) : trueCount;
+
+    const header = `<div style="display:flex;justify-content:space-between;align-items:center;margin:4px 4px 8px 4px">
+      <div>
+        <div class="badge">HDU</div>
+        <h2 style="margin:6px 0 0 0">${escapeHTML(h.name)}</h2>
+        <div class="muted">${shownCount} shown • ${trueCount} total columns</div>
+      </div>
+      <div class="muted">Click a name to copy</div>
+    </div>`;
+
+    const rowsHtml = [];
+
+    if (state.collapse){
+      // grouped view: singles + groups (collapsed by default)
+      g.singles.forEach(e=>{
+        rowsHtml.push(rowHtmlSingle(e));
+      });
+      g.groups.forEach(gr=>{
+        rowsHtml.push(rowHtmlGroupCollapsed(gr));
+      });
+    } else {
+      // expanded: list all concrete fields
+      h.entries.forEach(e=> rowsHtml.push(rowHtmlSingle(e)));
+    }
+
+    box.innerHTML = header + `
+      <div style="overflow:auto; max-height: calc(100vh - 260px); border:1px solid var(--border); border-radius: 10px;">
+        <table class="table" role="table" aria-label="Columns for ${escapeHTML(h.name)}">
+          <thead><tr><th style="width: 260px">Name</th><th>Description</th><th style="width: 35%">Comment</th></tr></thead>
+          <tbody>${rowsHtml.join('')}</tbody>
+        </table>
+      </div>`;
+
+    // wiring
+    $$('.copy', box).forEach(c=>c.addEventListener('click', (ev)=>{
+      const val = ev.currentTarget.getAttribute('data-copy');
+      navigator.clipboard?.writeText(val);
+      ctitle(ev.currentTarget, 'Copied');
+    }));
+
+    // group expanders
+    $$('.expander', box).forEach(btn=>btn.addEventListener('click', (ev)=>{
+      const tr = ev.currentTarget.closest('tr');
+      const targetId = tr.getAttribute('data-target');
+      const panel = document.getElementById(targetId);
+      const open = panel.getAttribute('data-open') === 'true';
+      panel.style.display = open ? 'none' : 'table-row';
+      panel.setAttribute('data-open', open ? 'false' : 'true');
+      ev.currentTarget.textContent = open ? 'Show variants' : 'Hide variants';
+    }));
+  }
+
+  function rowHtmlSingle(e){
+    return `<tr>
+      <td class="name-cell"><code class="copy" data-copy="${escapeHTML(e.name)}" title="Click to copy">${escapeHTML(e.name)}</code></td>
+      <td>${escapeHTML(e.description || '')}</td>
+      <td class="muted">${escapeHTML(e.comment || '')}</td>
+    </tr>`;
+  }
+
+  let _gid = 0;
+  function rowHtmlGroupCollapsed(gr){
+    const id = `grp_${_gid++}`;
+    const badge = `<span class="badge" style="margin-left:6px">${gr.variants.length} variants</span>`;
+    const head = `<tr data-target="${id}">
+      <td class="name-cell"><code class="copy" data-copy="${escapeHTML(gr.baseName)}" title="Click to copy">${escapeHTML(gr.baseName)}</code> ${badge}</td>
+      <td>${escapeHTML(gr.commonDesc || '')}</td>
+      <td class="muted"><button type="button" class="expander" style="background:transparent;border:1px solid var(--border);border-radius:10px;padding:4px 8px;color:var(--accent)">Show variants</button></td>
+    </tr>`;
+    const body = `<tr id="${id}" data-open="false" style="display:none;background:#324036">
+      <td colspan="3">
+        <div style="padding:6px 6px 2px 6px;border:1px dashed var(--border);border-radius:10px">
+          <table class="table" style="width:100%">
+            <thead><tr><th style="width: 240px">Name</th><th>Description</th><th style="width: 35%">Comment</th></tr></thead>
+            <tbody>
+            ${gr.variants.map(v=>`
+              <tr>
+                <td class="name-cell"><code class="copy" data-copy="${escapeHTML(v.name)}" title="Click to copy">${escapeHTML(v.name)}</code></td>
+                <td>${escapeHTML(v.description || '')}</td>
+                <td class="muted">${escapeHTML(v.comment || '')}</td>
+              </tr>`).join('')}
+            </tbody>
+          </table>
+        </div>
+      </td>
+    </tr>`;
+    return head + body;
+  }
+
+  function ctitle(node, text){
+    const old = node.getAttribute('title');
+    node.setAttribute('title', text);
+    setTimeout(()=> node.setAttribute('title', old || 'Click to copy'), 900);
+  }
+
+  function doSearch(){
+    const q = state.query.trim().toLowerCase();
+    const results = [];
+    if (!q) return results;
+    const scope = state.scope;
+    state.index.forEach(r=>{
+      if (scope !== 'all' && state.data.hdu_list[r.h].name !== scope) return;
+      if (r.blob.includes(q)) results.push(r);
+    });
+    return results.slice(0, 1000); // generous cap
+  }
+
+  function renderResults(){
+    const container = $('#results');
+    const q = state.query.trim();
+    const results = doSearch();
+
+    if (!q){ container.classList.remove('active'); container.innerHTML=''; return; }
+    container.classList.add('active');
+
+    if (!results.length){
+      container.innerHTML = `<div class="result"><div class="path">Search</div>No matches for <code>${escapeHTML(q)}</code>.</div>`;
+      return;
+    }
+
+    container.innerHTML = results.map(r=>{
+      const h = state.data.hdu_list[r.h];
+      const path = `${h.name}`;
+      const hi = (s)=>escapeHTML(s).replace(new RegExp(q, 'ig'), m=>`<mark style="background: rgba(197,235,215,0.25)">${m}</mark>`);
+      return `<div class="result" tabindex="0" data-hi="${r.h}" data-name="${escapeHTML(r.name)}">
+        <div class="path">${escapeHTML(path)}</div>
+        <div class="name">${hi(r.name)}</div>
+        <div class="muted">${hi(r.description || '')}</div>
+        <div class="muted">${hi(r.comment || '')}</div>
+      </div>`;
+    }).join('');
+
+    // click -> jump to HDU, open group if needed, and scroll
+    $$('.result', container).forEach(div=>div.addEventListener('click', (ev)=>{
+      const h = Number(ev.currentTarget.getAttribute('data-hi'));
+      const name = ev.currentTarget.getAttribute('data-name');
+      state.activeHduIdx = h; state.query = ''; $('#q').value=''; renderHduList(); renderActiveHdu();
+
+      // If collapsed, try to find a matching group and expand it
+      if (state.collapse){
+        const token = detectFilterToken(name);
+        const key = token ? baseKey(name, token) : null;
+        if (key){
+          const tbody = $('tbody', $('#activeHdu'));
+          const rows = [...tbody.children];
+          const head = rows.find(tr => tr.getAttribute('data-target'));
+          const match = rows.find(tr => tr.getAttribute('data-target') && $('.name-cell code', tr)?.textContent === key);
+          if (match){
+            const targetId = match.getAttribute('data-target');
+            const panel = document.getElementById(targetId);
+            if (panel && panel.getAttribute('data-open') !== 'true'){
+              // click the button to open
+              $('.expander', match)?.click();
+            }
+            // scroll to specific variant row
+            const vrow = panel?.querySelectorAll('tbody tr');
+            if (vrow){
+              const el = [...vrow].find(tr => $('.name-cell code', tr)?.textContent === name);
+              el?.scrollIntoView({behavior:'smooth', block:'center'});
+              if (el){ el.style.outline = '2px solid rgba(197,235,215,0.35)'; setTimeout(()=> el.style.outline='none', 1200); }
+            }
+            return;
+          }
+        }
+      }
+      // fallback: find concrete row
+      const table = $('tbody', $('#activeHdu'));
+      const row = [...table.children].find(tr => $('.name-cell code', tr)?.textContent === name);
+      if (row){ row.scrollIntoView({behavior:'smooth', block:'center'}); row.style.outline = '2px solid rgba(197,235,215,0.35)'; setTimeout(()=> row.style.outline='none', 1200); }
+    }));
+  }
+
+  function updateCounts(){
+    // across scope
+    const scope = state.scope;
+    const inScopeHdus = state.data.hdu_list.map((h,hi)=>({h,hi})).filter(o=> scope==='all' || o.h.name===scope);
+    const trueTotal = inScopeHdus.reduce((acc,o)=> acc + o.h.entries.length, 0);
+    const shownTotal = inScopeHdus.reduce((acc,o)=>{
+      const g = state.groups[o.hi];
+      return acc + (state.collapse ? (g.singles.length + g.groups.length) : o.h.entries.length);
+    }, 0);
+
+    $('#counts').textContent = `${shownTotal} shown / ${trueTotal} fields · scope: ${scope==='all'?'all HDUs':scope}`;
+  }
+
+  function update(){
+    renderHduList();
+    renderActiveHdu();
+    renderResults();
+    updateCounts();
+  }
+
+  // ---------- INIT -----------------------------------------------------------
+  (async function init(){
+   try {
+      state.data = await loadData();
+
+      // NEW: optional group descriptions TSV (?groups=...)
+      const params = new URLSearchParams(location.search);
+      const groupsUrl = params.get('groups');
+      if (groupsUrl) {
+            window.GROUP_DESC = await fetchGroupOverrides(groupsUrl);
+      }
+
+      document.title = state.data.title + ' · Catalog Dictionary';
+      buildIndexAndGroups();
+      renderScopeOptions();
+      update();
+
+      // wire controls
+      const q = $('#q');
+      q.addEventListener('input', ()=>{ state.query = q.value; renderResults(); updateCounts(); });
+      $('#clearBtn').addEventListener('click', ()=>{ q.value = ''; state.query=''; renderResults(); updateCounts(); q.focus(); });
+      document.addEventListener('keydown', (e)=>{ if (e.key === '/' && document.activeElement !== q){ e.preventDefault(); q.focus(); } });
+      $('#collapseToggle').addEventListener('change', (e)=>{ state.collapse = e.target.checked; renderHduList(); renderActiveHdu(); updateCounts(); });
+
+      // open HDU based on hash (#HDU=PHOTOMETRY)
+      const hname = new URL(location).hash.match(/HDU=([^&]+)/)?.[1];
+      if (hname){ const idx = state.data.hdu_list.findIndex(h=>h.name===hname); if (idx>=0){ state.activeHduIdx=idx; update(); } }
+    } catch(err){
+      console.error(err);
+      $('.main').innerHTML = `<div style="padding:16px; border:1px solid var(--border); border-radius: 12px; background:#0e141c">Failed to load data.<br><span class="muted">${escapeHTML(err.message)}</span></div>`;
+    }
+  })();
+  </script>
+</body>
+</html>

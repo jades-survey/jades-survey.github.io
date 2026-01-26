@@ -1,0 +1,19 @@
+name	description	comment
+ID	Unique ID of source	form=J; integer
+RA	RA of source, ICRS, from detection image [unit: deg]	form=D; double
+DEC	Dec of source, ICRS, from detection image [unit: deg]	form=D; double
+X	X [unit: pix]	form=D
+Y	Y [unit: pix]	form=D
+XC	XC [unit: pix]	form=D
+YC	YC [unit: pix]	form=D
+BBOX_XMIN	BBOX_XMIN [unit: pix]	form=K
+BBOX_XMAX	BBOX_XMAX [unit: pix]	form=K
+BBOX_YMIN	BBOX_YMIN [unit: pix]	form=K
+BBOX_YMAX	BBOX_YMAX [unit: pix]	form=K
+NPIX_DET	NPIX_DET	form=D
+A	A [unit: arcsec]	form=D
+B	B [unit: arcsec]	form=D
+THETA	THETA [unit: deg]	form=D
+R_KRON_U	R_KRON_U [unit: nJy]	form=D
+FWHM	FWHM [unit: arcsec]	form=D
+GINI	GINI	form=D

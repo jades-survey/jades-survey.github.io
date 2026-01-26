@@ -1,0 +1,13 @@
+name	description	comment
+BAND	BAND	form=6A
+WAVE_PIVOT	WAVE_PIVOT [unit: microns]	form=E
+BANDWIDTH	BANDWIDTH [unit: microns]	form=E
+WAVE_MAX	WAVE_MAX [unit: microns]	form=E
+WAVE_MIN	WAVE_MIN [unit: microns]	form=E
+R_CIRC0	R_CIRC0 [unit: arcsec]	form=E
+AC_CIRC1	AC_CIRC1	form=E
+AC_CIRC2	AC_CIRC2	form=E
+AC_CIRC3	AC_CIRC3	form=E
+AC_CIRC4	AC_CIRC4	form=E
+AC_CIRC5	AC_CIRC5	form=E
+AC_CIRC6	AC_CIRC6	form=E

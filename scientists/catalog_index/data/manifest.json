@@ -1,0 +1,53 @@
+{
+  "title": "JADES DR5",
+  "hdu_list": [
+    {
+      "name": "FILTERS",
+      "tsv": "data/FILTERS.tsv"
+    },
+    {
+      "name": "FLAG",
+      "tsv": "data/FLAG.tsv"
+    },
+    {
+      "name": "SIZE",
+      "tsv": "data/SIZE.tsv"
+    },
+    {
+      "name": "CIRC",
+      "tsv": "data/CIRC.tsv"
+    },
+    {
+      "name": "CIRC_BSUB",
+      "tsv": "data/CIRC_BSUB.tsv"
+    },
+    {
+      "name": "CIRC_CONV",
+      "tsv": "data/CIRC_CONV.tsv"
+    },
+    {
+      "name": "CIRC_BSUB_CONV",
+      "tsv": "data/CIRC_BSUB_CONV.tsv"
+    },
+    {
+      "name": "KRON",
+      "tsv": "data/KRON.tsv"
+    },
+    {
+      "name": "KRON_CONV",
+      "tsv": "data/KRON_CONV.tsv"
+    },
+    {
+      "name": "MIRI",
+      "tsv": "data/MIRI.tsv"
+    },
+    {
+      "name": "PHOTOZ",
+      "tsv": "data/PHOTOZ.tsv"
+    },
+    {
+      "name": "PHOTOZ_KRON",
+      "tsv": "data/PHOTOZ_KRON.tsv"
+    }
+  ]
+}
