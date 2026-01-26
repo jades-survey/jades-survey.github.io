@@ -193,24 +193,49 @@
     return rows;
   }
 
+  // Default locations for GitHub Pages deployment.
+  // Query parameters (?src=..., ?groups=...) override these when present.
+  const DEFAULT_MANIFEST = 'data/manifest.json';
+  const DEFAULT_GROUPS   = 'data/group_descriptions.tsv';
 
   async function loadData(){
-    const src = new URLSearchParams(location.search).get('src');
-    if (src){
-      const manifest = await fetchJSON(src);
-      const hdu_list = [];
-      for (const h of manifest.hdu_list){
-        let entries;
-        if (h.tsv){ entries = await fetchTSV(h.tsv); }
-        else if (Array.isArray(h.entries)) { entries = h.entries; }
-        else { entries = []; }
-        hdu_list.push({ name: h.name, entries, rows: h.rows ?? entries.length });
-      }
-      return { title: manifest.title || 'Catalog', hdu_list };
+    const params = new URLSearchParams(location.search);
+
+    const src = params.get('src') || DEFAULT_MANIFEST;
+    const groupsUrl = params.get('groups') || DEFAULT_GROUPS;
+
+    // load manifest (always)
+    const manifest = await fetchJSON(src);
+
+    // load group descriptions if present
+    try {
+      window.GROUP_DESC = await fetchGroupOverrides(groupsUrl);
+    } catch (err) {
+      // optional: fail silently if groups file missing
+      console.warn('No group_descriptions.tsv found:', groupsUrl);
+      window.GROUP_DESC = {};
     }
-    // fallback minimal embedded demo
-    return { title: 'Catalog', hdu_list: [] };
+
+    const hdu_list = [];
+    for (const h of manifest.hdu_list){
+      let entries;
+      if (h.tsv){
+        entries = await fetchTSV(h.tsv);
+      } else if (Array.isArray(h.entries)) {
+        entries = h.entries;
+      } else {
+        entries = [];
+      }
+      hdu_list.push({
+        name: h.name,
+        entries,
+        rows: h.rows ?? entries.length
+      });
+    }
+
+    return { title: manifest.title || 'Catalog', hdu_list };
   }
+
 
   function detectFilterToken(name){
     for (const tok of FILTER_TOKENS){
@@ -222,7 +247,7 @@
 
   function baseKey(name, token){
     if (!token) return null;
-    return name.replace(new RegExp(`(^|_)${token}(_|$)`), '$1{F}$2');
+    return name.replace(new RegExp(`(^|_)${token}(_|$)`), '$1{BAND}$2');
   }
  
   // Build the flat search index and grouped caches per HDU
