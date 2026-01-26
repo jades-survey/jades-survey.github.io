@@ -1,13 +1,13 @@
 name	description	comment
-BAND	BAND	form=6A
-WAVE_PIVOT	WAVE_PIVOT [unit: microns]	form=E
-BANDWIDTH	BANDWIDTH [unit: microns]	form=E
-WAVE_MAX	WAVE_MAX [unit: microns]	form=E
-WAVE_MIN	WAVE_MIN [unit: microns]	form=E
-R_CIRC0	R_CIRC0 [unit: arcsec]	form=E
-AC_CIRC1	AC_CIRC1	form=E
-AC_CIRC2	AC_CIRC2	form=E
-AC_CIRC3	AC_CIRC3	form=E
-AC_CIRC4	AC_CIRC4	form=E
-AC_CIRC5	AC_CIRC5	form=E
-AC_CIRC6	AC_CIRC6	form=E
+BAND	Telescope bandpass name (e.g., F090W)	form=6A
+WAVE_PIVOT	Pivot wavelength of bandpass [unit: microns]	form=E
+BANDWIDTH	Bandwidth of bandpass [unit: microns]	form=E
+WAVE_MAX	Maximum effective wavelength of bandpass [unit: microns]	form=E
+WAVE_MIN	Minimum effective wavelength of bandpass [unit: microns]	form=E
+R_CIRC0	Radius encricling 80% of bandpass PSF energy [unit: arcsec]	form=E
+AC_CIRC1	Aperture correction applied to  bandpass CIRC1 photometry	form=E
+AC_CIRC2	Aperture correction applied to  bandpass CIRC2 photometry	form=E
+AC_CIRC3	Aperture correction applied to  bandpass CIRC3 photometry	form=E
+AC_CIRC4	Aperture correction applied to  bandpass CIRC4 photometry	form=E
+AC_CIRC5	Aperture correction applied to  bandpass CIRC5 photometry	form=E
+AC_CIRC6	Aperture correction applied to  bandpass CIRC6 photometry	form=E
