@@ -382,7 +382,7 @@
         <h2 style="margin:6px 0 0 0">${escapeHTML(h.name)}</h2>
         <div class="muted">${shownCount} shown • ${trueCount} total columns</div>
       </div>
-      <div class="muted">Click a name to copy</div>
+      <div class="muted">Click a field name to copy</div>
     </div>`;
 
     const rowsHtml = [];
@@ -571,13 +571,6 @@
   (async function init(){
    try {
       state.data = await loadData();
-
-      // NEW: optional group descriptions TSV (?groups=...)
-      const params = new URLSearchParams(location.search);
-      const groupsUrl = params.get('groups');
-      if (groupsUrl) {
-            window.GROUP_DESC = await fetchGroupOverrides(groupsUrl);
-      }
 
       document.title = state.data.title + ' · Catalog Dictionary';
       buildIndexAndGroups();
