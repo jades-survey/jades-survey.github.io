@@ -1,226 +1,226 @@
 name	description	comment
-ID	Unique ID of source	form=J; integer
-RA	RA of source, ICRS, from detection image [unit: deg]	form=D; double
-DEC	Dec of source, ICRS, from detection image [unit: deg]	form=D; double
-A_KRON	A_KRON [unit: arcsec]	form=D
-B_KRON	B_KRON [unit: arcsec]	form=D
-THETA_KRON	THETA_KRON [unit: deg]	form=D
-F070W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F070W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F070W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F070W_KRON_bkg	F070W_KRON_bkg [unit: nJy]	form=D
-A_KRON_S	A_KRON_S [unit: arcsec]	form=D
-B_KRON_S	B_KRON_S [unit: arcsec]	form=D
-THETA_KRON_S	THETA_KRON_S [unit: deg]	form=D
-F070W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F070W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F070W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F070W_KRON_S_bkg	F070W_KRON_S_bkg [unit: nJy]	form=D
-F090W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F090W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F090W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F090W_KRON_bkg	F090W_KRON_bkg [unit: nJy]	form=D
-F090W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F090W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F090W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F090W_KRON_S_bkg	F090W_KRON_S_bkg [unit: nJy]	form=D
-F105W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F105W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F105W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F105W_KRON_bkg	F105W_KRON_bkg [unit: nJy]	form=D
-F105W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F105W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F105W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F105W_KRON_S_bkg	F105W_KRON_S_bkg [unit: nJy]	form=D
-F115W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F115W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F115W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F115W_KRON_bkg	F115W_KRON_bkg [unit: nJy]	form=D
-F115W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F115W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F115W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F115W_KRON_S_bkg	F115W_KRON_S_bkg [unit: nJy]	form=D
-F125W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F125W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F125W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F125W_KRON_bkg	F125W_KRON_bkg [unit: nJy]	form=D
-F125W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F125W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F125W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F125W_KRON_S_bkg	F125W_KRON_S_bkg [unit: nJy]	form=D
-F140W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F140W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F140W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F140W_KRON_bkg	F140W_KRON_bkg [unit: nJy]	form=D
-F140W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F140W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F140W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F140W_KRON_S_bkg	F140W_KRON_S_bkg [unit: nJy]	form=D
-F150W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F150W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F150W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F150W_KRON_bkg	F150W_KRON_bkg [unit: nJy]	form=D
-F150W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F150W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F150W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F150W_KRON_S_bkg	F150W_KRON_S_bkg [unit: nJy]	form=D
-F160W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F160W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F160W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F160W_KRON_bkg	F160W_KRON_bkg [unit: nJy]	form=D
-F160W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F160W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F160W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F160W_KRON_S_bkg	F160W_KRON_S_bkg [unit: nJy]	form=D
-F162M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F162M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F162M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F162M_KRON_bkg	F162M_KRON_bkg [unit: nJy]	form=D
-F162M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F162M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F162M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F162M_KRON_S_bkg	F162M_KRON_S_bkg [unit: nJy]	form=D
-F182M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F182M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F182M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F182M_KRON_bkg	F182M_KRON_bkg [unit: nJy]	form=D
-F182M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F182M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F182M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F182M_KRON_S_bkg	F182M_KRON_S_bkg [unit: nJy]	form=D
-F200W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F200W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F200W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F200W_KRON_bkg	F200W_KRON_bkg [unit: nJy]	form=D
-F200W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F200W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F200W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F200W_KRON_S_bkg	F200W_KRON_S_bkg [unit: nJy]	form=D
-F210M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F210M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F210M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F210M_KRON_bkg	F210M_KRON_bkg [unit: nJy]	form=D
-F210M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F210M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F210M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F210M_KRON_S_bkg	F210M_KRON_S_bkg [unit: nJy]	form=D
-F250M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F250M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F250M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F250M_KRON_bkg	F250M_KRON_bkg [unit: nJy]	form=D
-F250M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F250M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F250M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F250M_KRON_S_bkg	F250M_KRON_S_bkg [unit: nJy]	form=D
-F277W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F277W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F277W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F277W_KRON_bkg	F277W_KRON_bkg [unit: nJy]	form=D
-F277W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F277W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F277W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F277W_KRON_S_bkg	F277W_KRON_S_bkg [unit: nJy]	form=D
-F300M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F300M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F300M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F300M_KRON_bkg	F300M_KRON_bkg [unit: nJy]	form=D
-F300M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F300M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F300M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F300M_KRON_S_bkg	F300M_KRON_S_bkg [unit: nJy]	form=D
-F335M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F335M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F335M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F335M_KRON_bkg	F335M_KRON_bkg [unit: nJy]	form=D
-F335M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F335M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F335M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F335M_KRON_S_bkg	F335M_KRON_S_bkg [unit: nJy]	form=D
-F356W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F356W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F356W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F356W_KRON_bkg	F356W_KRON_bkg [unit: nJy]	form=D
-F356W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F356W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F356W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F356W_KRON_S_bkg	F356W_KRON_S_bkg [unit: nJy]	form=D
-F410M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F410M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F410M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F410M_KRON_bkg	F410M_KRON_bkg [unit: nJy]	form=D
-F410M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F410M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F410M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F410M_KRON_S_bkg	F410M_KRON_S_bkg [unit: nJy]	form=D
-F430M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F430M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F430M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F430M_KRON_bkg	F430M_KRON_bkg [unit: nJy]	form=D
-F430M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F430M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F430M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F430M_KRON_S_bkg	F430M_KRON_S_bkg [unit: nJy]	form=D
-F435W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F435W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F435W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F435W_KRON_bkg	F435W_KRON_bkg [unit: nJy]	form=D
-F435W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F435W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F435W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F435W_KRON_S_bkg	F435W_KRON_S_bkg [unit: nJy]	form=D
-F444W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F444W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F444W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F444W_KRON_bkg	F444W_KRON_bkg [unit: nJy]	form=D
-F444W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F444W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F444W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F444W_KRON_S_bkg	F444W_KRON_S_bkg [unit: nJy]	form=D
-F460M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F460M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F460M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F460M_KRON_bkg	F460M_KRON_bkg [unit: nJy]	form=D
-F460M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F460M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F460M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F460M_KRON_S_bkg	F460M_KRON_S_bkg [unit: nJy]	form=D
-F480M_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F480M_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F480M_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F480M_KRON_bkg	F480M_KRON_bkg [unit: nJy]	form=D
-F480M_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F480M_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F480M_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F480M_KRON_S_bkg	F480M_KRON_S_bkg [unit: nJy]	form=D
-F606W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F606W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F606W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F606W_KRON_bkg	F606W_KRON_bkg [unit: nJy]	form=D
-F606W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F606W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F606W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F606W_KRON_S_bkg	F606W_KRON_S_bkg [unit: nJy]	form=D
-F775W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F775W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F775W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F775W_KRON_bkg	F775W_KRON_bkg [unit: nJy]	form=D
-F775W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F775W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F775W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F775W_KRON_S_bkg	F775W_KRON_S_bkg [unit: nJy]	form=D
-F814W_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F814W_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F814W_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F814W_KRON_bkg	F814W_KRON_bkg [unit: nJy]	form=D
-F814W_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F814W_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F814W_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F814W_KRON_S_bkg	F814W_KRON_S_bkg [unit: nJy]	form=D
-F850LP_KRON	Flux of source within aperture R_KRON (nJy) [unit: nJy]	form=D
-F850LP_KRON_e	Flux NMAD uncertainty of source within aperture R_KRON, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F850LP_KRON_ei	Flux uncertainty of source within aperture R_KRON, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F850LP_KRON_bkg	F850LP_KRON_bkg [unit: nJy]	form=D
-F850LP_KRON_S	Flux of source within aperture R_KRON_S of 0.50'' radius (nJy) [unit: nJy]	form=D
-F850LP_KRON_S_e	Flux NMAD uncertainty of source within aperture R_KRON_S, measured from a series of random apertures (nJy) [unit: nJy]	form=D
-F850LP_KRON_S_ei	Flux uncertainty of source within aperture R_KRON_S, measured from the ERR extension (nJy) [unit: nJy]	form=D
-F850LP_KRON_S_bkg	F850LP_KRON_S_bkg [unit: nJy]	form=D
+ID	Unique source identifier	form=K; integer
+RA	Right ascension [unit: deg]	form=D; double
+DEC	Declination [unit: deg]	form=D; double
+A_KRON	Semimajor axis size of aperture defined with Kron parameter k = 2.5 [unit: arcsec]	form=D
+B_KRON	Semiminor axis size of aperture defined with Kron parameter k = 2.5 [unit: arcsec]	form=D
+THETA_KRON	Position angle of Kron aperture semimajor axis relative to image x-axis, for Kron parameter k = 2.5 [unit: deg]	form=D
+A_KRON_S	Semimajor axis size of aperture defined with Kron parameter k = 1.4 [unit: arcsec]	form=D
+B_KRON_S	Semiminor axis size of aperture defined with Kron parameter k = 1.4 [unit: arcsec]	form=D
+THETA_KRON_S	Position angle of Kron aperture semimajor axis relative to image x-axis, for Kron parameter k = 1.4 [unit: deg]	form=D
+F070W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F070W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F070W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F070W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F070W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F070W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F070W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F070W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F090W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F090W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F090W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F090W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F090W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F090W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F090W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F090W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F105W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F105W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F105W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F105W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F105W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F105W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F105W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F105W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F115W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F115W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F115W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F115W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F115W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F115W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F115W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F115W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F125W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F125W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F125W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F125W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F125W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F125W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F125W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F125W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F140W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F140W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F140W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F140W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F140W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F140W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F140W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F140W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F150W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F150W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F150W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F150W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F150W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F150W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F150W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F150W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F160W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F160W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F160W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F160W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F160W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F160W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F160W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F160W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F162M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F162M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F162M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F162M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F162M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F162M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F162M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F162M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F182M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F182M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F182M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F182M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F182M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F182M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F182M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F182M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F200W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F200W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F200W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F200W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F200W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F200W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F200W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F200W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F210M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F210M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F210M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F210M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F210M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F210M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F210M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F210M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F250M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F250M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F250M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F250M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F250M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F250M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F250M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F250M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F277W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F277W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F277W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F277W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F277W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F277W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F277W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F277W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F300M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F300M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F300M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F300M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F300M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F300M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F300M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F300M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F335M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F335M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F335M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F335M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F335M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F335M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F335M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F335M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F356W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F356W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F356W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F356W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F356W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F356W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F356W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F356W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F410M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F410M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F410M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F410M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F410M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F410M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F410M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F410M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F430M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F430M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F430M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F430M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F430M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F430M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F430M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F430M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F435W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F435W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F435W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F435W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F435W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F435W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F435W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F435W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F444W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F444W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F444W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F444W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F444W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F444W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F444W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F444W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F460M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F460M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F460M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F460M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F460M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F460M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F460M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F460M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F480M_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F480M_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F480M_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F480M_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F480M_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F480M_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F480M_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F480M_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F606W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F606W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F606W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F606W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F606W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F606W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F606W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F606W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F775W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F775W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F775W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F775W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F775W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F775W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F775W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F775W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F814W_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F814W_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F814W_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F814W_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F814W_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F814W_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F814W_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F814W_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E
+F850LP_KRON	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 2.5 [unit: nJy]	form=E
+F850LP_KRON_bkg	Background subtraction value for {BAND}_KRON with Kron parameter k = 2.5 [unit: nJy]	form=E
+F850LP_KRON_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression applied to common-PSF image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F850LP_KRON_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 2.5 [unit: nJy]	form=E
+F850LP_KRON_S	Aperture-corrected, background-subtracted flux for filter {BAND} common-PSF image within the aperture with Kron parameter k = 1.4 [unit: nJy]	form=E
+F850LP_KRON_S_bkg	Background subtraction value for {BAND}_KRON_S with Kron parameter k = 1.4 [unit: nJy]	form=E
+F850LP_KRON_S_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression using Kron parameter k = 1.4 [unit: nJy]	form=E
+F850LP_KRON_S_ei	Aperture-corrected flux uncertainty determined from common-PSF ERR image using Kron parameter k = 1.4 [unit: nJy]	form=E

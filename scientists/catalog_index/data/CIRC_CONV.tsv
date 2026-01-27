@@ -1,571 +1,571 @@
 name	description	comment
-ID	Unique ID of source	form=J; integer
-RA	RA of source, ICRS, from detection image [unit: deg]	form=D; double
-DEC	Dec of source, ICRS, from detection image [unit: deg]	form=D; double
-F070W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F070W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F070W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F070W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F070W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F070W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F070W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F070W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F070W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F070W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F070W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F070W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F070W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F070W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F070W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F090W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F090W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F090W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F090W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F090W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F090W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F090W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F090W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F090W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F105W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F105W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F105W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F105W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F105W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F105W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F105W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F105W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F105W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F115W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F115W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F115W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F115W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F115W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F115W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F115W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F115W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F115W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F125W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F125W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F125W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F125W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F125W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F125W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F125W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F125W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F125W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F140W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F140W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F140W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F140W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F140W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F140W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F140W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F140W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F140W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F150W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F150W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F150W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F150W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F150W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F150W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F150W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F150W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F150W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F160W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F160W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F160W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F160W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F160W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F160W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F160W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F160W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F160W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F162M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F162M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F162M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F162M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F162M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F162M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F162M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F162M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F162M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F182M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F182M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F182M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F182M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F182M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F182M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F182M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F182M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F182M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F200W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F200W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F200W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F200W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F200W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F200W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F200W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F200W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F200W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F210M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F210M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F210M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F210M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F210M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F210M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F210M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F210M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F210M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F250M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F250M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F250M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F250M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F250M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F250M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F250M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F250M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F250M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F277W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F277W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F277W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F277W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F277W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F277W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F277W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F277W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F277W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F300M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F300M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F300M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F300M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F300M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F300M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F300M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F300M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F300M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F335M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F335M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F335M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F335M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F335M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F335M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F335M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F335M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F335M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F356W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F356W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F356W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F356W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F356W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F356W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F356W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F356W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F356W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F410M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F410M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F410M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F410M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F410M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F410M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F410M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F410M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F410M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F430M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F430M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F430M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F430M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F430M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F430M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F430M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F430M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F430M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F435W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F435W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F435W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F435W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F435W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F435W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F435W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F435W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F435W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F444W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F444W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F444W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F444W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F444W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F444W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F444W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F444W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F444W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F460M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F460M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F460M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F460M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F460M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F460M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F460M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F460M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F460M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F480M_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F480M_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F480M_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F480M_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F480M_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F480M_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F480M_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F480M_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F480M_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F606W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F606W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F606W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F606W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F606W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F606W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F606W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F606W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F606W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F775W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F775W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F775W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F775W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F775W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F775W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F775W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F775W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F775W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F814W_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F814W_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F814W_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F814W_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F814W_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F814W_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F814W_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F814W_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F814W_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC0	Flux of source within a circular aperture of 80% enclosed energy radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC0_e	Flux NMAD uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC0_ei	Flux uncertainty of source within a circular aperture of 80% enclosed energy radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC1	Flux of source within a circular aperture of 0.10'' radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC1_e	Flux NMAD uncertainty of source within a circular aperture of 0.10'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC1_ei	Flux uncertainty of source within a circular aperture of 0.10'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC2	Flux of source within a circular aperture of 0.15'' radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC2_e	Flux NMAD uncertainty of source within a circular aperture of 0.15'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC2_ei	Flux uncertainty of source within a circular aperture of 0.15'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC3	Flux of source within a circular aperture of 0.25'' radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC3_e	Flux NMAD uncertainty of source within a circular aperture of 0.25'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC3_ei	Flux uncertainty of source within a circular aperture of 0.25'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC4	Flux of source within a circular aperture of 0.30'' radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC4_e	Flux NMAD uncertainty of source within a circular aperture of 0.30'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC4_ei	Flux uncertainty of source within a circular aperture of 0.30'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC5	Flux of source within a circular aperture of 0.35'' radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC5_e	Flux NMAD uncertainty of source within a circular aperture of 0.35'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC5_ei	Flux uncertainty of source within a circular aperture of 0.35'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
-F850LP_CIRC6	Flux of source within a circular aperture of 0.50'' radius (nJy) [unit: nJy]	form=E
-F850LP_CIRC6_e	Flux NMAD uncertainty of source within a circular aperture of 0.50'' radius, measured from a series of random apertures (nJy) [unit: nJy]	form=E
-F850LP_CIRC6_ei	Flux uncertainty of source within a circular aperture of 0.50'' radius, measured from the ERR extension (nJy) [unit: nJy]	form=E
+ID	Unique source identifier	form=K; integer
+RA	Right ascension [unit: deg]	form=D; double
+DEC	Declination [unit: deg]	form=D; double
+F070W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F070W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F070W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F070W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F070W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F070W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F070W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F070W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F070W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F070W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F070W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F070W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F070W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F070W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F070W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F090W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F090W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F090W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F090W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F090W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F090W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F090W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F090W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F090W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F105W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F105W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F105W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F105W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F105W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F105W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F105W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F105W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F105W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F115W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F115W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F115W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F115W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F115W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F115W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F115W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F115W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F115W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F125W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F125W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F125W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F125W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F125W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F125W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F125W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F125W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F125W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F140W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F140W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F140W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F140W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F140W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F140W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F140W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F140W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F140W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F150W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F150W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F150W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F150W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F150W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F150W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F150W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F150W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F150W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F160W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F160W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F160W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F160W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F160W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F160W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F160W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F160W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F160W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F160W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F160W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F160W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F160W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F160W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F160W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F162M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F162M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F162M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F162M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F162M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F162M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F162M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F162M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F162M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F162M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F162M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F162M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F162M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F162M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F162M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F182M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F182M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F182M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F182M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F182M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F182M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F182M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F182M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F182M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F182M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F182M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F182M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F182M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F182M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F182M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F200W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F200W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F200W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F200W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F200W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F200W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F200W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F200W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F200W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F200W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F200W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F200W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F200W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F200W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F200W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F210M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F210M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F210M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F210M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F210M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F210M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F210M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F210M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F210M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F210M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F210M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F210M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F210M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F210M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F210M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F250M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F250M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F250M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F250M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F250M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F250M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F250M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F250M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F250M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F250M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F250M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F250M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F250M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F250M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F250M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F277W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F277W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F277W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F277W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F277W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F277W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F277W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F277W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F277W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F277W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F277W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F277W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F277W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F277W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F277W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F300M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F300M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F300M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F300M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F300M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F300M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F300M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F300M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F300M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F300M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F300M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F300M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F300M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F300M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F300M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F335M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F335M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F335M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F335M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F335M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F335M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F335M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F335M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F335M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F335M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F335M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F335M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F335M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F335M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F335M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F356W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F356W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F356W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F356W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F356W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F356W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F356W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F356W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F356W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F356W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F356W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F356W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F356W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F356W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F356W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F410M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F410M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F410M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F410M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F410M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F410M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F410M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F410M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F410M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F410M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F410M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F410M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F410M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F410M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F410M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F430M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F430M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F430M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F430M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F430M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F430M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F430M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F430M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F430M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F430M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F430M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F430M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F430M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F430M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F430M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F435W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F435W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F435W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F435W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F435W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F435W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F435W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F435W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F435W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F435W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F435W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F435W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F435W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F435W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F435W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F444W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F444W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F444W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F444W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F444W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F444W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F444W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F444W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F444W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F444W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F444W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F444W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F444W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F444W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F444W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F460M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F460M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F460M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F460M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F460M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F460M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F460M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F460M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F460M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F460M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F460M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F460M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F460M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F460M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F460M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F480M_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F480M_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F480M_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F480M_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F480M_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F480M_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F480M_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F480M_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F480M_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F480M_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F480M_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F480M_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F480M_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F480M_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F480M_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F606W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F606W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F606W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F606W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F606W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F606W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F606W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F606W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F606W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F606W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F606W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F606W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F606W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F606W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F606W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F775W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F775W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F775W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F775W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F775W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F775W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F775W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F775W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F775W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F775W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F775W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F775W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F775W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F775W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F775W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F814W_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F814W_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F814W_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F814W_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F814W_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F814W_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F814W_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F814W_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F814W_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F814W_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F814W_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F814W_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F814W_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F814W_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F814W_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC0	Aperture-corrected flux for filter {BAND} for common-PSF image within a circular aperture enclosing 80% of the PSF energy [unit: nJy]	form=E
+F850LP_CIRC0_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertaintymodel regression [unit: nJy]	form=E
+F850LP_CIRC0_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC1	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.1'' circular aperture [unit: nJy]	form=E
+F850LP_CIRC1_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F850LP_CIRC1_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC2	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.15'' circular aperture [unit: nJy]	form=E
+F850LP_CIRC2_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F850LP_CIRC2_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC3	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.25'' circular aperture [unit: nJy]	form=E
+F850LP_CIRC3_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F850LP_CIRC3_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC4	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.30'' circular aperture [unit: nJy]	form=E
+F850LP_CIRC4_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F850LP_CIRC4_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC5	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.35'' circular aperture [unit: nJy]	form=E
+F850LP_CIRC5_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F850LP_CIRC5_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
+F850LP_CIRC6	Aperture-corrected flux for filter {BAND} for common-PSF image within r = 0.5'' circular aperture [unit: nJy]	form=E
+F850LP_CIRC6_e	Aperture-corrected flux uncertainty for filter {BAND} determined from uncertainty model regression [unit: nJy]	form=E
+F850LP_CIRC6_ei	Aperture-corrected flux uncertainty determined from mosaic ERR image [unit: nJy]	form=E
