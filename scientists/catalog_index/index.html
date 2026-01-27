@@ -31,6 +31,21 @@
     h1 { font-size: 26px; margin: 0; letter-spacing: 0.2px; }
     .sub { color: var(--muted); font-size: 13px; margin-top: 6px; }
 
+    .header-brand{
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .brand-logo{
+      width: 88px;
+      height: 88px;
+      object-fit: contain;
+      transform: scale(1.8);
+      border-radius: 6px;          /* softens square edges */
+      background: transparent;
+    }
+
     /* controls */
     .controls { display: grid; grid-template-columns: 1fr auto auto; gap: 10px; }
     .search {
@@ -103,10 +118,16 @@
 <body>
   <div class="wrap">
     <header>
-      <div>
-        <h1>JADES Catalog Dictionary</h1>
-        <div class="sub">Browse HDUs, read column descriptions, and search across the entire catalog.</div>
-      </div>
+      <div class="header-brand">
+        <a href="https://jades-survey.github.io" aria-label="JADES Survey home">
+             <img src="assets/jades_logo.png"
+             alt="JADES Survey logo"
+             class="brand-logo" />
+        </a>
+        <div>
+          <h1>JADES Catalog Dictionary</h1>
+          <div class="sub">Browse HDUs, read column descriptions, and search across the entire catalog.</div>
+        </div>
       <div class="controls">
         <label class="search" title="Type to search names, descriptions, and comments. Press / to focus.">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right:8px"><path d="M21 21l-4.2-4.2" stroke="var(--muted)" stroke-width="1.5" stroke-linecap="round"/><circle cx="11" cy="11" r="7" stroke="var(--muted)" stroke-width="1.5"/></svg>
